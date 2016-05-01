@@ -1,39 +1,38 @@
 ---
-layout: splash
 permalink: /
-date:
+title: "Justin Too"
 header:
-  overlay_color: "#5e616c"
-  overlay_image: mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
-  caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small>Currently at version 3.1.3</small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
-feature_row:
-  - image_path: mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_label: "Learn More"
-  - image_path: mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_label: "Learn More"
-  - image_path: mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License."
-    url: "/docs/license/"
-    btn_label: "Learn More"
-github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
-intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+  image: "http://res.cloudinary.com/justintoo/image/upload/v1462090213/justintoo-raam-quote-4_suq7fb.jpg"
+excerpt: "Justin Too is an Ultra-endurance Christian leader, Social Entrepreneur, Technical project manager, Software developer, and Creative media professional.."
+layout: home
+modified: 2016-05-02T02:26:33-07:00
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include base_path %}
 
-{% include feature_row %}
+{% for post in site.posts limit:1 %}
+<h1>{{ post.title }}</h1>
+<span>{{ post.date | date_to_string }}</span> &raquo;
+  {{ post.content | split:'<!--more-->' | first }}<br/>
+  <a href="{{ post.url }}">Read more...</a><br><br>
+{% endfor %}
+
+## Featured Posts
+
+<div class="page__featured">
+  <div class="grid__wrapper">
+  {% for post in site.categories.Featured  limit:4%}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+  </div>
+</div>
+
+## Latest Posts
+
+<div class="page__latest">
+  <div class="grid__wrapper">
+  {% for post in site.posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+  </div>
+</div>
