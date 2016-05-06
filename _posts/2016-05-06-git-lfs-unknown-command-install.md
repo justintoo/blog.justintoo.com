@@ -27,6 +27,18 @@ Run 'git-lfs --help' for usage.
 
 I encountered this `git-lfs` error when attempting to initialize the [Git Large File Storage (LFS)](https://git-lfs.github.com/) for the very first time with `git-lfs/1.0.2` on Mac OS X El Capitan version `10.11.4`.
 
+
+{% capture fig_img %}
+![Git LFS Error on the Commandline](http://res.cloudinary.com/justintoo/image/upload/v1462516217/2016-05-06-git-lfs-unknown-command-install_wote8r.gif 'Git LFS Error on the Commandline')
+{% endcapture %}
+
+<figure>
+  <figcaption>Encountering the problem on the commandline.</figcaption>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
+
+<!--more-->
+
 # Solution
 ```bash
 $ git lfs init
@@ -35,8 +47,6 @@ Git LFS initialized.
 $ echo $?
 0
 ```
-
-<!--more-->
 
 I found an existing [Issue #888 on github/git-lfs](https://github.com/github/git-lfs/issues/888):
 
