@@ -5,6 +5,7 @@ header:
   image: orbits.png
   teaser: orbits.png
 categories:
+  - Featured
   - Social Entrepreneur
 tags:
   - relationships
