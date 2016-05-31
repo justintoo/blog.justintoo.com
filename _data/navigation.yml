@@ -15,3 +15,9 @@ software:
     children:
       - title: "Atom.io"
         url: /software/atom-io/
+  - title: "Storage & Backup"
+    children:
+      - title: "Backblaze.com"
+        url: /software/storage-and-backups/backblaze/
+      - title: "Cyberduck.io"
+        url: /software/storage-and-backups/duck-io/

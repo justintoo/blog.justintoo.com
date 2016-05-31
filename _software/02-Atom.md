@@ -1,7 +1,7 @@
 ---
 title: "Atom.io"
 permalink: /software/atom-io/
-excerpt: "How the theme is organized and what all of the files are for."
+excerpt: "A text editor that's modern, approachable, yet hackable."
 modified: 2016-04-30T22:42:53-07:00
 header:
   image: "http://res.cloudinary.com/justintoo/image/upload/v1462084340/install-atom-plugins_fu9xwf.gif"
