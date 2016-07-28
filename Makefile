@@ -1,3 +1,6 @@
+bundle:
+	bundle install
+
 node_modules:
 	npm install
 
