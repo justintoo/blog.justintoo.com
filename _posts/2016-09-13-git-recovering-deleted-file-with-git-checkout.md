@@ -68,7 +68,7 @@ In my example:
 ```bash
 $ git checkout HEAD config/rose_edg_required_macros_and_functions.h.cmake
 
-git status
+$ git status
 # HEAD detached from origin/too1/ROSE-490-cmake-builtin-functions-header-file
 # Changes to be committed:
 #   (use "git reset HEAD <file>..." to unstage)
