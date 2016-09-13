@@ -167,6 +167,7 @@ defaults:
       comments: true
       share: true
       related: true
+      tags: true
   # _pages
   - scope:
       path: ""
