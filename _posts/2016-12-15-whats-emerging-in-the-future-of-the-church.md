@@ -12,6 +12,7 @@ tags:
   - emergent
   - movement
   - christianity
+  - future of the church
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}
