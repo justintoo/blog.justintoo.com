@@ -23,7 +23,7 @@ tags:
 
 I'm currently looking for a framework to help me think about how we can unify the work of the Church in a landscape filled with inescapable diversity - be it cultural, traditional, denominational, generational, or theological.
 
- <!--more-->
+<!--more-->
 
 # The Lost Practice of Cooperation
 
