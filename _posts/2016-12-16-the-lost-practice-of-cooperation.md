@@ -47,6 +47,6 @@ Yet though I believe it is imperative for the Church to cooperate, that doesn't 
 
 On the flip-side, just because it's not easy doesn't mean it couldn't, wouldn't, or shouldn't happen.
 
-*Use it or lose it*, the old adage goes - *practice makes perfect*.
+ Just because it isn't here now doesn't mean it hasn't been here before. Cooperation is simply a lost practice. *Use it or lose it*, the old adage goes.
 
 ![Working Together](/images/posts/2016/12-december/2016-12-16-the-lost-practice-of-cooperation/working-together.jpg){: .align-center}
