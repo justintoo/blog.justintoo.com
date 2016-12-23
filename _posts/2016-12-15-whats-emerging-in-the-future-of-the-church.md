@@ -7,7 +7,7 @@ header:
 categories:
   - Featured
   - Emergent
-  - Christianity
+  - Ministry
 tags:
   - emergent
   - movement

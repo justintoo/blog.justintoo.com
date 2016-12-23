@@ -6,7 +6,7 @@ header:
   teaser:
 categories:
   - Emergent
-  - Christianity
+  - Ministry
 tags:
   - emergent
   - movement
