@@ -108,3 +108,11 @@ Unexpectedly yet not accidentally, God revealed his missional theme for my life 
 2017 will be the year of Emergence...
 
 What that means, how it relates to fish, innovation, forest floors, the emergent frontier, and the future of the church, is still a puzzle to me, but seemingly it's a puzzle I'll be piecing together in 2017.
+
+# Resources
+
+The following is a growing list of my blog posts in my journey to piece together the future of the church:
+
+1. [The Lost Practice of Cooperation?]({% post_url 2016-12-16-the-lost-practice-of-cooperation %})
+2. [T-NET: Training and Coaching Pastors to Finish the Great Commission...Worldwide]({% post_url 2016-12-17-t-net %})
+3. [StartChurch.com as a Christian Social Entrepreneur's Strategy for Tax & Legal]({% post_url 2016-12-23-starchurch-as-a-strategy %})
