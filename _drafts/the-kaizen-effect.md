@@ -1,3 +1,6 @@
+---
+title: "The Kaizen Effect"
+---
 
 Brandon Picone, 12/19/16 at Biblical Business Training at FCC
 
