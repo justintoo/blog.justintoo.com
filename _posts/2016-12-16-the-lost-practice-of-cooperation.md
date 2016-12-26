@@ -5,15 +5,13 @@ header:
   image:
   teaser:
 categories:
-  - Emergent
   - Ministry
 tags:
-  - emergent
-  - movement
-  - christianity
   - cooperation
   - collaboration
   - gospel
+  - emergent christian movement
+  - christianity
   - future of the church
 ---
 

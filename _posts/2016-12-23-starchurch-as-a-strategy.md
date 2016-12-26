@@ -4,20 +4,19 @@ comments: true
 header:
   image: /posts/2016/12-december/2016-12-23-starchurch-dot-com/screenshot-startchurch-dot-com.jpg
 categories:
-  - Emergent
   - Ministry
   - Business
   - Nonprofit
 tags:
-  - research
-  - christianity
   - education
-  - emergent
+  - emergent christian movement
+  - christianity
   - future of the church
-  - movement
   - social entrepreneurism
-  - t-net
   - the great commission
+  - tax
+  - legal
+  - innovation
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}

@@ -6,13 +6,13 @@ header:
   teaser:
 categories:
   - Featured
-  - Emergent
   - Ministry
+  - Nonprofit
 tags:
-  - emergent
-  - movement
+  - emergent christian movement
   - christianity
   - future of the church
+  - innovation
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}

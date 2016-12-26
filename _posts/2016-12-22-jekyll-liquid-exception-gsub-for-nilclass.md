@@ -13,6 +13,8 @@ tags:
   - problem-solution
   - ruby
   - ruby-3.0.3
+  - blog
+  - website
 ---
 
 {% include base_path %}
