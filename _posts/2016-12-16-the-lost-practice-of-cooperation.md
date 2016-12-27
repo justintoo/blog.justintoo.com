@@ -5,7 +5,7 @@ header:
   image:
   teaser:
 categories:
-  - Ministry
+  - Faith
 tags:
   - cooperation
   - collaboration

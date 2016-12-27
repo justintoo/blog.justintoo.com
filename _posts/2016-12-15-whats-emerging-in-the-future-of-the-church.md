@@ -6,7 +6,7 @@ header:
   teaser:
 categories:
   - Featured
-  - Ministry
+  - Faith
   - Nonprofit
 tags:
   - emergent christian movement

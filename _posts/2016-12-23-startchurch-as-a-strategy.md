@@ -4,7 +4,7 @@ comments: true
 header:
   image: /posts/2016/12-december/2016-12-23-starchurch-dot-com/screenshot-startchurch-dot-com.jpg
 categories:
-  - Ministry
+  - Faith
   - Business
   - Nonprofit
 tags:
