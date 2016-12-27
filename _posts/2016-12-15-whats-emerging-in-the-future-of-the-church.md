@@ -115,4 +115,5 @@ The following is a growing list of my blog posts in my journey to piece together
 
 1. [The Lost Practice of Cooperation?]({% post_url 2016-12-16-the-lost-practice-of-cooperation %})
 2. [T-NET: Training and Coaching Pastors to Finish the Great Commission...Worldwide]({% post_url 2016-12-17-t-net %})
-3. [StartChurch.com as a Christian Social Entrepreneur's Strategy for Tax & Legal]({% post_url 2016-12-23-starchurch-as-a-strategy %})
+3. [StartChurch.com as a Christian Social Entrepreneur's Strategy for Tax & Legal]({% post_url 2016-12-23-startchurch-as-a-strategy %})
+3. [Ephesians 2:10: God’s Workmanship and Our Works]({% post_url 2016-12-26-ephesians-2-10-our-works %})
