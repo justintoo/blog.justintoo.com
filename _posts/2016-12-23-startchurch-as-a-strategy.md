@@ -17,6 +17,10 @@ tags:
   - tax
   - legal
   - innovation
+  - holdings corporation
+  - ecclesiastical entrepreneur
+  - church
+  - startchurch
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}
@@ -104,3 +108,26 @@ For tax purposes, members of the clergy may be treated as either employees (pref
 ## [KeepRight Program](https://www.startchurch.com/services/keepright)
 
 Making Annual, Legal Compliance Easy!
+
+# Notes
+
+## December 27, 2016
+I spoke on the phone with Lester at [StartRight.com](https://www.startchurch.com) and he was very helpful in answering all of my questions and understanding all of my needs as an "ecclesiastical entrepreneur."
+
+The [StartRight Program](https://www.startchurch.com/services/501c3) is the service they provide to help you start a 501c3 church or nonprofit. Even for my already-incorporated nonprofit organization, [Project What Extent Inc.](http://whatextent.com/), they will start from the beginning to ensure their work will allow for a successful 501c3 tax-exemption application.
+
+I'm personally most interested in setting up a 1) [Holdings Corporation](https://www.startchurch.com/services/holdings-corporation), 2) [Community Development Corporation (CDC)](https://www.startchurch.com/services/community-development-corporation), which would be [Project What Extent](http://whatextent.com/), 3) a [Church](https://www.startchurch.com/services/501c3?abtest=501status), and 4) a [for-profit arm](https://www.startchurch.com/services/additional). Having these four entities in place will allow me to run a long-lasting, self-sustaining ecclesiastical enterprise.
+
+**Important notes to keep in mind**:
+
+* It's easier to apply for loans through a Holdings Corporation compared with through a church
+* A for-profit ministry arm must be 51% owned by the church
+* If I apply this month with their "current promotion," they will provide me with 3-4 free software packages and at least $150 off the cost for each corporation (`x4 = $600`)
+* The cost for the StartRight Program (church, nonprofit, and holdings corporation) is $2,443 ($349/month for seven months)
+* The cost for a for-profit ministry arm is $664 (332/month for two months)
+
+The total would then be `7993 - 600 (discount) = 7393`.
+
+**Outstanding Questions**:
+
+1. Does StartChurch provide the leasing contracts for the Holdings Corporation?
