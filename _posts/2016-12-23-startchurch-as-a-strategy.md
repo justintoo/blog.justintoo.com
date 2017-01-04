@@ -8,9 +8,7 @@ categories:
   - Business
   - Nonprofit
 tags:
-  - education
   - emergent christian movement
-  - christianity
   - future of the church
   - social entrepreneurism
   - the great commission
@@ -20,7 +18,7 @@ tags:
   - holdings corporation
   - ecclesiastical entrepreneur
   - church
-  - startchurch
+  - startchurch.com
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}
@@ -128,6 +126,52 @@ I'm personally most interested in setting up a 1) [Holdings Corporation](https:/
 
 The total would then be `7993 - 600 (discount) = 7393`.
 
+# FAQ's
+
+Questions I asked Lester (sales) and Caleb (specialist)
+
+1. **Does StartChurch provide the leasing contracts for the Holdings Corporation?** No
+2. **Will I be provided with all paperwork and documentation?** Yes - StartChurch also keeps a copy
+3. **What are the backgrounds/credentials/certifications of the specialists?** Unknown - seems like they are not necessarily tax/legal professionals, but they may have taken the [StartChurch University program](https://www.startchurch.com/university)
+4. **Can you extend the 12 month payment plan?** Yes - Will add 2 months for a total of 14 months
+5. **Can I receive discounts?** Yes - $150 ($50/exempt organization + $50 extra negotiated)
+6. **Can I receive free software?** Yes - 2 negotiated; Kingdom Steward for one year plus
+7. **What's the next steps with specialist(s)?** Will be assigned a StartChurch specialist for state-level and federal-level, and representation to speak with IRS agents; will be contacted within 72 hours of account opening
+8. **What is the timeline??** 6-8 weeks from account opening for state level (incorporation, EIN, etc); 6-12 months from account opening for federal IRS (501c3, etc.)
+9. **Is there a rush service?** Yes - $399 for 48 hour turnaround instead of 3 weeks for the initial state level incorporation documentation; must make sure a specialist is available first; collect info and prepare documentation within 48 hours
+10. **What enables the leasing between nonprofits and the holdings corporation?** Single parent holdings corporation (501c2) must have a parent (the nonprofit). Then with this relationship in place, implement a "Use Agreement" (terms of use) to use the holding corporation's assets - not necessary to exchange money for the use. In the Use Agreement, we will want to add a clause to permit subleasing from the holdings corporation > church > other nonprofit or for-profit arm.
+11. **Can I track progress or is there a procedural checklist?** No - but paperwork will be provided per entity so you can essentially put it together yourself.
+12. **Can I choose the state of incorporation for the for-profit arm to avoid California's $800 Franchise Tax on LLCs? Any restrictions on doing (media) business in California?** Yes, but check with CPA to figure out all the implications (e.g. corporate tax, "doing business as in another state", etc.).
+13. **What is the legal structure of the for-profit arm (e.g. LLC)?** Two options: 1) C Corporation (only structure that allows the nonprofit, i.e. another entity, to be a shareholder); nonprofit-to-nonprofit will not be subject to income taxes since both are exempt organizations; 2) S Corporation for multiple people-owners (another organization could never be an owner). Typically don't recommend outside investors due to disagreements and conflicts; it's simpler without other investors; it would also split the profit;
+14. **What is the legal structure of the holdings corporation (e.g. LLC, S Corporation)?** It's actually a 501c2 nonprofit holdings corporation organization with an exempt status so you can move assets between nonprofit, church, and holdings corporation without corporate taxes - income would simply move from nonprofit to holdings corporation as capital contributions. The Board simply resolves to donate to the holdings corporation.
+15. **What's the refund policy?** Refund can be provided at any time before work is done; can't refund completed work; initial work will be done within 3 weeks (articles of incorporation);
+16. **Is pastoral ordination included in the StartRight Program?** Yes - with all the requisite paperwork.
+17. **What is the service guarantee? What if something goes wrong or is not approved?** Full refund for services if exempt status is not obtained, but we've helped over 10,000 organizations, but lacking certain information (info not disclosed, e.g. conflict of interest) would make a difference. Refund Policy can be resent by Lester/specialist
+18. **Who owns the holdings corporation? Is it one stockholder? Member?** It is a single parent holdings corporation and the nonprofit (church) would own it.
+19. **Does StartChurch act as Agent for Service of Process for the lifetime of the organizations?** No
+20. **Are the bylaws customizable? Will I be allowed to provide input for every section allowing customization?** Yes - will have an appointment to extensively discuss the details, except for changes that would void our warranty/guarantee, e.g. something that would cause a conflict of interest. Everything you need and everything you don't, so you can govern with policies and handbooks for operations rather than hard-baked and rigid into the bylaws.
+21. **Are Policy Documents written for Conflict of Interest / Code of Ethics?** Yes - will provide initial board meeting minutes template; Policy packet contains about 10 policies - only adopt them if they're useful and applicable; simply use board meeting minutes template to adopt a resolution of the board for the new policies.
+22. **Can payments be delayed during waiting times? e.g. after 501c3 application is submitted and before approval is received?** No guarantee since the IRS takes their time, especially on churches. Just be sure if the IRS sends a message, send it to StartChurch to handle for us. StartChurch is flexible and will work with us on payment holds or movements if there is a legitimate delay.
+23. **Is it easy to add the for-profit arm after incorporation and tax-exemption of nonprofits?** Yes
+24. **Can the for-profit arm be 49% privately owned without conflicts of interest? What document/language provides this protection?** Yes, but have to be careful not to create a "business relationship", e.g. pastor of the church is chairman of the board (has a big say over the church and assets), then also 49% owner of the for-profit business. If you follow the Conflict of Interest policy the StartRight Program provides it can prevent a possible conflict of interest; another example involves if the pastor works for the for profit arm and the church and has some control/influence over the for profit arm.
+25. **Can the for-profit arm be 49% owned by any shareholder type? E.g. private individual or corporation?** Yes, also see #24.
+26. **Is the Holdings Corporation intended to hold the for-profit arm's assets too?** No - StartChurch holdings corporations can only work because the nonprofit holdings corporation is holding assets of another nonprofit, e.g. church.
+27. **Can PWE nonprofit be converted into Holdings Corporation?** Yes, see #34.
+28. **Can Holdings Corporation own the for-profit arm?** Yes, it is also a common strategy because then the for-profit arm can put its income into the holdings corporation as savings or to buy equipment; but **beware, it is outlined in IRS: holdings corporation must transfer income from assets (from shares or property) to parent (nonprofit) every year; it can happen one after the other, will want a paper trail though**
+29. **How can we money move from Holdings Corporation to nonprofit? church? for-profit arm?** The holdings corporation shouldn't be used as a savings account; it should act more as a shelter. If you move back and forth a lot you can run into problems. If the IRS/court sees you always took money from the holdings corporation when you were in trouble and then someone sued you, they could ask "Why don't you just reach out to the holdings corporation again for financial help to settle the litigation?"; mainly use holdings for assets like a car, building, equipment.
+30. **Can Holdings Corporation accept donations?** Yes - technically always from the church as capital contributions; but don't want to accept donations, should keep holdings corporation in the background insulated from operations and the general public.
+31. **Is Holdings Corporation tax exempt?** Yes
+32. **How can money move from church to Holdings Corporation?** As capital contributions through resolution from the board.
+33. **What are the rules/restrictions for leasing equipment to church? to for-profit arm?** Something you will specify in the "Terms of Use Agreement" between the holdings corporation, church, for-profit arm, and other entities.
+34. **Is it possible to re-class our existing nonprofit to act as our holdings corporation?** Usually not recommended, but it is a viable option for us since we haven't yet obtained our 501c3 tax exempt status.
+35. **What is StartChurch's Better Business B rating?** A+ BBB Rating, and this Business Is Not BBB Accredited; See the [BBB website](https://www.bbb.org/atlanta/business-reviews/professional-services-general/startchurchcom-in-lawrenceville-ga-9001035); 22 years in business in Lawrenceville, Georgia.
+
 **Outstanding Questions**:
 
-1. Does StartChurch provide the leasing contracts for the Holdings Corporation?
+1. Tax cost for C or S Corporation? Double taxation?
+2. 501c3 tax exemption for PWE (requirement to file within X months)
+3. Are capital contributions to the holdings corporation handled on a contribution-by-contribution basis, each as a board resolution? Can we have a policy in place to streamline this process?
+4. Can the holdings corporation hold Trademarks as an asset (e.g. logo)?
+5. Can you offer any discounts on the conference?
+6. Refund policy document/webpage?
+7. For #28, does income have to be transferred immediately? Is it net income? If only once per year, what if the income has already been spent?
