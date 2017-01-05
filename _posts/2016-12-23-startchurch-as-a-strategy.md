@@ -166,16 +166,16 @@ Questions I asked Lester (sales) and Caleb (specialist)
 34. **Is it possible to re-class our existing nonprofit to act as our holdings corporation?** Usually not recommended, but it is a viable option for us since we haven't yet obtained our 501c3 tax exempt status.
 35. **What is StartChurch's Better Business B rating?** A+ BBB Rating, and this Business Is Not BBB Accredited; See the [BBB website](https://www.bbb.org/atlanta/business-reviews/professional-services-general/startchurchcom-in-lawrenceville-ga-9001035); 22 years in business in Lawrenceville, Georgia.
 36. **For the free monthly payments plan, can I change the payment date?** Yes - the payment can be made anytime of the month.
+37. **Can you offer any discounts on the conference for existing customers?** Yes - it depends. Currently (1/5/17) there is a buy-one-get-one-free special for the 2 upcoming conferences in Baltimore or Minneapolis ($109/registration) plus $29 manual (optional to get more than one).
 
 **Outstanding Questions**:
 
-1. **Tax cost for C or S Corporation? Double taxation?**
+1. **Tax implications for C or S Corporation for-profit arm? Double taxation? Are accumulated earnings not taxed and then distributed to the Holdings Corporation tax free? Or taxed at the corporate level and then distributed tax free to the Holdings Corporation?**
 2. **501c3 tax exemption for PWE (requirement to file within X months)**
 3. **Are capital contributions to the holdings corporation handled on a contribution-by-contribution basis, each as a board resolution? Can we have a policy in place to streamline this process?**
 4. **Can the holdings corporation hold Trademarks as an asset (e.g. logo)?**
-5. **Can you offer any discounts on the conference?**
+5. **For #28, does income have to be transferred immediately? Is it net income? If only once per year, what if the income has already been spent?**
 6. **Refund policy document/webpage?**
-7. **For #28, does income have to be transferred immediately? Is it net income? If only once per year, what if the income has already been spent?**
 
 
 See [S and C Corporations Create Different Tax Consequences](http://www.bizfilings.com/toolkit/sbg/tax-info/fed-taxes/s-c-corporations-create-different-tax-consequences.aspx)
