@@ -165,13 +165,32 @@ Questions I asked Lester (sales) and Caleb (specialist)
 33. **What are the rules/restrictions for leasing equipment to church? to for-profit arm?** Something you will specify in the "Terms of Use Agreement" between the holdings corporation, church, for-profit arm, and other entities.
 34. **Is it possible to re-class our existing nonprofit to act as our holdings corporation?** Usually not recommended, but it is a viable option for us since we haven't yet obtained our 501c3 tax exempt status.
 35. **What is StartChurch's Better Business B rating?** A+ BBB Rating, and this Business Is Not BBB Accredited; See the [BBB website](https://www.bbb.org/atlanta/business-reviews/professional-services-general/startchurchcom-in-lawrenceville-ga-9001035); 22 years in business in Lawrenceville, Georgia.
+36. **For the free monthly payments plan, can I change the payment date?** Yes - the payment can be made anytime of the month.
 
 **Outstanding Questions**:
 
-1. Tax cost for C or S Corporation? Double taxation?
-2. 501c3 tax exemption for PWE (requirement to file within X months)
-3. Are capital contributions to the holdings corporation handled on a contribution-by-contribution basis, each as a board resolution? Can we have a policy in place to streamline this process?
-4. Can the holdings corporation hold Trademarks as an asset (e.g. logo)?
-5. Can you offer any discounts on the conference?
-6. Refund policy document/webpage?
-7. For #28, does income have to be transferred immediately? Is it net income? If only once per year, what if the income has already been spent?
+1. **Tax cost for C or S Corporation? Double taxation?**
+2. **501c3 tax exemption for PWE (requirement to file within X months)**
+3. **Are capital contributions to the holdings corporation handled on a contribution-by-contribution basis, each as a board resolution? Can we have a policy in place to streamline this process?**
+4. **Can the holdings corporation hold Trademarks as an asset (e.g. logo)?**
+5. **Can you offer any discounts on the conference?**
+6. **Refund policy document/webpage?**
+7. **For #28, does income have to be transferred immediately? Is it net income? If only once per year, what if the income has already been spent?**
+
+
+See [S and C Corporations Create Different Tax Consequences](http://www.bizfilings.com/toolkit/sbg/tax-info/fed-taxes/s-c-corporations-create-different-tax-consequences.aspx)
+
+On the other hand, if the corporation pays dividends to the shareholders, those payments are subject to corporate-level income tax.  However, the individual does not have to pay self-employment tax on the dividends.And, qualifying dividends (and most United States corporation dividends can fit into this definition) are taxed at capital gains rates and not the individual's top marginal tax rate. Finally, dividends paid to a shareholder that actively participates in the business are not subject to either the 0.9 percent Medicare surtax on earnings or the 3.8 percent tax on net investment income that are levied on higher-income taxpayers.
+
+Not Every Corp Can Be an S Corp
+
+While there is no income limitation on S corporation status, restrictions on the number and types of shareholders and the types of stock can make it difficult to operate a large business as an S corporation. In most cases, family-owned business and small businesses generally are not affected by the limitations.
+
+Only a corporation that meets all of the following requirements can make a valid S corporation election.
+
+* The corporation must be a domestic corporation. This means that it must have been created under federal, state, or U.S. territory and it must be taxed as a corporation under local law.
+* All shareholders must agree to the election.
+* There can only be one class of stock issued by the corporation. However, there can be both voting and nonvoting shares. A difference solely in voting rights does not create a separate class of stock.
+* There can not be more than 100 shareholders. However, certain related parties (such as husband and wife) are counted as a single member.
+* There can not be any nonresident alien or non-human entity shareholders, unless the shareholder is an estate or trust that is authorized to be an S corporation shareholder under the tax laws. Certain exempt organizations, such as qualified pension, profit-sharing, and stock bonus plans, or charitable organizations will be allowed to be shareholders in an S corporation (for purposes of determining the number of shareholders of an S corporation, a qualified tax-exempt shareholder counts as one shareholder).
+* An S corporation can hold qualifying wholly owned subsidiaries and can own 80 percent or more of the stock of a C corporation. The C corporation subsidiary can elect to join in the filing of a consolidated return with its affiliated C corporations, but the S corporation cannot join in the election.
