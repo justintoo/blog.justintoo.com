@@ -171,11 +171,11 @@ Questions I asked Lester (sales) and Caleb (specialist)
 **Outstanding Questions**:
 
 1. **Tax implications for C or S Corporation for-profit arm? Double taxation? Are accumulated earnings not taxed and then distributed to the Holdings Corporation tax free? Or taxed at the corporate level and then distributed tax free to the Holdings Corporation?**
-2. **501c3 tax exemption for PWE (requirement to file within X months)**
-3. **Are capital contributions to the holdings corporation handled on a contribution-by-contribution basis, each as a board resolution? Can we have a policy in place to streamline this process?**
-4. **Can the holdings corporation hold Trademarks as an asset (e.g. logo)?**
-5. **For #28, does income have to be transferred immediately? Is it net income? If only once per year, what if the income has already been spent?**
-6. **Refund policy document/webpage?**
+2. **Are capital contributions to the holdings corporation handled on a contribution-by-contribution basis, each as a board resolution? Can we have a policy in place to streamline this process?**
+3. **Can the holdings corporation hold Trademarks as an asset (e.g. logo)? Any restrictions on this topic?**
+4. **For #28, does income have to be transferred immediately? Or is it net income?**
+5. **Refund policy document/webpage?**
+6. **Will we be able to submit the 501c3 application for the holdings corporation before March?** *(To qualify for tax exemption retroactive to the date of its organization or formation, an organization claiming tax-exempt status under section 501(c)(3), 501(c)(9), or 501(c)(17) generally must file Form 1023, 1023-EZ, or 1024 within 27 months of the end of the month in which it was legally organized or formed. https://www.irs.gov/instructions/i990/ch01.html)*
 
 
 See [S and C Corporations Create Different Tax Consequences](http://www.bizfilings.com/toolkit/sbg/tax-info/fed-taxes/s-c-corporations-create-different-tax-consequences.aspx)
