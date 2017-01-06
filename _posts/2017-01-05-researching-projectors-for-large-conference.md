@@ -187,9 +187,11 @@ Most projectors are only able to throw a limited range of image sizes from any g
 
 ## Short List
 
-1080p/60 HDMI 1.4 projectors
+Our target is a 16:9 1920 widescreen 1080p/30-60 HDMI 1.4 projector over 5,000 lumens.
 
-Widescreen: Most video/computer outputs are 1920 widescreen
+We choose widescreen because modern video/computer outputs are typically outputting 1280-1920 16:9 widescreen.
+
+B&H recommends 5000+ lumens for a lecture hall or small church requiring a 10-foot-wide screen, and has a moderate amount of light.
 
 |---
 | Projector | Released | Brightness (lumens) | Resolution (output/input) | Contrast Ratio | Technology | Lamp Life (full/eco hrs) | Aspect Ratio | Throw Dist | Image Size | Zoom Lens | [MHL](https://en.wikipedia.org/wiki/Mobile_High-Definition_Link) | Price
@@ -281,12 +283,14 @@ Screen gain is a technical term that describes how the material of a projection 
 See [B&H: Da-Lite Fast-Fold Deluxe Systems](https://www.bhphotovideo.com/c/buy/Fast-Fold-Video-HDTV-Format/ci/4555/N/4034387516), [16:9, 165" - 184"](https://www.bhphotovideo.com/c/search?atclk=Image+Diagonal_159%22&ci=4555&N=4034387516+3879246451+4099205009+3896639525+3896639524+3879246448+3902263296+3879246447)
 
 |---
-| Projector Screen | Diagonal | Width | Height | Aspect Ratio | Gain | Front/Rear Projection | Price
+| # | Projector Screen | Diagonal | Width | Height | Aspect Ratio | Gain | Front/Rear Projection | Price
 |-|-
-| [Da-Lite 88703 Fast-Fold Deluxe Screen System](https://www.bhphotovideo.com/c/product/253140-REG/Da_Lite_88703_Deluxe_Complete_Fast_Fold_Portable.html) | 180" (15') | 104" (8.7') | 140" (11.7') | 4:3 | ? | Front/Rear | $1,330.40
-| [DRAPER 215024]() | 109" (9.1')| 92" (7.7') | 58" (4.8') | 16:10 | 1.0 | Front | [$436](https://www.projectorscreen.com/store/p/9008-Draper-215024-Diplomat/R-109-diag-58x92-Widescreen-16-10-Matt-White-XT1000E-1-0-Gain.html)
+| 1 | [Da-Lite 88703 Fast-Fold Deluxe Screen System](https://www.bhphotovideo.com/c/product/253140-REG/Da_Lite_88703_Deluxe_Complete_Fast_Fold_Portable.html) | 180" (15') | 104" (8.7') | 140" (11.7') | 4:3 | ? | Front/Rear | $1,330.40
+| 2 | [DRAPER 215024]() | 109" (9.1')| 92" (7.7') | 58" (4.8') | 16:10 | 1.0 | Front | [$436](https://www.projectorscreen.com/store/p/9008-Draper-215024-Diplomat/R-109-diag-58x92-Widescreen-16-10-Matt-White-XT1000E-1-0-Gain.html)
 |
 |---
+
+*Corporate A/V used a 180" (15') screen*
 
 ## Seating Distance
 
@@ -303,14 +307,19 @@ Calculate seating distance based on screen height vs the distance from the scree
 
 Also see [Draper Inc.'s Projection Screen Size Selection](http://www.draperinc.com/projectionscreens/screensizeselection.aspx).
 
-16:9 Aspect Ratio:
+### Diagonal Viewing
+
+See [Google: Right angled triangle calculator](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=calculate+right+triangle+side) to calculate diagonal *hypotenuse* seating distances:
 
 |---
-| Distance | Screen Diagonal | SMPTE Min | THX Min | THX Max | Visual Perception
+| # | Position | vertical (front-back) | horizontal (left-right) | diagonal
 |-|-
-| 75' | 109" | 553.4" (46')
-|
+| 1 | Front | 15' | 15' | [21.21'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
+| 1 | Middle | 45' | 15' | [47.43'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
+| 1 | Farthest | 75' | 30' | [80.78'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
 |---
+
+### Direct Viewing
 
 Here are screen-size-to-seating-distance recommendations based on an 16:9 aspect ratio projection using [ProjectorScreenStore.com's Viewing Distance Calculator](https://www.projectorscreenstore.com/viewing-distance-calculator.html):
 
@@ -323,6 +332,15 @@ Here are screen-size-to-seating-distance recommendations based on an 16:9 aspect
 |---
 
 *\*SMPTE = Society of Motion Picture & Television Engineers*
+
+16:9 Aspect Ratio:
+
+|---
+| Distance | Screen Diagonal | SMPTE Min | THX Min | THX Max | Visual Perception
+|-|-
+| 75' | 109" | 553.4" (46')
+|
+|---
 
 ## Viewing Angle
 
