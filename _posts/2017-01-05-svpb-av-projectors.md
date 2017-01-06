@@ -301,6 +301,26 @@ See [projectorcentral.com: Top 10 Conference Room Projectors](http://www.project
 >
 > [B&H's Buying Guide to Projectors](https://www.bhphotovideo.com/explora/video/buying-guide/projectors)
 
+# Seating Distance
+
+The venue utilizes two projector screens on both sides of the front stage.
+
+The distance from one screen to its corresponding side wall of the venue is roughly 30 feet, whereas the distance from the viewable front (around 15 feet) is roughly 75 feet.
+
+In other words, `30'x75'`.
+
+Of course, there is also the *diagonal viewing distance* that you have to keep in mind - *roughly 5 feet more than the 75' length of the venue*:
+
+|---
+| # | Position | Vertical (front-back) | Horizontal (left-right) | Diagonal
+|-|-
+| 1 | Front | 15' | 15' | [21.21'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
+| 1 | Middle | 45' | 15' | [47.43'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
+| 1 | Farthest | 75' | 30' | [80.78'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
+|---
+
+*See [Google: Right angled triangle calculator](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=calculate+right+triangle+side) to calculate diagonal hypotenuse seating distances.*
+
 # Projector Screens
 
 Types: Tripod screens, wall/ceiling, desktop
@@ -346,27 +366,7 @@ There is a good reference chart on point to pixel conversion if you are interest
 ## Gain
 Screen gain is a technical term that describes how the material of a projection screen affects the apparent brightness of images projected onto it. A projection screen can be made of materials that make images appear brighter or less bright than the images that come from the projector.
 
-# Seating Distance
-
-The venue utilizes two projector screens on both sides of the front stage.
-
-The distance from one screen to its corresponding side wall of the venue is roughly 30 feet, whereas the distance from the viewable front (around 15 feet) is roughly 75 feet.
-
-In other words, `30'x75'`.
-
-Of course, there is also the *diagonal viewing distance* that you have to keep in mind - *roughly 5 feet more than the 75' length of the venue*:
-
-|---
-| # | Position | Vertical (front-back) | Horizontal (left-right) | Diagonal
-|-|-
-| 1 | Front | 15' | 15' | [21.21'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
-| 1 | Middle | 45' | 15' | [47.43'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
-| 1 | Farthest | 75' | 30' | [80.78'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
-|---
-
-*See [Google: Right angled triangle calculator](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=calculate+right+triangle+side) to calculate diagonal hypotenuse seating distances.*
-
-# Projector Screens
+## ??
 
 75-100 feet back of room seating
 
@@ -375,12 +375,19 @@ See [B&H: Da-Lite Fast-Fold Deluxe Systems](https://www.bhphotovideo.com/c/buy/F
 |---
 | # | Projector Screen | Diagonal | Width | Height | Aspect Ratio | Gain | Front/Rear Projection | Price
 |-|-
-| 1 | [Da-Lite 88703 Fast-Fold Deluxe Screen System](https://www.bhphotovideo.com/c/product/253140-REG/Da_Lite_88703_Deluxe_Complete_Fast_Fold_Portable.html) | 180" (15') | 104" (8.7') | 140" (11.7') | 4:3 | ? | Front/Rear | $1,330.40
-| 2 | [DRAPER 215024]() | 109" (9.1')| 92" (7.7') | 58" (4.8') | 16:10 | 1.0 | Front | [$436](https://www.projectorscreen.com/store/p/9008-Draper-215024-Diplomat/R-109-diag-58x92-Widescreen-16-10-Matt-White-XT1000E-1-0-Gain.html)
-|
+| 1 | [STR-16992 Silver Ticket 4K Ultra HD](http://a.co/bUAETWZ)\* | 92" (7.67') | ? | ? | 16:9 | 1.1 |
+| 2 | [DRAPER 215024](https://www.projectorscreen.com/store/p/9008-Draper-215024-Diplomat/R-109-diag-58x92-Widescreen-16-10-Matt-White-XT1000E-1-0-Gain.html) | 109" (9.1')| 92" (7.7') | 58" (4.8') | 16:10 | 1.0 | Front | [$436](https://www.projectorscreen.com/store/p/9008-Draper-215024-Diplomat/R-109-diag-58x92-Widescreen-16-10-Matt-White-XT1000E-1-0-Gain.html)
+| 2 | [Da-Lite 88703 Fast-Fold Deluxe Screen System](https://www.bhphotovideo.com/c/product/253140-REG/Da_Lite_88703_Deluxe_Complete_Fast_Fold_Portable.html) (*Corporate A/V*) | 180" (15') | 104" (8.7') | 140" (11.7') | 4:3 | ? | Front/Rear | [$1,330.40](https://www.bhphotovideo.com/c/product/253140-REG/Da_Lite_88703_Deluxe_Complete_Fast_Fold_Portable.html)
+| 3 | [Da-Lite Da-Mat 92 x 144" Front Projection Fast-Fold Deluxe](https://www.bhphotovideo.com/c/product/901758-REG/da_lite_38307_da_mat_92_x_144.html) | 167.52" (13.96') | 140" (11.67') | 92" (7.67') | 16:10 | ? | Front | [$895.95](https://www.bhphotovideo.com/c/product/901758-REG/da_lite_38307_da_mat_92_x_144.html)
+| 4 | [DA-LITE FAST-FOLD NXT NSCW96X166](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html) | 190" (15.8') | 166" (13.8') | 96" (8') | 16:9 | 1.0 | Front | [$1,544.00](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html)
 |---
 
-*Corporate A/V used a 180" (15') screen*
+\*92" is too small - only good for home theater:
+
+
+![92" Projector Screen](/images/posts/2017/01-january/2017-01-05-svpb-av-projectors/projector-screen-92-inch-1.png){: .align-center}
+
+![92" Projector Screen](/images/posts/2017/01-january/2017-01-05-svpb-av-projectors/projector-screen-92-inch-2.png){: .align-center}
 
 ## Screen Height based on Seating Distance
 
