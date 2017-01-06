@@ -197,6 +197,7 @@ Widescreen: Most video/computer outputs are 1920 widescreen
 | [ViewSonic PJD5255](http://www.projectorcentral.com/ViewSonic-PJD5255.htm) | Feb 2015 | 3300 | 1024x768 / 1600x1200 | 15,000:1 | 0.6" DLP | 5,000-10,000 | 4:3 | 4.0' - 37.2' | 29.4" - 300.0" | 1.10:1 | No | [$369.99](http://a.co/7Kgss4N)
 | [ViewSonic PJD7720HD](http://www.projectorcentral.com/ViewSonic-PJD7720HD.htm) | Jul 2016 | 3200 | 1920x1080 / 1920x1080 | 22,000:1 | 0.7" DLP | 4,000-10,000 | 16:9 | 3.6' - 32.5' | 30.1" - 300.0" | 1.10:1 | Yes | [$549.99](http://a.co/4vymASw)
 | [Epson EX9200](http://www.projectorcentral.com/Epson-EX9200_Pro.htm) | Sep 2015 | 3,200 | 1920x1200 / 1920x1200 | 15,000:1 | 3 LCD | 5,000 - 10,000 | 16:10 | 3.6' - 29.3' | 30.3" - 300.5" | 1.20:1 | Yes | [$789.86](http://a.co/1Mpo8db)
+| [Panasonic PT-DZ6700U](http://www.projectorcentral.com/Panasonic-PT-DZ6700U.htm) | Apr 2009 | 6,000 | 1920x1200 / 1920x1200 | 2,000:1 | 0.7" DLP (1) | 2,000-3,000 | 16:10 | 8.4' - 77.5' | 50.0" - 600.0" | 1.36:1 | No (and no HDMI) | [$3,007.99](https://jet.com/product/Panasonic-PT-DZ6700U-DLP-Proj-Wuxga-43-20001-6000-Lumens/953aa2aa6e914c82b7b3c9a47d2c3d9b)
 |---
 
 ## Amazon Ratings
