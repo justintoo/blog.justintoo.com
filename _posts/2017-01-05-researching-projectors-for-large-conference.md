@@ -9,9 +9,43 @@ tags:
   - presentation
 ---
 
-{% include toc title="Table of Contents" icon="file-text" %}
-
 [Everything You Need to Know about Movie Projector Resolutions](http://www.ebay.com/gds/Everything-You-Need-to-Know-about-Movie-Projector-Resolutions-/10000000177629425/g.html)
+
+# Summary
+
+1. Diagonal tripod screen size of around 270” (22.5’)
+2. 16:9 aspect ratio - the standard modern and future video format.
+3. 5,000+ lumens
+
+|---
+| # | Price | Item | Description
+|-|-
+| 1 | [$1,544.00](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html) | [DA-LITE FAST-FOLD NXT NSCW96X166](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html) | 166"x96"x190", 16:9 aspect ratio, front projection, 1.0 Gain, Folding Frame / Truss
+|---
+
+View [Projector Database Search: 4000-7000 lumens, 16:9-10, Large Venue ](http://www.projectorcentral.com/projectors.cfm?g=1&hide=0&st=1&r=&br=4000-7000&c=&w=&ar=Wide+%2816%3A9-10%29&db=&zr=&wt=&ltg=&ll=&mfg=&p=&wr=&dt=&t=5&pjl=0&pjw=0&pjh=0&td=&is=&i=d&tr=&tr2=&oop=2&sort=pop&sz=15)
+
+[Amazon: Video Projectors : Business & Education : 3000 Lumens & Above : HDMI : 16:9 or 16:10 : 1920x1080 ](https://www.amazon.com/s/ref=sr_st_price-desc-rank?keywords=projectors&fst=as%3Aoff&rh=n%3A172282%2Cn%3A300334%2Ck%3Aprojectors%2Cp_n_feature_browse-bin%3A2358236011%2Cp_n_feature_three_browse-bin%3A3235178011%2Cp_n_feature_seven_browse-bin%3A11028018011%2Cp_n_feature_eight_browse-bin%3A9408966011%7C9408967011%2Cp_n_feature_ten_browse-bin%3A11601827011&qid=1483687101&sort=price-desc-rank)
+
+[Optoma EH500 1080p 4700 Lumens 3D DLP Network Projector with HDMI](http://a.co/hxU5ZvI)
+
+[Amazon Review by Lenny Robison](https://www.amazon.com/review/R3EB2REE63E37C/ref=cm_cr_dp_title?ie=UTF8&ASIN=B00FU4X81Y&channel=detail-glance&nodeID=172282&store=electronics):
+
+> Our church was looking to upgrade our entire video system including going to full 1080 HD. We needed a new projector for the sanctuary which holds around 850 people all on one level. The search was on for a brighter projector capable of giving us full HD capabilities as well as being able to bring in standard def video as well from a computer that is used from time to time. This had all the features we were wanting and a 3-year warranty that was one of the better coverages out there. We also purchased a new HD screen (16' x 9') to replace the current screen we had which was for standard def. We swapped out the old one for the Optoma and nothing but great results! The video signal comes from a Tricaster 850 on 4.5 GHz cable and then we used an SDI to HDMI powered converter at the unit and have a 3' HDMI cable from the converter into the Optoma. The unit hangs from our ceiling about 32' from the screen. Adjusting the image to the screen was very easy and we have nothing but compliments from everyone.
+
+See [Projection Calculator Pro for Optoma EH500](http://www.projectorcentral.com/Optoma-EH500-projection-calculator-pro.htm):
+
+|---
+| # | Use | Position | Throw | Max Room Lighting | Aspect Ratio | Mount | Screen Gain | Image Size | Throw Distance | Vertical Position to Screen Bottom
+|-|-
+| 1 | Presentations | 17' 11" to 82' 9" | 23' 11" | 27% (10 fc) | 16:9 | Floor | 1.0 | 165"x93"x190" | 23' 11" | 14"
+| 2 | Text | 17' 11" to 62' 1" | 23' 11" | 27% (10 fc) | 16:9 | Floor | 1.0 | 165"x93"x190" | 23' 11" | 14"
+| 3 | Video | 19' 4" to 30' 4" | 23' 10" | 6% (2 fc) | 16:9 | Floor | 1.0 | 165"x93"x190" | 23' 11" | 14"
+|---
+
+<hr/>
+
+{% include toc title="Table of Contents" icon="file-text" %}
 
 # Overview
 
@@ -276,7 +310,27 @@ There is a good reference chart on point to pixel conversion if you are interest
 ## Gain
 Screen gain is a technical term that describes how the material of a projection screen affects the apparent brightness of images projected onto it. A projection screen can be made of materials that make images appear brighter or less bright than the images that come from the projector.
 
-## Screens
+# Seating Distance
+
+The venue utilizes two projector screens on both sides of the front stage.
+
+The distance from one screen to its corresponding side wall of the venue is roughly 30 feet, whereas the distance from the viewable front (around 15 feet) is roughly 75 feet.
+
+In other words, `30'x75'`.
+
+Of course, there is also the *diagonal viewing distance* that you have to keep in mind - *roughly 5 feet more than the 75' length of the venue*:
+
+|---
+| # | Position | Vertical (front-back) | Horizontal (left-right) | Diagonal
+|-|-
+| 1 | Front | 15' | 15' | [21.21'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
+| 1 | Middle | 45' | 15' | [47.43'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
+| 1 | Farthest | 75' | 30' | [80.78'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
+|---
+
+*See [Google: Right angled triangle calculator](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=calculate+right+triangle+side) to calculate diagonal hypotenuse seating distances.*
+
+# Projector Screens
 
 75-100 feet back of room seating
 
@@ -292,34 +346,32 @@ See [B&H: Da-Lite Fast-Fold Deluxe Systems](https://www.bhphotovideo.com/c/buy/F
 
 *Corporate A/V used a 180" (15') screen*
 
-## Seating Distance
-
-Calculate seating distance based on screen height vs the distance from the screen to the farthest seat:
-
-|---
-| Company | Screen-Distance Multiplier
-|-|-
-| [Draper](http://www.draperinc.com) | [1/4](http://www.draperinc.com/projectionscreens/screensizeselection.aspx)
-| [B&H](https://www.bhphotovideo.com) | [1/5](https://www.bhphotovideo.com/explora/video/buying-guide/projectors)
-|---
+## Screen Height based on Seating Distance
 
 > Draper Inc., has this to say about screen height.  "Screen height should be at least 1/4 the distance from the screen to the furthest seat for charts and data in a conference room". [ref](http://blog.avspecialists.com/blog/bid/98279/Important-Things-to-Consider-in-a-Conference-Room-Design)
 
-Also see [Draper Inc.'s Projection Screen Size Selection](http://www.draperinc.com/projectionscreens/screensizeselection.aspx).
-
-### Diagonal Viewing
-
-See [Google: Right angled triangle calculator](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=calculate+right+triangle+side) to calculate diagonal *hypotenuse* seating distances:
+Calculate seating distance based on screen height vs the distance from the screen to the farthest seat (16:9 aspect ratio):
 
 |---
-| # | Position | vertical (front-back) | horizontal (left-right) | diagonal
+| Company | Screen-Distance Multiplier | Min height from 15' (WxHxD) | from 75' | from 80.78'
 |-|-
-| 1 | Front | 15' | 15' | [21.21'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
-| 1 | Middle | 45' | 15' | [47.43'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
-| 1 | Farthest | 75' | 30' | [80.78'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
+| [Draper](http://www.draperinc.com) | [1/4](http://www.draperinc.com/projectionscreens/screensizeselection.aspx) | 3.75' (80"x45"x92") | 18.75' (400"x225"x459") | 20.2' (430.6"x242.2"x494")
+| [B&H](https://www.bhphotovideo.com) | [1/5](https://www.bhphotovideo.com/explora/video/buying-guide/projectors) | 3' (64"x36"x74") | 15' (320"x180"x367") | 16.16' (344.7"x193.92"x395.5")
 |---
 
-### Direct Viewing
+*See [Draper Inc.'s Projection Screen Size Selection](http://www.draperinc.com/projectionscreens/screensizeselection.aspx) and [screen-size.info](http://screen-size.info/).*
+
+Compare these figures with the [size of the screen](https://www.bhphotovideo.com/c/product/253140-REG/Da_Lite_88703_Deluxe_Complete_Fast_Fold_Portable.html) used by the previous contractors for the same venue: `108"x144"x180"` ([$1,279.20](https://www.projectorscreen.com/store/p/37541-Da-Lite-Fast-Fold-Deluxe-88703-180-103x139-4-3-0-9-Gain.html)), which is ideal for a maximum of around 45' (midway in our 80' diagonal viewing venue)
+
+A middle-ground would be a diagonal screen size of around 270" (22.5'), which is `180" + 1/2 367"` (the B&H 1/5 recommendation at 75').
+
+My ChromaPop green screen is 12' wide, for reference.
+
+## Screen Size
+
+*Reference photo: 192"x108"x237"*:
+
+![Projector Screen Reference: 192x108x 237](/images/posts/2017/01-january/2017-01-05-researching-projectors-for-large-conference/projector-screen-192x108x237.jpg){: .align-center}
 
 Here are screen-size-to-seating-distance recommendations based on an 16:9 aspect ratio projection using [ProjectorScreenStore.com's Viewing Distance Calculator](https://www.projectorscreenstore.com/viewing-distance-calculator.html):
 
