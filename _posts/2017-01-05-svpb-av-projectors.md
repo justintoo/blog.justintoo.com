@@ -303,6 +303,8 @@ See [projectorcentral.com: Top 10 Conference Room Projectors](http://www.project
 
 # Seating Distance
 
+75-100 feet back of room seating
+
 The venue utilizes two projector screens on both sides of the front stage.
 
 The distance from one screen to its corresponding side wall of the venue is roughly 30 feet, whereas the distance from the viewable front (around 15 feet) is roughly 75 feet.
@@ -322,6 +324,41 @@ Of course, there is also the *diagonal viewing distance* that you have to keep i
 *See [Google: Right angled triangle calculator](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=calculate+right+triangle+side) to calculate diagonal hypotenuse seating distances.*
 
 # Projector Screens
+
+The following shortlist contains two categories of projector screen products:
+
+1. **Business** - Draper and Da-Lite are the old-school heavyweights, however:
+2. **Consumer** - Silver Ticket Productions and Elite Screens appear to be modern-day low-cost champions, primarily targeting consumers, but also advertising their products for business usage.
+
+The quality of the screens appear to be comparable, however, price-per-inch is higher for the old timers, Draper and Da-Lite. Perhaps they're using outdated infrastructure and are not as agile as the new comers.
+
+|---
+| # | Projector Screen | Diagonal | Width | Height | Aspect Ratio | Gain | Front/Rear Projection | Price
+|-|-
+| 1 | [STR-16992 Silver Ticket 4K Ultra HD 110"](http://a.co/cGNybaE) | 110" (9.17') | 96" (8') | 54" (4.5') | 16:9 | 1.1 | Front | [$229.98](http://a.co/cGNybaE)
+| 2 | [DRAPER 215024](https://www.projectorscreen.com/store/p/9008-Draper-215024-Diplomat/R-109-diag-58x92-Widescreen-16-10-Matt-White-XT1000E-1-0-Gain.html) | 109" (9.1')| 92" (7.7') | 58" (4.8') | 16:10 | 1.0 | Front | [$380.69](https://www.projectorscreen.com/store/p/9008-Draper-215024-Diplomat/R-109-diag-58x92-Widescreen-16-10-Matt-White-XT1000E-1-0-Gain.html)
+| 3 | [STR-169175 Silver Ticket 4K Ultra HD 175"](http://a.co/eJjqumW) | 175" (14.6') | 152.5" (12.71') | 85.75" (7.15') | 16:9 | 1.1 | Front | [$599.98](http://a.co/eJjqumW)
+| 4 | [STR-169200 Silver Ticket 4K Ultra HD 200"](http://a.co/98cwReM) | 200" (16.67') | 174.375" (14.53') | 98" (8.17') | 16:9 | 1.1 | Front | [$768.98](http://a.co/98cwReM)
+| 5 | [Da-Lite Da-Mat 92 x 144" Front Projection Fast-Fold Deluxe](https://www.bhphotovideo.com/c/product/901758-REG/da_lite_38307_da_mat_92_x_144.html) | 167.52" (13.96') | 140" (11.67') | 92" (7.67') | 16:10 | 1.0 | Front | [$895.95](https://www.bhphotovideo.com/c/product/901758-REG/da_lite_38307_da_mat_92_x_144.html)
+| 6 | [Elite Screens Aeon AR180WH2 180"](http://a.co/iK2uyly) | 180" (15') | 156.9" (13.075') | 88.3" (7.36') | 16:9 | 1.1 | Front | [$899.00](http://a.co/bKwGQEY)
+| 6 | [Elite Screens Aeon AR200WH2 200"](http://a.co/9E5pyMg) | 200" (16.67') | 174.4" (14.53') | 98" (8.17') | 16:9 | 1.1 | Front | [$1,035.75](http://a.co/3T3SF1m)
+| 7 | [Da-Lite 88703 Fast-Fold Deluxe Screen System](https://www.bhphotovideo.com/c/product/253140-REG/Da_Lite_88703_Deluxe_Complete_Fast_Fold_Portable.html) (*Corporate A/V*) | 180" (15') | 104" (8.7') | 140" (11.7') | 4:3 | ? | Front/Rear | [$1,330.40](https://www.bhphotovideo.com/c/product/253140-REG/Da_Lite_88703_Deluxe_Complete_Fast_Fold_Portable.html)
+| 8 | [DA-LITE FAST-FOLD NXT NSCW96X166](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html) | 190" (15.8') | 166" (13.8') | 96" (8') | 16:9 | 1.0 | Front | [$1,544.00](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html)
+|---
+
+Though screen quality may be close to identical across the Business and Consumer lines, I think where the difference lies is potentially in the durability, versatility, and portability of the screens.
+
+The business-tailored products of Draper and Da-Lite provide floor-mountable products with quick-release and fast-fold frame technologies for easy transport and quick setup/teardown, whereas the consumer products tend to be specifically tailored for permanent mounting to the wall or ceiling.
+
+*A screen with a 110" diagonal display is cheap - only $229.98 - but it's too small for our purposes and it doesn't have a tripod to stand alone on the floor:*
+
+![110" Projector Screen](/images/posts/2017/01-january/2017-01-05-svpb-av-projectors/projector-screen-110-inch.png){: .align-center}
+
+Considering the overall cost savings, it could be a viable option to choose a lower-cost consumer "home theater" projector screen and build a custom PVC frame with legs (truss/tripod) to stand on the floor.
+
+*Search [B&H: Da-Lite Fast-Fold Deluxe Systems](https://www.bhphotovideo.com/c/buy/Fast-Fold-Video-HDTV-Format/ci/4555/N/4034387516), [16:9 165" - 184"](https://www.bhphotovideo.com/c/search?atclk=Image+Diagonal_159%22&ci=4555&N=4034387516+3879246451+4099205009+3896639525+3896639524+3879246448+3902263296+3879246447).*
+
+## Unsorted
 
 Types: Tripod screens, wall/ceiling, desktop
 
@@ -367,27 +404,6 @@ There is a good reference chart on point to pixel conversion if you are interest
 Screen gain is a technical term that describes how the material of a projection screen affects the apparent brightness of images projected onto it. A projection screen can be made of materials that make images appear brighter or less bright than the images that come from the projector.
 
 ## ??
-
-75-100 feet back of room seating
-
-See [B&H: Da-Lite Fast-Fold Deluxe Systems](https://www.bhphotovideo.com/c/buy/Fast-Fold-Video-HDTV-Format/ci/4555/N/4034387516), [16:9, 165" - 184"](https://www.bhphotovideo.com/c/search?atclk=Image+Diagonal_159%22&ci=4555&N=4034387516+3879246451+4099205009+3896639525+3896639524+3879246448+3902263296+3879246447)
-
-|---
-| # | Projector Screen | Diagonal | Width | Height | Aspect Ratio | Gain | Front/Rear Projection | Price
-|-|-
-| 1 | [STR-16992 Silver Ticket 4K Ultra HD](http://a.co/bUAETWZ)\* | 92" (7.67') | ? | ? | 16:9 | 1.1 |
-| 2 | [DRAPER 215024](https://www.projectorscreen.com/store/p/9008-Draper-215024-Diplomat/R-109-diag-58x92-Widescreen-16-10-Matt-White-XT1000E-1-0-Gain.html) | 109" (9.1')| 92" (7.7') | 58" (4.8') | 16:10 | 1.0 | Front | [$436](https://www.projectorscreen.com/store/p/9008-Draper-215024-Diplomat/R-109-diag-58x92-Widescreen-16-10-Matt-White-XT1000E-1-0-Gain.html)
-| 2 | [Da-Lite 88703 Fast-Fold Deluxe Screen System](https://www.bhphotovideo.com/c/product/253140-REG/Da_Lite_88703_Deluxe_Complete_Fast_Fold_Portable.html) (*Corporate A/V*) | 180" (15') | 104" (8.7') | 140" (11.7') | 4:3 | ? | Front/Rear | [$1,330.40](https://www.bhphotovideo.com/c/product/253140-REG/Da_Lite_88703_Deluxe_Complete_Fast_Fold_Portable.html)
-| 3 | [Da-Lite Da-Mat 92 x 144" Front Projection Fast-Fold Deluxe](https://www.bhphotovideo.com/c/product/901758-REG/da_lite_38307_da_mat_92_x_144.html) | 167.52" (13.96') | 140" (11.67') | 92" (7.67') | 16:10 | ? | Front | [$895.95](https://www.bhphotovideo.com/c/product/901758-REG/da_lite_38307_da_mat_92_x_144.html)
-| 4 | [DA-LITE FAST-FOLD NXT NSCW96X166](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html) | 190" (15.8') | 166" (13.8') | 96" (8') | 16:9 | 1.0 | Front | [$1,544.00](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html)
-|---
-
-\*92" is too small - only good for home theater:
-
-
-![92" Projector Screen](/images/posts/2017/01-january/2017-01-05-svpb-av-projectors/projector-screen-92-inch-1.png){: .align-center}
-
-![92" Projector Screen](/images/posts/2017/01-january/2017-01-05-svpb-av-projectors/projector-screen-92-inch-2.png){: .align-center}
 
 ## Screen Height based on Seating Distance
 
