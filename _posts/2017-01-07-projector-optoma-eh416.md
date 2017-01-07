@@ -38,3 +38,17 @@ The [BL-FU260C](http://a.co/afFvbT5) light bulbs have a lamp life of 3,000 to 7,
 ![Optoma EH416](/images//posts/2017/01-january/2017-01-07-projector-optoma-eh416/cover-projector-optoma-eh416.jpg){: .align-center}
 
 <em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+
+[Amazon Review by Lenny Robison](https://www.amazon.com/review/R3EB2REE63E37C/ref=cm_cr_dp_title?ie=UTF8&ASIN=B00FU4X81Y&channel=detail-glance&nodeID=172282&store=electronics):
+
+> Our church was looking to upgrade our entire video system including going to full 1080 HD. We needed a new projector for the sanctuary which holds around 850 people all on one level. The search was on for a brighter projector capable of giving us full HD capabilities as well as being able to bring in standard def video as well from a computer that is used from time to time. This had all the features we were wanting and a 3-year warranty that was one of the better coverages out there. We also purchased a new HD screen (16' x 9') to replace the current screen we had which was for standard def. We swapped out the old one for the Optoma and nothing but great results! The video signal comes from a Tricaster 850 on 4.5 GHz cable and then we used an SDI to HDMI powered converter at the unit and have a 3' HDMI cable from the converter into the Optoma. The unit hangs from our ceiling about 32' from the screen. Adjusting the image to the screen was very easy and we have nothing but compliments from everyone.
+
+See [Projection Calculator Pro for Optoma EH500](http://www.projectorcentral.com/Optoma-EH500-projection-calculator-pro.htm):
+
+|---
+| # | Use | Position | Throw | Max Room Lighting | Aspect Ratio | Mount | Screen Gain | Image Size | Throw Distance | Vertical Position to Screen Bottom
+|-|-
+| 1 | Presentations | 17' 11" to 82' 9" | 23' 11" | 27% (10 fc) | 16:9 | Floor | 1.0 | 165"x93"x190" | 23' 11" | 14"
+| 2 | Text | 17' 11" to 62' 1" | 23' 11" | 27% (10 fc) | 16:9 | Floor | 1.0 | 165"x93"x190" | 23' 11" | 14"
+| 3 | Video | 19' 4" to 30' 4" | 23' 10" | 6% (2 fc) | 16:9 | Floor | 1.0 | 165"x93"x190" | 23' 11" | 14"
+|---

@@ -25,23 +25,22 @@ header:
 
 After extensive research, I found that the following projector equipment will provide the most bang-for-your-buck in durability, capability, versatility, and production quality:
 
-### Scenario 1
-
 |---
 | # | Item | Price | Qty | Total | Description
 |-|-
-| 1 | **Projector**: [Optoma EH416]({% post_url 2017-01-07-projector-optoma-eh416 %}) | [$863.02](http://a.co/332cqny) | 1 | $1,726.04 | 1920x1080 16:9 20,000:1 DLP (1) 4200 Lumens
+| 1 | **Projector**: [Optoma EH416]({% post_url 2017-01-07-projector-optoma-eh416 %}) | [$863.02](http://a.co/332cqny) | 2 | $1,726.04 | 1920x1080 16:9 20,000:1 DLP (1) 4200 Lumens
 | 2 | **Projector Screen**: [DA-LITE FAST-FOLD NXT NSCW96X166](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html) | [$1,544.00](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html) | 2 | $3,088 | 166"x96"x190" (WxHxD), 16:9 aspect ratio, front projection, 1.0 Gain, Folding Frame / Truss
-| 3 |
+| 3 | **HDMI Cable** [AmazonBasics High-Speed HDMI Cable - 6 Feet ](http://a.co/846YjhH) | [$6.99](http://a.co/846YjhH) | 3 | $20.97 | Male to A Male Cable; 1x backup cable
+| 4 | **SDI to HDMI** [Blackmagic Design Micro Converter](http://a.co/etrw8Q9) | [$85](http://a.co/etrw8Q9) | 3 | $255 | Converts long-relay SDI signal to short-relay HDMIp 1x backup converter
+| 5 | **Portable Power Bank** [Battery Pack RAVPower 22000mAh](http://a.co/j8IQMtM) | [$39.99](http://a.co/j8IQMtM) | 3 | $119.97 | Power supply for Blackmagic SDI to HDMI converter; 1x backup converter
+| | Subtotal | | | $5,209.98 |
+| | Tax | 8.75% | | $455.87 |
+| | Total | | | $5,665.85 |
 |---
 
+<hr/>
+
 <em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
-
-My research and calculations converged to the following objectives:
-
-1. Diagonal tripod screen size of around 270” (22.5’)
-2. 16:9 aspect ratio - the standard modern and future video format.
-3. 5,000+ lumens
 
 <hr/>
 
@@ -53,9 +52,7 @@ My research and calculations converged to the following objectives:
 
 ## B&H Photo Video
 
-See [B&H's Buying Guide to Projectors](https://www.bhphotovideo.com/explora/video/buying-guide/projectors).
-
-### Decision Procedure
+See [B&H's Buying Guide to Projectors](https://www.bhphotovideo.com/explora/video/buying-guide/projectors):
 
 > * Is a projector the right choice? If you need to achieve a larger screen size and/or if portability is key, then yes.
 >  
@@ -74,13 +71,8 @@ See [B&H's Buying Guide to Projectors](https://www.bhphotovideo.com/explora/vide
 > * Consider any secondary features you may need, such as the ability to show a presentation from a USB flash drive.
 >  
 > * Don't sweat it if, after the above process of elimination, your search turns up too many choices—chances are any will work fine for you.
-
-## eBay
-
-[Everything You Need to Know about Movie Projector Resolutions](http://www.ebay.com/gds/Everything-You-Need-to-Know-about-Movie-Projector-Resolutions-/10000000177629425/g.html)
-
-### Notes
-
+>
+>
 > Fixed installation and large venue projectors are often [classified as] multimedia projectors (4500-20,000+ lumens).
 >
 > **Distance**
@@ -134,106 +126,166 @@ See [B&H's Buying Guide to Projectors](https://www.bhphotovideo.com/explora/vide
 >
 > [B&H's Buying Guide to Projectors](https://www.bhphotovideo.com/explora/video/buying-guide/projectors)
 
-
-Native Resolution: The maximum output capability of the projector
-Maximum Resolution: Should be called the "source resolution" because it is the maximum input resolution from a laptop, camera, etc. over some cable that the projector will even accept, scale, and then project in its Native Resolution.
-
-Scaling: The projector may scale the input up or down depending on if the input is a higher or lower resolution than the projector's Native Resolution.
-
-The resolution you need for your projector depends on your use case - usually one of these two:
-
-1. Home theater - projecting high definition movies
-2. Live event - projecting simple, low definition things like computer screens with powerpoint slides or live video feeds from a camera
-
-At live events, such as a business conference, people usually aren't sitting right next to the projector, and the farther a person sits from the projection, the less they will notice the pixelation of the lower resolutions.
-
-# Checklist
-
-1. Resolution - maximum size
-2. Lumens - brightness
-3. Connection - input source
+*Also see eBay's [Everything You Need to Know about Movie Projector Resolutions](http://www.ebay.com/gds/Everything-You-Need-to-Know-about-Movie-Projector-Resolutions-/10000000177629425/g.html).*
 
 # Types of Resolutions
 
+The resolution you need for your projector depends on your use case - usually one of these two:
+
+1. **Home theater** - Projecting high definition movies, or
+2. **Live event** - Projecting simple, low definition things like computer screens with powerpoint slides or live video feeds from a camera.
+
+At live events, such as a business conference, people usually aren't sitting right next to the projector, and the farther a person sits from the projection, the less they will notice the pixelation of lower resolutions.
+
+Projectors have two resolutions that you need to look out for - input and output:
+
+1. **Maximum Resolution / Data Mode (input)**: This should be called the "source resolution" because it is the maximum *input* resolution from a laptop, camera, etc. transmitted over some cable like HDMI or SDI that the projector will even accept, scale, and then project out in its Native Resolution.
+2. **Native Resolution (output)**: The maximum *output* capability of the projector.
+
+Note: The projector may scale the input resolution up or down depending on if the input is a higher or lower resolution than the projector's native output resolution.
+
 ## SVGA: 800x600 or WVGA: 854x480 (widescreen)
-useful, especially when it comes to projecting basic images, such as simple graphics and textual presentations. SVGA resolution projectors are not ideal for large screens
+This small size is generally useful, especially when it comes to projecting basic images, such as simple graphics and textual presentations. However, SVGA is less than ideal for larger screens because it would not be able to display sharp images. SVGA has been the standard 4:3 aspect ratio resolution used in the past decades, but now newer computers, cameras, and software tend to be tailored for the 16:9 widescreen aspect ratio so its quickly becoming - or has already become - the mainstream choice for modern A/V setups.
 
 ## XGA: 1024 x 768 or WSVGA: 1024x576 (widescreen)
-Projectors with an XGA resolution do the most justice to high-resolution movies, graphics and images with finer details
+XGA resolution do the most justice to high-resolution movies and graphics with finer details.
 
-This mainstream resolution is perfect for displaying large text such as bible verses or song lyrics.
+This is also a mainstream resolution size perfect for displaying large text, such as bible verses or song lyrics in a church setting.
 
 ## SXGA: 1280x1024 or WXGA: 1280x720 (widescreen)
-Because SXGA projectors have such a high resolution, using them for straightforward presentations and video viewings can be a bit excessive, especially given the price of the projectors.
+SXGA is such a high resolution that it tends to be overkill for typical presentations and video viewings, especially given the price of the SXGA projectors.
 
 ## UXGA: 1600 x 1200 or WUXGA: 1920x1080 (widescreen)
-Useful for only very large venues
+The huge size of UXGA resolutions is only practically useful for very large venues like in a large hotel conference hall.
 
 # Lumens of Brightness
-Lumens are extremely important due to the fact that projectors with lower Lumens require ambient lighting to be low. In addition, less lumens generally means that the projector will need to be closer to the screen.
+Perhaps the most important aspect of a projector is its "power output" - its lumens of brightness - because if you can't see what the projector is projecting, it won't be very useful to you at all.
 
-The point is that the best level of brightness depends on the amount of ambient light, the size of the image, and even the material in the screen you're using. If you need a versatile projector, then a brighter one would fare better in the average lighting environment.
+The appropriate lumens for your projector is extremely important due to the fact that projectors with lower Lumens require a dimmer environment. Less lumens generally means that the projector will also need to be closer to the screen.
+
+The point is that the best level of brightness depends on the amount of ambient light in your environment, the size of the image you're trying to project, and even the material in the projection screen you're using. If you need a versatile projector, then a brighter one would fare better in the average lighting environment.
 
 Perception of brightness is non-linear, which means you need far more than twice as many lumens for a projector to appear twice as bright.
 
-See [projectorpeople.com Lumens Guide](http://www.projectorpeople.com/resources/lumen-guide.asp) for charts of Screen Size vs. Brightness in Lumens.
+For business projectors, the actual lumen output may be lower when in video mode, due to the lower luminance output from video signals.
 
-For business projectors the actual lumen output may be lower when in video mode, due to the lower luminance output from video signals.
+Projectors for home theaters typically offer better video scaling and contrast ratios than business projectors.
 
-Projectors for home theater also offer better video scaling and contrast ratios than business projectors.
+B&H recommends 5000+ lumens for a lecture hall or small church requiring a 10-foot-wide screen, and has a moderate amount of light. (The hotel conference room has the lights on.)
 
-> for bigger meeting rooms with 12 or more people we would recommend a projector with over 4000 lumens.  If you have room in the budget and have a large meeting room you should absolutely be over 4500 and preferably 5000+ lumens.  Use caution when comparing specifications on projectors.  The specs are not necessarily 100% accurate.  Two projectors with the same specs will not necessarily give you the same results.  That's where a trusted AV vendor's input can be very helpful.  We have often observed this with our own eyes.  On paper numbers do not always equate with on the job performance or appearance of two products.
+> [F]or bigger meeting rooms with 12 or more people we would recommend a projector with over 4000 lumens.  If you have room in the budget and have a large meeting room you should absolutely be over 4500 and preferably 5000+ lumens.  Use caution when comparing specifications on projectors.  The specs are not necessarily 100% accurate.  Two projectors with the same specs will not necessarily give you the same results.  That's where a trusted AV vendor's input can be very helpful.  We have often observed this with our own eyes.  On paper numbers do not always equate with on the job performance or appearance of two products.
 >
 > *Reference: [blog.avspecialists.com](http://blog.avspecialists.com/blog/bid/98279/Important-Things-to-Consider-in-a-Conference-Room-Design)*
 
-## Examples
-a candle gives off about 14 lumens, a sunset 400. Most offices that have florescent lighting give off about 400 lumens and lighting on a movie set is about 1,000 lumens. High noon on a sunny day can be as much as 100,000 lumens. Most digital projectors usually rate from about 500 lumens to over 3500 lumens.
+## Lamp / Light Bulbs
+The part of the projector that produces light is the lamp, which has a bulb.
+
+There are different types of bulbs including UHP, UHE, halogen, and metal halide. The bulb is extremely important to the overall image’s brightness.
+
+The actual amount of light (lumens) that a bulb produces will naturally decline over time. For instance, lamps that are rated for 4,000 hours of use can lose 50% of their brightness by the 2,000 hour mark.
+
+Lamps that are UHP or UHE can retain around 80% of their brightness during their entire lifetime.
+
+## Lumens for Venue Type
 
 |---
-| Lumens | Ambient Light Requirement | Projection Range | Notes
+| Ambient Light | Projector's Brightness (lumens) | Venues
 |-|-
-| Under 1,000 | Very Dark | Short | home theater, small meeting room in low light
-| 1,000 - 2,000 | Dim | Short | Classrooms and medium size meeting rooms
-| 2,000 - 3,500 | Normal | Short | Large conferences
-| 6,000 | Bright | Short | Large, bright auditoriums with over 250 people
+| Very Dark | Under 1,000 | Home theater, small meeting room
+| Dim | 1,000 - 3,000 | Classrooms, medium-size meeting rooms
+| Normal | 3,000 - 6,000 | Large conferences (hotels, auditoriums, churches)
+| Bright | Over 6,000 | Large, bright auditoriums with over 500 people
 |---
 
-## Bulbs
-The part of the projector that produces light is the lamp, which has a bulb. There are a variety of bulb types including UHP, UHE, halogen, and metal halide. The bulb is extremely important to the image’s brightness. It should be noted that the actual amount of light (lumens) that a bulb produces will decline over time. For instance, lamps that are rated for 2,000 hours of use can lose 50% of their brightness by the 1,000 hour mark.
+## Lumens in the Wild
 
-Lamps that are UHP or UHE can retain about 80% of their brightness during their entire lifetime.
+|---
+| Lumens | Item in the Wild
+|-|-
+| 14 | candle
+| 400 | sunset
+| 400 | most fluorescent lighting in offices
+| 1,000 | lighting on a movie set
+| 100,000 | brightest point on a sunny day
+| 500 - 3500 | typical consumer projectors
+| 3000 - 7000 | typical business projectors
+|---
 
-# Input Connection Source
+# Input Connection Sources
 
-Analog inputs can experience jittering pixels caused by poor signal synchronization so digital inputs are preferred. For video sources, the preferred connection choice is HDMI. However, HDMI signals degrade over a relatively short distance so a balanced SDI cable is the preferred routing method for relaying a signal over ~25 feet.
+Analog inputs can experience jittering pixels caused by poor signal synchronization so digital inputs are preferred.
+
+For video sources, the preferred connection choice is HDMI. However, HDMI signals degrade over a relatively short distance so a balanced SDI cable is the preferred routing method for relaying a signal over ~25 feet.
 
 > One tip for installations: do not run HDMI more than 25 feet. There are HDMI cables that are longer, but the longer you go, the more the cable acts as an antenna, picking up RF signals. For whatever reason, 25 feet seems to be where reliability dives off the cliff.
 >
 > [B&H Buying Guide to Projectors](https://www.bhphotovideo.com/explora/video/buying-guide/projectors)
 
-# Projection Technology
-Today's projectors are based on one of four imaging technologies: DLP, LCD, LCOS, and laser raster. (Don't confuse laser raster projectors, which actually draw the images using lasers, with projectors that simply use lasers as a light source for another imaging technology, like a DLP or LCOS chip.)
+# Projection Technology (LCD/DLP)
+Today's projectors are based on one of four imaging technologies: DLP, LCD, LCOS, and laser raster.
 
-Most inexpensive DLP projectors and some LCOS-based pico projectors, including both data and video projectors, project their primary colors sequentially rather than all at once. This can lead to a rainbow effect, with light areas on screen breaking up into little rainbows for some people when they shift their gaze or something moves on screen. Those who are sensitive to this effect can find it annoying, particularly for long sessions.
+Most inexpensive DLP projectors project their primary colors sequentially rather than all at once. This can lead to the rainbow effect, where light areas on the screen break up into little rainbows for some people when they shift their gaze or something moves on the screen. Those who are sensitive to this effect can find it annoying, especially when viewing for a long time.
 
-LCD projectors don't have this problem, but tend to be bigger and heavier for equivalent projectors. The general consensus is that standard-size LCOS projectors offer the best-quality images, but they tend to be bigger and heavier than DLP or LCD projectors, and far more expensive. There aren't yet many laser raster projectors, so it's hard to make general statements about them. However, the one clear advantage of using a laser is that the image doesn't require focusing.
+LCD projectors don't suffer for this problem, but tend to be bigger and heavier for the comparable DLP projector.
+
+The general consensus is that standard-size LCOS projectors offer the best-quality images, but they tend to be bigger and heavier than DLP or LCD projectors, and far more expensive.
 
 # Throw Distance
-How far does your projector have to sit relative to the projection screen? Normal projector lenses can project an approximately 6-foot-wide image 12 to 15 feet away, short throw lenses can be projected 3 to 6 feet away, ultra-short-throw only requires inches to project, and long-throw lenses can be used for large conference rooms and small auditoriums.
+How far does your projector have to sit relative to the projection screen?
 
 Most projectors are only able to throw a limited range of image sizes from any given throw distance.
 
+Normal projector lenses can project an approximately 6-foot-wide image 12 to 15 feet away, short throw lenses can be projected 3 to 6 feet away, ultra-short-throw only requires inches to project, and long-throw lenses can be used for large conference rooms and small auditoriums.
+
+|---
+| Projector Lens | Projection Distance
+|-|-
+| Ultra Short | inches
+| Short | 3 to 6 feet
+| Normal | 12 to 15 feet
+| Long | 15+ feet
+|---
+
+> Although most multimedia projectors have a built-in zoom lens, an important subcategory is short throw and ultra-short throw. Generally, a throw ratio of less than 1:1 is considered short throw. The most common throw ratios are 0.5:1 and 0.3:1, with the latter fulfilling the distinction of being "ultra-short throw." ... and are designed to be installed very close to the screen: 18 inches to 2 feet
+>
+> [B&H's Buying Guide to Projectors](https://www.bhphotovideo.com/explora/video/buying-guide/projectors)
+
+# Seating Distance
+
+In the overall event design, you shouldn’t have viewers sitting any closer than 1 times the screen width.
+
+According to [ProAVSchool.com](http://proavschool.com/display-viewing-calculations-101/): *A nice rule of thumb for maximum comfortable video viewing distance for general video is 8 times the display’s image height. So for a 55″ Monitor (26.94″ high), you wouldn’t want anyone further than 215.52″ (17.96 feet). This isn’t a published specification but we have found it to be a reasonable approximation.*
+
+*You can assume a factor of 6 times the image height for detailed viewing and Powerpoint presentations. A factor of 4 times is needed for close inspection viewing of complex information.*
+
+> While the screen multiplier calculation can get you close, sometimes we like to use a more detailed method based on the size of the fonts being used. This will require us to make some approximated guesses (the customer will typically not have this information)
+>
+> Excel: Assume 11 points (Excel font size can be changed by clicking the “ribbon” button and choosing “Excel Options”)
+>
+>Powerpoint: Assume 32 points. (In reality this size can vary widely)
+>
+Note: Font size in points is not exactly equal to pixel height. For 11 Points, our text will be 15 pixels hight, while 32 points will be 42 pixels. (The abbreviation for pixels is ppx)
+There is a good reference chart on point to pixel conversion if you are interested in where we got those numbers.
+>
+> The computer resolution will also be needed, this could be XGA (1024×768), 1080p (1920×1080) or a wide variety of others. For the distance calculation we will be using the height of the image in pixels.
+>
+> A recommended maximum distance for comfortable viewing of text is 150 times the text height. While you don’t have to stay in this range it will provide the most viewable content if the environment permits.
+>
+> Hs = (D*Pimg)/(150*Ptxt)
+>
+> Where
+> Hs = Minimum recommended screen height
+> D = Distance to farthest viewer
+> Pimg = Height of image in pixels (vertical resolution)
+> Ptxt = Height of text in pixels
+
 # Projectors
 
-See [Amazon Projectors](https://www.amazon.com/Projectors/b?ie=UTF8&node=300334).
-
-## Short List
+*See [Amazon Projectors](https://www.amazon.com/Projectors/b?ie=UTF8&node=300334), [Amazon: Video Projectors : Business & Education : 3000 Lumens & Above : HDMI : 16:9 or 16:10 : 1920x1080 ](https://www.amazon.com/s/ref=sr_st_price-desc-rank?keywords=projectors&fst=as%3Aoff&rh=n%3A172282%2Cn%3A300334%2Ck%3Aprojectors%2Cp_n_feature_browse-bin%3A2358236011%2Cp_n_feature_three_browse-bin%3A3235178011%2Cp_n_feature_seven_browse-bin%3A11028018011%2Cp_n_feature_eight_browse-bin%3A9408966011%7C9408967011%2Cp_n_feature_ten_browse-bin%3A11601827011&qid=1483687101&sort=price-desc-rank), [Projector Database Search: 4000-7000 lumens, 16:9-10, Large Venue ](http://www.projectorcentral.com/projectors.cfm?g=1&hide=0&st=1&r=&br=4000-7000&c=&w=&ar=Wide+%2816%3A9-10%29&db=&zr=&wt=&ltg=&ll=&mfg=&p=&wr=&dt=&t=5&pjl=0&pjw=0&pjh=0&td=&is=&i=d&tr=&tr2=&oop=2&sort=pop&sz=15).*
 
 Our target is a 16:9 1920 widescreen 1080p/30-60 HDMI 1.4 projector over 5,000 lumens.
 
 We choose widescreen because modern video/computer outputs are typically outputting 1280-1920 16:9 widescreen.
-
-B&H recommends 5000+ lumens for a lecture hall or small church requiring a 10-foot-wide screen, and has a moderate amount of light. (The hotel conference room has the lights on.)
 
 |---
 | Projector | Released | Brightness (lumens) | Resolution (output/input) | Contrast Ratio | Technology | Lamp Life (full/eco hrs) | Aspect Ratio | Throw Dist | Image Size | Zoom Lens | [MHL](https://en.wikipedia.org/wiki/Mobile_High-Definition_Link) | Lamp | Price
@@ -247,78 +299,9 @@ B&H recommends 5000+ lumens for a lecture hall or small church requiring a 10-fo
 | [Panasonic PT-DZ6700U](http://www.projectorcentral.com/Panasonic-PT-DZ6700U.htm) | Apr 2009 | 6,000 | 1920x1200 / 1920x1200 | 2,000:1 | 0.7" DLP (1) | 2,000 - 3,000 | 16:10 | 8.4' - 77.5' | 50.0" - 600.0" | 1.36:1 | No (and no HDMI) | [ET-LAD60A ($35.85)](http://a.co/dlTVzb6) | [$3,007.99](https://jet.com/product/Panasonic-PT-DZ6700U-DLP-Proj-Wuxga-43-20001-6000-Lumens/953aa2aa6e914c82b7b3c9a47d2c3d9b)
 |---
 
-View [Projector Database Search: 4000-7000 lumens, 16:9-10, Large Venue ](http://www.projectorcentral.com/projectors.cfm?g=1&hide=0&st=1&r=&br=4000-7000&c=&w=&ar=Wide+%2816%3A9-10%29&db=&zr=&wt=&ltg=&ll=&mfg=&p=&wr=&dt=&t=5&pjl=0&pjw=0&pjh=0&td=&is=&i=d&tr=&tr2=&oop=2&sort=pop&sz=15)
-
-[Amazon: Video Projectors : Business & Education : 3000 Lumens & Above : HDMI : 16:9 or 16:10 : 1920x1080 ](https://www.amazon.com/s/ref=sr_st_price-desc-rank?keywords=projectors&fst=as%3Aoff&rh=n%3A172282%2Cn%3A300334%2Ck%3Aprojectors%2Cp_n_feature_browse-bin%3A2358236011%2Cp_n_feature_three_browse-bin%3A3235178011%2Cp_n_feature_seven_browse-bin%3A11028018011%2Cp_n_feature_eight_browse-bin%3A9408966011%7C9408967011%2Cp_n_feature_ten_browse-bin%3A11601827011&qid=1483687101&sort=price-desc-rank)
-
-## [Optoma EH500 1080p 4700 Lumens 3D DLP Network Projector with HDMI](http://a.co/hxU5ZvI)
-
-[Amazon Review by Lenny Robison](https://www.amazon.com/review/R3EB2REE63E37C/ref=cm_cr_dp_title?ie=UTF8&ASIN=B00FU4X81Y&channel=detail-glance&nodeID=172282&store=electronics):
-
-> Our church was looking to upgrade our entire video system including going to full 1080 HD. We needed a new projector for the sanctuary which holds around 850 people all on one level. The search was on for a brighter projector capable of giving us full HD capabilities as well as being able to bring in standard def video as well from a computer that is used from time to time. This had all the features we were wanting and a 3-year warranty that was one of the better coverages out there. We also purchased a new HD screen (16' x 9') to replace the current screen we had which was for standard def. We swapped out the old one for the Optoma and nothing but great results! The video signal comes from a Tricaster 850 on 4.5 GHz cable and then we used an SDI to HDMI powered converter at the unit and have a 3' HDMI cable from the converter into the Optoma. The unit hangs from our ceiling about 32' from the screen. Adjusting the image to the screen was very easy and we have nothing but compliments from everyone.
-
-See [Projection Calculator Pro for Optoma EH500](http://www.projectorcentral.com/Optoma-EH500-projection-calculator-pro.htm):
-
-|---
-| # | Use | Position | Throw | Max Room Lighting | Aspect Ratio | Mount | Screen Gain | Image Size | Throw Distance | Vertical Position to Screen Bottom
-|-|-
-| 1 | Presentations | 17' 11" to 82' 9" | 23' 11" | 27% (10 fc) | 16:9 | Floor | 1.0 | 165"x93"x190" | 23' 11" | 14"
-| 2 | Text | 17' 11" to 62' 1" | 23' 11" | 27% (10 fc) | 16:9 | Floor | 1.0 | 165"x93"x190" | 23' 11" | 14"
-| 3 | Video | 19' 4" to 30' 4" | 23' 10" | 6% (2 fc) | 16:9 | Floor | 1.0 | 165"x93"x190" | 23' 11" | 14"
-|---
-
-## Amazon Ratings
-
-|---
-| Projector | Amazon Rating | Amazon Reviews
-|-|-
-| [ViewSonic PJD7720HD Projector](http://www.projectorcentral.com/ViewSonic-PJD7720HD.htm) | 4.5 stars | 478 reviews
-|
-|
-|---
-
-## Throw Distance
-
-Standard Lens projecting from 15 feet away:
-
-|---
-| Projector | Recommended Seating | At Throw Distance | Max Room Lighting
-|-|-
-| [Panasonic Panasonic PT-DZ6700U](http://www.projectorcentral.com/Panasonic-PT-DZ6700U-projection-calculator-pro.htm) | 9' 5" - 43' 6" | 15' | 100% (39 fc)
-|
-|---
-
-See [projectorcentral.com: Top 10 Conference Room Projectors](http://www.projectorcentral.com/conference-video-projectors.htm)
-
-### Short Throw
-
-> Although most multimedia projectors have a built-in zoom lens, an important subcategory is short throw and ultra-short throw. Generally, a throw ratio of less than 1:1 is considered short throw. The most common throw ratios are 0.5:1 and 0.3:1, with the latter fulfilling the distinction of being "ultra-short throw." ... and are designed to be installed very close to the screen: 18 inches to 2 feet
->
-> [B&H's Buying Guide to Projectors](https://www.bhphotovideo.com/explora/video/buying-guide/projectors)
-
-# Seating Distance
-
-75-100 feet back of room seating
-
-The venue utilizes two projector screens on both sides of the front stage.
-
-The distance from one screen to its corresponding side wall of the venue is roughly 30 feet, whereas the distance from the viewable front (around 15 feet) is roughly 75 feet.
-
-In other words, `30'x75'`.
-
-Of course, there is also the *diagonal viewing distance* that you have to keep in mind - *roughly 5 feet more than the 75' length of the venue*:
-
-|---
-| # | Position | Vertical (front-back) | Horizontal (left-right) | Diagonal
-|-|-
-| 1 | Front | 15' | 15' | [21.21'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
-| 1 | Middle | 45' | 15' | [47.43'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
-| 1 | Farthest | 75' | 30' | [80.78'](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=right%20angled%20triangle%20calc%3A%20find%20c&skip=s)
-|---
-
-*See [Google: Right angled triangle calculator](https://www.google.com/search?q=calculate+triangle+side&ie=utf-8&oe=utf-8#q=calculate+right+triangle+side) to calculate diagonal hypotenuse seating distances.*
-
 # Projector Screens
+
+*See [projectorpeople.com Lumens Guide](http://www.projectorpeople.com/resources/lumen-guide.asp) for charts of Screen Size vs. Brightness in Lumens.*
 
 The following shortlist contains two categories of projector screen products:
 
@@ -353,52 +336,14 @@ Considering the overall cost savings, it could be a viable option to choose a lo
 
 *Search [B&H: Da-Lite Fast-Fold Deluxe Systems](https://www.bhphotovideo.com/c/buy/Fast-Fold-Video-HDTV-Format/ci/4555/N/4034387516), [16:9 165" - 184"](https://www.bhphotovideo.com/c/search?atclk=Image+Diagonal_159%22&ci=4555&N=4034387516+3879246451+4099205009+3896639525+3896639524+3879246448+3902263296+3879246447).*
 
-## Unsorted
+Durability and ruggedness: constant transporting and setting up and tearing down, or in a rental situation
 
-Types: Tripod screens, wall/ceiling, desktop
-
-[Tripod Screens](https://www.projectorscreen.com/projector-screens/tripod-screens)
-
-Optional skirt
-
-Durability and ruggedness: constant transporting and setting up and tearing down; rental situation
-
-Usage: viewing presentations, PDF files and other data files or videos
+Consider your usage - viewing presentations, PDF files and other data files, or videos.
 
 Smaller screen would make it more difficult to see the content (like text), while video is more forgiving to see what's going on.
 
-In the design, you shouldn’t have viewers any closer than 1 x the screen width.
-
-According to [ProAVSchool.com](http://proavschool.com/display-viewing-calculations-101/): *A nice rule of thumb for maximum comfortable video viewing distance for general video is 8 times the display’s image height. So for a 55″ Monitor (26.94″ high), you wouldn’t want anyone further than 215.52″ (17.96 feet). This isn’t a published specification but we have found it to be a reasonable approximation.*
-
-*You can assume a factor of 6 times the image height for detailed viewing and Powerpoint presentations. A factor of 4 times is needed for close inspection viewing of complex information.*
-
-> While the screen multiplier calculation can get you close, sometimes we like to use a more detailed method based on the size of the fonts being used. This will require us to make some approximated guesses (the customer will typically not have this information)
->
-> Excel: Assume 11 points (Excel font size can be changed by clicking the “ribbon” button and choosing “Excel Options”)
->
->Powerpoint: Assume 32 points. (In reality this size can vary widely)
->
-Note: Font size in points is not exactly equal to pixel height. For 11 Points, our text will be 15 pixels hight, while 32 points will be 42 pixels. (The abbreviation for pixels is ppx)
-There is a good reference chart on point to pixel conversion if you are interested in where we got those numbers.
->
-> The computer resolution will also be needed, this could be XGA (1024×768), 1080p (1920×1080) or a wide variety of others. For the distance calculation we will be using the height of the image in pixels.
->
-> A recommended maximum distance for comfortable viewing of text is 150 times the text height. While you don’t have to stay in this range it will provide the most viewable content if the environment permits.
->
-> Hs = (D*Pimg)/(150*Ptxt)
->
-> Where
-> Hs = Minimum recommended screen height
-> D = Distance to farthest viewer
-> Pimg = Height of image in pixels (vertical resolution)
-> Ptxt = Height of text in pixels
-
-
 ## Gain
 Screen gain is a technical term that describes how the material of a projection screen affects the apparent brightness of images projected onto it. A projection screen can be made of materials that make images appear brighter or less bright than the images that come from the projector.
-
-## ??
 
 ## Screen Height based on Seating Distance
 
@@ -423,7 +368,7 @@ My ChromaPop green screen is 12' wide, for reference.
 
 ## Screen Size
 
-*Reference photo: 192"x108"x237"*:
+*Reference photo: 192"x108"x237" (WxHxD)*:
 
 ![Projector Screen Reference: 192x108x 237](/images/posts/2017/01-january/2017-01-05-svpb-av-projectors/projector-screen-192x108x237.jpg){: .align-center}
 
@@ -439,16 +384,9 @@ Here are screen-size-to-seating-distance recommendations based on an 16:9 aspect
 
 *\*SMPTE = Society of Motion Picture & Television Engineers*
 
-16:9 Aspect Ratio:
-
-|---
-| Distance | Screen Diagonal | SMPTE Min | THX Min | THX Max | Visual Perception
-|-|-
-| 75' | 109" | 553.4" (46')
-|
-|---
-
 ## Viewing Angle
+
+Your guests should be viewing the screen within these angles:
 
 |---
 | Horizontal | Vertical |
@@ -476,8 +414,9 @@ The 4:3 format isn't much of a factor any longer as almost all new AV Installati
 
 *Reference: [ProAVSchool.com](http://proavschool.com/display-viewing-calculations-101/)*.
 
-# Sources
+# External Resources
 
+* [ProjectorCentral.com](http://www.projectorcentral.com/)
 * [ProjectorPeople.com](http://www.projectorpeople.com/)
 * [Projection Calculator Pro](http://www.projectorcentral.com/projectors.cfm)
 * [Projector Database: Find Projectors](http://www.projectorcentral.com/projectors.cfm)
