@@ -235,20 +235,24 @@ Most projectors are only able to throw a limited range of image sizes from any g
 
 # Projectors
 
+See [Amazon Projectors](https://www.amazon.com/Projectors/b?ie=UTF8&node=300334).
+
 ## Short List
 
 Our target is a 16:9 1920 widescreen 1080p/30-60 HDMI 1.4 projector over 5,000 lumens.
 
 We choose widescreen because modern video/computer outputs are typically outputting 1280-1920 16:9 widescreen.
 
-B&H recommends 5000+ lumens for a lecture hall or small church requiring a 10-foot-wide screen, and has a moderate amount of light.
+B&H recommends 5000+ lumens for a lecture hall or small church requiring a 10-foot-wide screen, and has a moderate amount of light. (The hotel conference room has the lights on.)
 
 |---
 | Projector | Released | Brightness (lumens) | Resolution (output/input) | Contrast Ratio | Technology | Lamp Life (full/eco hrs) | Aspect Ratio | Throw Dist | Image Size | Zoom Lens | [MHL](https://en.wikipedia.org/wiki/Mobile_High-Definition_Link) | Lamp | Price
 |-|-
 | [ViewSonic PJD5255](http://www.projectorcentral.com/ViewSonic-PJD5255.htm) | Feb 2015 | 3300 | 1024x768 / 1600x1200 | 15,000:1 | 0.6" DLP | 5,000 - 10,000 | 4:3 | 4.0' - 37.2' | 29.4" - 300.0" | 1.10:1 | No | [RLC-092 ($229.87)](https://www.bhphotovideo.com/c/product/1133982-REG/viewsonic_rlc_092_replacement_projector_lamp.html) | [$369.99](http://a.co/7Kgss4N)
 | [ViewSonic PJD7720HD](http://www.projectorcentral.com/ViewSonic-PJD7720HD.htm) | Jul 2016 | 3200 | 1920x1080 / 1920x1080 | 22,000:1 | 0.7" DLP | 4,000 - 10,000 | 16:9 | 3.6' - 32.5' | 30.1" - 300.0" | 1.10:1 | Yes | [RLC-100 ($276.70)](https://www.projectorsuperstore.com/shopping/lamp_details.cfm?id=15022) | [$549.99](http://a.co/4vymASw)
-| [Epson EX9200](http://www.projectorcentral.com/Epson-EX9200_Pro.htm) | Sep 2015 | 3,200 | 1920x1200 / 1920x1200 | 15,000:1 | 3 LCD | 5,000 - 10,000 | 16:10 | 3.6' - 29.3' | 30.3" - 300.5" | 1.20:1 | Yes | [ELPLP88 ($64.61)](http://a.co/h54FjlC) | [$789.86](http://a.co/1Mpo8db)
+| [Optoma HD142X]() | Jul 2016 | 3,000 | 1920x1080 / 1920x1200 | 23,000:1 | 0.7" DLP (1) | 5,000 - 8,000 | 16:9 | 3.2' - 32.8' | 27.2" - 305.1" | 1.10:1 | Yes | [BL-FU195C ($167.50)](https://www.bhphotovideo.com/c/product/1273373-REG/optoma_technology_bl_fu195c_195w_replacement_lamp_for.html) | [$549.00](http://a.co/cuOqw9c)
+| [Epson EX9200](http://www.projectorcentral.com/Epson-EX9200_Pro.htm) *(best in EX line)* | Sep 2015 | 3,200 | 1920x1200 / 1920x1200 | 15,000:1 | 3 LCD | 5,000 - 10,000 | 16:10 | 3.6' - 29.3' | 30.3" - 300.5" | 1.20:1 | Yes | [ELPLP88 ($64.61)](http://a.co/h54FjlC) | [$789.86](http://a.co/1Mpo8db)
+| [Optoma EH416](http://www.projectorcentral.com/Optoma-EH416.htm) | Apr 2016 | 4200 | 1920x1080 / 1920x1080 | 20,000:1 | 0.7" DLP (1) | 3,000 - 7,000 | 16:9 | 4.3' - 30.8' | 26.4" - 303.1"| 1.60:1 | Yes | [BL-FU260C ($232.54)](http://a.co/afFvbT5) | [$863.02](http://a.co/332cqny)
 | [Optoma EH500](http://www.projectorcentral.com/Optoma-EH500.htm) | Oct 2013 | 4,700 | 1920x1080 / 1920x1200 | 10,000:1 | 0.7" DLP (1) | 2,500 - 3,000 | 16:9 | 3.2' - 34.6' | 23.1" - 299.6" | 1.20:1 | No | [BL-FU310B ($204.36)](http://a.co/4MJtTgr) | [$1,097.98](http://a.co/hxU5ZvI)
 | [Panasonic PT-DZ6700U](http://www.projectorcentral.com/Panasonic-PT-DZ6700U.htm) | Apr 2009 | 6,000 | 1920x1200 / 1920x1200 | 2,000:1 | 0.7" DLP (1) | 2,000 - 3,000 | 16:10 | 8.4' - 77.5' | 50.0" - 600.0" | 1.36:1 | No (and no HDMI) | [ET-LAD60A ($35.85)](http://a.co/dlTVzb6) | [$3,007.99](https://jet.com/product/Panasonic-PT-DZ6700U-DLP-Proj-Wuxga-43-20001-6000-Lumens/953aa2aa6e914c82b7b3c9a47d2c3d9b)
 |---
