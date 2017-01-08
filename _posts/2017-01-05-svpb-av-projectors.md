@@ -408,6 +408,8 @@ The 4:3 format isn't much of a factor any longer as almost all new AV Installati
 >
 > *Reference: [blog.avspecialists.com/](http://blog.avspecialists.com/blog/bid/98279/Important-Things-to-Consider-in-a-Conference-Room-Design)*
 
+Also see [Optoma: Aspect Ratios and Native Resolutions](http://blog.optomausa.com/post/aspect-ratios-and-native-resolutions).
+
 ## Technologies
 
 > 3 chip projector to produce an infinite number of colors. Single chip DLP uses a color wheel to selectively choose the color of light to pass to each pixel on the chip. This is a much more affordable technology, but comes with the disadvantage of having a finite number of colors that it is capable of producing.
