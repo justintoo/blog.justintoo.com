@@ -35,15 +35,16 @@ See [Bose L1 - Speaker Sound System]({% post_url 2017-01-07-bose-l1-sound-system
 |---
 | # | Item | Price | Qty | Total | Description
 |-|-
-| 1 | [JBL EON615 15" 1000W Speakers](http://www.jblpro.com/www/products/portable-market/eon600-series/eon615#.WHQxmpJWcWM) | [$599.95](https://www.bhphotovideo.com/c/product/1112180-REG/jbl_jbl_eon615_powered_speaker.html) | 6 | $3,599.70 | Comes with Gas Assist Tripod Kit; 2 x Balanced XLR-1/4” combination inputs; 1 x male XLR loop thru out; requires AC power ([1/3rd Power – 2.03A (Max)](http://www.jblpro.com/ProductAttachments/EON615_SpecSheet_4%2028%2015.pdf))
-| 2 | [JBL EON615-Bag-W Deluxe Carry Bag with Wheels](https://www.bhphotovideo.com/c/product/1103017-REG/jbl_eon615_bag_w_deluxe_carry_bag.html) | [$179.99](https://www.bhphotovideo.com/c/product/1103017-REG/jbl_eon615_bag_w_deluxe_carry_bag.html) | 6 | $1,079.94 |
-| 3 | [Kopul Studio Elite 4000 Series XLR M to XLR F 50'](https://www.bhphotovideo.com/c/product/845542-REG/Kopul_m4050_Kopul_Studio_Elite_4000.html) | [$21.49](https://www.bhphotovideo.com/c/product/845542-REG/Kopul_m4050_Kopul_Studio_Elite_4000.html) | 6 | $128.94 | Extra long cables for chaining speakers
-| 4 | [Kopul Studio Elite 4000 Series XLR M to XLR F 100'](https://www.bhphotovideo.com/c/product/845545-REG/Kopul_m4100_Kopul_Studio_Elite_4000.html) | [$29.95](https://www.bhphotovideo.com/c/product/845545-REG/Kopul_m4100_Kopul_Studio_Elite_4000.html) | 4 | $119.80 | Extra long cables for linking audio board to speakers
-| 5 | power extension cords ??
-| 6 | power multi-plugs
-| | Subtotal | | | $4,928.38 |
-| | Tax | 8.75% | | $431.23 |
-| | **Total** | | | **$5,359.61** |
+| 1 | [JBL EON615 15" 1000W Speakers](http://www.jblpro.com/www/products/portable-market/eon600-series/eon615#.WHQxmpJWcWM) | [$599.95](https://www.bhphotovideo.com/c/product/1112180-REG/jbl_jbl_eon615_powered_speaker.html) | 4 - 6 | $2,399.80 - $3,599.70 | Comes with Gas Assist Tripod Kit; 2 x Balanced XLR-1/4” combination inputs; 1 x male XLR loop thru out; requires AC power ([1/3rd Power – 2.03A (Max)](http://www.jblpro.com/ProductAttachments/EON615_SpecSheet_4%2028%2015.pdf))
+| 2 | [JBL EON615-Bag-W Deluxe Carry Bag with Wheels](https://www.bhphotovideo.com/c/product/1103017-REG/jbl_eon615_bag_w_deluxe_carry_bag.html) | [$179.99](https://www.bhphotovideo.com/c/product/1103017-REG/jbl_eon615_bag_w_deluxe_carry_bag.html) | 4 - 6 | $719.96 - $1,079.94 |
+| 3 | [Kopul Studio Elite 4000 Series XLR M to XLR F 50'](https://www.bhphotovideo.com/c/product/845542-REG/Kopul_m4050_Kopul_Studio_Elite_4000.html) | [$21.49](https://www.bhphotovideo.com/c/product/845542-REG/Kopul_m4050_Kopul_Studio_Elite_4000.html) | 4 - 6 | $85.96 - $128.94 | Extra long cables for chaining speakers
+| 4 | [Kopul Studio Elite 4000 Series XLR M to XLR F 100'](https://www.bhphotovideo.com/c/product/845545-REG/Kopul_m4100_Kopul_Studio_Elite_4000.html) | [$29.95](https://www.bhphotovideo.com/c/product/845545-REG/Kopul_m4100_Kopul_Studio_Elite_4000.html) | 2 - 4 | $59.90 - $119.80 | Extra long cables for linking audio board to speakers
+| 5 | [Watson 100 ft AC Power Extension Cord 14 AWG](https://www.bhphotovideo.com/c/product/1013728-REG/watson_ace14_100b_100_power_extention_cord.html) | [$49.95](https://www.bhphotovideo.com/c/product/1013728-REG/watson_ace14_100b_100_power_extention_cord.html) | 2 | $99.90 |
+| 6 | [Watson 50 ft AC Power Extension Cord 14 AWG](https://www.bhphotovideo.com/c/product/1013727-REG/watson_ace14_50b_50_power_extention_cord.html) | [$29.95](https://www.bhphotovideo.com/c/product/1013727-REG/watson_ace14_50b_50_power_extention_cord.html) | 6 - 8 | $179.70 - $239.60
+| 7 | [Furman PL-8 C Power Conditioner](https://www.bhphotovideo.com/c/product/584417-REG/Furman_PL_8C_PL_8_C_Power_Conditioner.html) | [$158.97](https://www.bhphotovideo.com/c/product/584417-REG/Furman_PL_8C_PL_8_C_Power_Conditioner.html) | 2 | $317.94 | Ensures that each speaker gets the correct voltage and current needed
+| | Subtotal | | | $3,863.16 - $5,585.82 |
+| | Tax | 8.75% | | $338.03 - $488.76 |
+| | **Total** | | | **$4,201.18 - $6,074.52** | 6 speakers = +$1,873.34
 |---
 
 An XLR cable can run a couple hundred feet as long as it's balanced and properly shielded.
@@ -203,3 +204,53 @@ See [comment by MusicMeister on serato.com](https://serato.com/forum/discussion/
 > Yes, power cords are an investment, and you should invest in good equipment, but why would you purchase a 10ft. 12 guage cord? You wouldnt'. If you're buying a long cable then by all means go to a proper guage to handle a fully loaded circuit. But on the flip side, there's no reason to purchase 000 gauge 50ft cables just to power a small sound rig. That's completely different if you're wiring directly into the 200 amp service at the electrical panel and running 10,000 or 20,000 watts for concert sound.
 >
 > In other words, know what you REALLY need. Take the time to educate yourself on the limitations and why they exist and THEN make a buying decision.
+
+See [homedepot.com: How To Choose Extension Cords](http://www.homedepot.com/c/factors_to_consider_when_choosing_extension_cords_HT_BG_EL):
+
+> ### Indoor vs Outdoor Extension Cords
+>
+> Outdoor extension cords have tough covers made from rubber, plastic or vinyl. Using indoor extension cords outside can lead to overheating.
+>
+> ### Plug Type
+>
+> The third prong in the extension cord provides a path to the ground wire in a household electrical circuit. This ground wire greatly reduces the risk of electrical shock and fires. The three-prong cord itself should only be used with properly grounded three-slot outlets.
+>
+> ### Amperage, Gauge & Cord Length
+>
+> Each extension cord has a maximum amperage — the limit on the current it can conduct safely. Connecting devices with a higher current, may cause overheating.
+>
+> If you plan to connect multiple devices to the cord at the same time, add up the current requirements for each device. The power requirements for some devices are listed in watts, rather than amps. Use this formula to convert the rating to amps: Amps = watts/110.
+>
+> If an extension cord doesn't include a maximum amperage rating, you can figure out its capacity by looking at its American Wire Gauge (AWG) rating. A lower AWG number indicates a thicker wire and a higher capacity, so the lower the number, the higher the cord's capacity to deliver power.
+>
+> Gauge is typically listed along with the number of conducting wires in the cord. For example, a 14/3 cord contains 14-gauge wire and has three conductions inside.
+>
+> To determine the cord's capacity, consider the cord length along with the wire gauge. Every extra foot of cord increases the electrical resistance, which decreases the power the cord can deliver to connected devices. Because of this, it's best to use a cord that is only as long as you need.
+>
+> |---
+> | # | Cord Length | Device Amperage Rating | Good for use with | Minimum Wire Gauge
+> |-|-
+> | 1 | 25 Feet | 1 – 13 Amps | Christmas lights, work lights, portable fans, hedge trimmers | 16 Gauge (Light Duty)
+> | 2 | 25 Feet | 14 - 15 Amps | Lawn mowers, power drills, table saws | 14 Gauge (Medium Duty)
+> | 3 | 25 Feet | 16 - 20 Amps | Chain saws, circular saws, shop vacs, air compressors | 12 Gauge (Heavy Duty)
+> | 4 | 50 Feet | 1 - 13 Amps | Christmas lights, work lights, portable fans, hedge trimmers | 16 Gauge (Light Duty)
+> | 5 | 50 Feet | 14 - 15 Amps | Lawn mowers, power drills, table saws | 14 Gauge (Medium Duty)
+> | 6 | 50 Feet | 16 - 20 Amps | Chain saws, circular saws, shop vacs | 12 Gauge (Heavy Duty) or 10 Gauge (Extra Heavy Duty)
+> | 7 | 100 Feet | 1 - 10 Amps | Christmas lights, work lights, portable fans, hedge trimmers | 16 Gauge (Light Duty)
+> | 8 | 100 Feet | 11 - 13 Amps | Lawn mowers, power drills, table saws | 14 Gauge (Medium Gauge)
+> | 9 | 100 Feet | 14 - 15 Amps | Chain saws, circular saws, shop vacs | 12 Gauge (Heavy Duty)
+> | 10 | 150 Feet | 1 - 7 Amps | Christmas lights, work lights, portable fans | 14 Gauge (Medium Gauge)
+> | 11 | 150 Feet | 8 - 10 Amps | Lawn mowers, power drills | 12 Gauge (Heavy Duty)
+> | 12 | 150 Feet | 11 - 15 Amps | Table saws, Chain saws, circular saws, shop vacs | 10 Gauge (Extra Heavy Duty)
+> |---
+
+See B&H Chat Transcript:
+
+> Opening Question: Trying to determine power requirements for JBL EON615 1000W 15" 2-way powered speaker; what guage power cord is required for 50 ft - 100 ft runs? Product: https://www.bhphotovideo.com/c/product/1048176-REG/jbl_eon615_powered_15_two_way_system.html
+>
+> Jordan K: Hello Justin. My name is Jordan. Please give me a moment to begin working on your inquiry.Me: ThanksJordan K: A 12 or 14 gauge cable like this will be fine, but you may want to use this with a good power converter for the best performance and safety.
+> https://www.bhphotovideo.com/c/product/1013728-REG/watson_ace14_100b_100_power_extention_cord.htmlMe: I'll look into power converters, thanks.Me: Can you help me understand the Power Consumption on the official spec sheet: http://www.jblpro.com/ProductAttachments/EON615_SpecSheet_4%2028%2015.pdf.Me: AC Power Consumption (120V~): 1/8th Power – 1.14A (Max), 1/4th Power – 1.71A (Max),
+> 1/3rd Power – 2.03A (Max)Me: It only lists up to 1/3rd Power - what would you say is a normal operating power level for a large conference hall in a hotel?Me: The reason I ask is because we need 6 of these JBL speakers and I'm trying to figure out if we can run all of them off on extension cord from the wall, or should would you recommend running at least 2 (or more) cords for a certain number of speakers?Me: run all of them off one extension cord*Me: The conference hall is 100 ft x 100 ftJordan K: This is referring to the current draw. If it goes above 1/3 power, it is usually for less than a second, and won't be something you need to worry about.Me: (we're assuming we need 6, but perhaps 4 is enough??)Jordan K: I would recommend running all of the speakers from something like this:
+> https://www.bhphotovideo.com/c/product/584417-REG/Furman_PL_8C_PL_8_C_Power_Conditioner.htmlJordan K: For 1000 sq feet. I think 6 speakers will probably be more than you need.Me: Okay, thanks. So if we use 4 speakers, should we just run one 100-ft 14 gauge extension cord out to the Furman PL-8 C Power Conditioner, and then run 50-100 ft cords for each speaker from this Power Conditioner?Me: (if we place the Power Conditioner in a central location)Jordan K: That would work. This power conditioner is commonly mounted in a rack cabinet, or case together with any sound processing units, or wireless mic receivers you might use. If you will be using other equipment like that, a rack to accomodate them would be a good idea.Me: Right, okay.Me: Now back to the power consumption - were you implying that the speakers will normally not go above 1/3rd power consumption?Me: I'm just trying to figure out how many max total amps to plan for with 4 or 6 of these speakersJordan K: The speakers you asked me about are self powered, and don't require an external amplifier.Me: Right... What I meant is:Me: The Extension Cord you set allows "Up to 13A Current Draw"Me: What will be the max total current draw of these speakers?Me: I mean, you did say the setup above would work for the 4-6 speakers, right? (i.e. 1x 100 ft 14 Gauge extension cord powering all 4-6 speakers)Jordan K: The power conditioner would ensure that each speaker gets the correct voltage and current needed.
+>
+> If each speaker is drawing about 1-2 Amperes, 13 Amperes would definitely be sufficient.Me: ah, I see, thanks for explaining that!

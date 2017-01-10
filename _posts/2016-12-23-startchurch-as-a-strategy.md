@@ -170,13 +170,38 @@ Questions I asked Lester (sales) and Caleb (specialist)
 
 **Outstanding Questions**:
 
-1. **Tax implications for C or S Corporation for-profit arm? Double taxation? Are accumulated earnings not taxed and then distributed to the Holdings Corporation tax free? Or taxed at the corporate level and then distributed tax free to the Holdings Corporation?**
-2. **Are capital contributions to the holdings corporation handled on a contribution-by-contribution basis, each as a board resolution? Can we have a policy in place to streamline this process?**
-3. **Can the holdings corporation hold Trademarks as an asset (e.g. logo)? Any restrictions on this topic?**
+1. **Tax implications for C or S Corporation for-profit arm? Double taxation? Are accumulated earnings not taxed and then distributed to the Holdings Corporation tax free? Or taxed at the corporate level and then distributed tax free to the Holdings Corporation?** Corporate profit is paid first on net profits
+2. **Are capital contributions to the holdings corporation handled on a contribution-by-contribution basis, each as a board resolution? Can we have a policy in place to streamline this process?** Most of it is done by board resolution per item (or groups of items); capital contributions
+3. **Can the holdings corporation hold Trademarks as an asset (e.g. logo)? Any restrictions on this topic?** Probably - but not certain - the structure of a holdings can hold real, personal, and intellectual property; 501c2
 4. **For #28, does income have to be transferred immediately? Or is it net income?**
 5. **Refund policy document/webpage?**
 6. **Will we be able to submit the 501c3 application for the holdings corporation before March?** *(To qualify for tax exemption retroactive to the date of its organization or formation, an organization claiming tax-exempt status under section 501(c)(3), 501(c)(9), or 501(c)(17) generally must file Form 1023, 1023-EZ, or 1024 within 27 months of the end of the month in which it was legally organized or formed. https://www.irs.gov/instructions/i990/ch01.html)*
+7. **Should we amend articles of incorporation for WE now? Do we have to wait for church incorporate for church ownership or does that only happen at exemption filing?** 501c3 for church; when exempt status is submitted or finalized then we can jump into articles; bylaws tying it to the church as parent organization
+8. **StartRight for 501c3?**
+9. **Rename nonprofit so holdings can have the name?** Yes, possible, but some states have a hold on a name.
+10. **For-profit?** Wait until church is incorporated.
+11. **Location of Church?** IRS
+12. **Board membership and family?** Need a majority that is unrelated (3/5 is okay). Salary, me and wife shouldn't vote
+13. **Budget approval** Simple majority with me included as Pastor/President; 3/5, including me
+14. **Accountability board** unanimous board vote for removal until accountability board
+15. **Amending bylaws?** Applying 501c3 the IRS needs bylaws, but don't need to file to state or IRS in general;
+16. **Statement of Faith** #3 is Assemblies of God, #5; Most popular is #1
+17. **Bylaw review** After sending them to me, we will review them together
+18. **Minister in bylaws** the IRS definition of a minister
+19. **Removal of board members**
+20. **"Discrimination?"** Faith based organizations can discriminate under First Amendment, but not commonly possible**
+21. **Board distinction** Want a distinction between church and holdings corporation; StartChurch recommendation is to not have any same members; liazon; pastors typically have their wives
+22. **Holdings board** Minimum 3 board members
+23. Teleconference
+24. Church meetings by about February; need public location - how long should we have? Does online location count?
 
+1. Articles of Incorporation
+2. EIN number
+3. 8 Policies
+4. Minutes for Board Meeting
+5. Minister Certificate
+
+6. Bylaws to protect beliefs - living a life consistent with beliefs, refuse service, assets, etc.;
 
 See [S and C Corporations Create Different Tax Consequences](http://www.bizfilings.com/toolkit/sbg/tax-info/fed-taxes/s-c-corporations-create-different-tax-consequences.aspx)
 
