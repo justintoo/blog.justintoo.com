@@ -29,13 +29,13 @@ After extensive research, I found that the following projector equipment will pr
 | # | Item | Price | Qty | Total | Description
 |-|-
 | 1 | **Projector**: [Optoma EH416]({% post_url 2017-01-07-projector-optoma-eh416 %}) | [$863.02](http://a.co/332cqny) | 2 | $1,726.04 | 1920x1080 16:9 20,000:1 DLP (1) 4200 Lumens
-| 2 | **Projector Screen**: [DA-LITE FAST-FOLD NXT NSCW96X166](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html) | [$1,544.00](https://www.bhphotovideo.com/c/product/1265671-REG/da_lite_nscw96x166_fast_fold_nxt_96.html) | 2 | $3,088 | 166"x96"x190" (WxHxD), 16:9 aspect ratio, front projection, 1.0 Gain, Folding Frame / Truss
+| 2 | **Projector Screen**: [Da-Lite Da-Mat 92 x 144" Front Projection Fast-Fold Deluxe](https://www.bhphotovideo.com/c/product/901758-REG/da_lite_38307_da_mat_92_x_144.html) | [$895.95](https://www.bhphotovideo.com/c/product/901758-REG/da_lite_38307_da_mat_92_x_144.html) | 2 | $1,791.9 | 167.52" diagonal 16:10 aspect ratio, front projection, 1.0 Gain, Folding Frame / Truss
 | 3 | **HDMI Cable** [AmazonBasics High-Speed HDMI Cable - 6 Feet ](http://a.co/846YjhH) | [$6.99](http://a.co/846YjhH) | 3 | $20.97 | Male to A Male Cable; 1x backup cable
 | 4 | **SDI to HDMI** [Blackmagic Design Micro Converter](http://a.co/etrw8Q9) | [$85](http://a.co/etrw8Q9) | 3 | $255 | Converts long-relay SDI signal to short-relay HDMIp 1x backup converter
 | 5 | **Portable Power Bank** [Battery Pack RAVPower 22000mAh](http://a.co/j8IQMtM) | [$39.99](http://a.co/j8IQMtM) | 3 | $119.97 | Power supply for Blackmagic SDI to HDMI converter; 1x backup converter
-| | Subtotal | | | $5,209.98 |
-| | Tax | 8.75% | | $455.87 |
-| | Total | | | $5,665.85 |
+| | Subtotal | | | $3,913.88 |
+| | Tax | 8.75% | | $342.46 |
+| | Total | | | $4,256.34 |
 |---
 
 <hr/>
