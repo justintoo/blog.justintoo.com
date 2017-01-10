@@ -100,6 +100,10 @@ Understanding the basics of how wireless systems and radio waves function will h
 <em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
 <hr/>
 
+# Mixer
+
+[Mackie 802 VLZ4 8 Channel Mixer](https://www.bhphotovideo.com/c/product/996858-REG/mackie_802_vlz4_802vlz4_8_channel_ultra_compact_mixer.html) - $199.99
+
 
 ## External resources
 

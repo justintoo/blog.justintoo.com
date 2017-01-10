@@ -79,6 +79,16 @@ See [Bose L1 Speaker System Specifications Found Here!
 
 The 1S has half the speakers that the Model 2 has in the speaker tower - the "line array".
 
+## Power
+
+See [toonz.ca: Acoustical Output Compared to the L1® Classic and the L1® Model II](http://toonz.ca/bose/wiki/index.php?title=L1%C2%AE_Model_I#Acoustical_Output_Compared_to_the_L1.C2.AE_Classic_and_the_L1.C2.AE_Model_II):
+
+> The maximum output volume of the L1® Classic, the L1® Model I, and the L1® Model II are virtually identical.
+>
+> In the L1® Classic, the L1 Cylindrical Radiator® loudspeaker is powered by two (2) 250 Watt amplifiers. In the Model I and Model II, the L1 Cylindrical Radiator® loudspeaker is powered by one (1) 250 Watt amplifier. The Classic, the Model I, and the Model II all use a second 250 Watt amplifier to power one or two B1 bass modules (update: or a single B2 Bass Module).
+>
+> Although these numbers serve as a point of reference they do not tell the whole story. During the design of the L1® Model I and the L1® Model II the impedance of the L1 Cylindrical Radiator® loudspeaker was lowered. As a result of the lower impedance, a single 250W amplifier now powers the system to within 1.75 dB of the max SPL of the L1® Classic. Several other changes were made to the signal processing and acoustical sections to further reduce this small difference. Particular attention was paid to this change and many A/B comparisons were conducted by Bose to confirm that there was no significant audible difference between the two systems.
+
 ## Coverage
 
 The L1 speakers provide even and consistent sound with around 180º coverage with a focus on tone, coverage, and portability.
@@ -141,10 +151,15 @@ Also, feedback can happen in conventional 3-component sound systems because the 
 >
 > Reference: [bosepro.community](https://www.bosepro.community/g/portable/topic/1000-capacity-indoor-crowd-l1-or-f1)
 
+## Reviews
+
+> Currently running a pair of L1 Model 2s w/ 4 B2s & 2 A1 packlites pushing the extra subs. This configuration replaced 4 JBL eon 515xt & 2 JBL S18 powered subs. The clarity is UN-REAL & the bass is clean. Sure, the BOSE does not have the raw thump of the JBLs, however, this arrangement is lighter & cleaner. Much easier to load in & set-up. You can place the L1s w/ the B2s just about anywhere & you will have full coverage…no matter the size of venue. I noticed if you place the B2s about 2 feet from a wall, you get better bass response. The L1s send out a near 180 degree wave of sound 7 feet high. They cut right through a packed dance floor to the back of house. They are ideal for weddings where you have the ceremony & reception in the same room. No feedback from your mics either….I could go on & on. Superior reproduction & easy all around. They are pricy though. Excellent investment for road dogs. -[Apha1 on serato.com](https://serato.com/forum/discussion/1115349)
+
 ## External resources
 
 1. Watch review: [BOSE L1 Model 1S [REVIEW]: 1S vs. Model2](https://youtu.be/1qEA3VaQtHY)
 2. Watch live demo: [Two Bose L1 Model 2 With Four B2 Bass Modules Part 1](https://youtu.be/xiebwQmT_LQ)
+3. Watch live demo: [BOSE L1 MODEL 1 at Benefit for 600 people](https://youtu.be/-myyvYHKSR0)
 
 <hr/>
 <em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
