@@ -109,11 +109,60 @@ Unexpectedly yet not accidentally, God revealed his missional theme for my life 
 
 What that means, how it relates to fish, innovation, forest floors, the emergent frontier, and the future of the church, is still a puzzle to me, but seemingly it's a puzzle I'll be piecing together in 2017.
 
-# Resources
+# Next Steps
+
+## Continuation Blog Posts
 
 The following is a growing list of my blog posts in my journey to piece together the future of the church:
 
 1. [The Lost Practice of Cooperation?]({% post_url 2016-12-16-the-lost-practice-of-cooperation %})
 2. [T-NET: Training and Coaching Pastors to Finish the Great Commission...Worldwide]({% post_url 2016-12-17-t-net %})
 3. [StartChurch.com as a Christian Social Entrepreneur's Strategy for Tax & Legal]({% post_url 2016-12-23-startchurch-as-a-strategy %})
-3. [Ephesians 2:10: God’s Workmanship and Our Works]({% post_url 2016-12-26-ephesians-2-10-our-works %})
+4. [Ephesians 2:10: God’s Workmanship and Our Works]({% post_url 2016-12-26-ephesians-2-10-our-works %})
+5. [The Missional Church: In the City for the City]({% post_url 2017-01-17-the-missional-church %})
+
+## Related People
+
+|---
+| # | People
+|-|-
+| 1 | [Tony Jones](https://en.wikipedia.org/wiki/Tony_Jones_(theologian)) | ["The New Christians"](https://www.amazon.com/New-Christians-Dispatches-Emergent-Frontier/dp/047045539X); an American theologian, author, blogger, and speaker who is a leading figure in the emerging church movement and postmodern Christianity; Ph.D., Princeton Theological Seminary (2011)
+| 2 | Reggie McNeal | The Missional Leadership Specialist for the [Leadership Network](http://leadnet.org/)
+| 3 | [Tim Keller](https://en.wikipedia.org/wiki/Tim_Keller_(pastor)) |
+| 4 | [Shane Claiborne](https://en.wikipedia.org/wiki/Shane_Claiborne) | A Christian activist and author who is a leading figure in the New Monasticism movement and one of the founding members of the intentional community, the Simple Way, in Philadelphia, Pennsylvania.
+| 5 | [Mark Driscoll](https://en.wikipedia.org/wiki/Mark_Driscoll) | An American evangelical Christian pastor, author, and the former pastor of Mars Hill Church, a megachurch in Seattle, Washington; pastoring The Trinity Church in Scottsdale, Arizona.
+| 6 | [Doug Pagitt](https://en.wikipedia.org/wiki/Doug_Pagitt) |
+| 7 | [Brian McLaren](https://en.wikipedia.org/wiki/Brian_McLaren)
+|---
+
+## Related Organizations
+
+|---
+| # | Organization
+|-|-
+| 1 | [Emergent Village](https://twitter.com/emergentvillage) | A growing, generative friendship among missional Christians seeking to love our world in the Spirit of Jesus Christ
+|---
+
+## Related Books
+
+|---
+| # | Book | Author | Read |
+|-|-
+| 1 | [The New Christians](https://www.amazon.com/New-Christians-Dispatches-Emergent-Frontier/dp/047045539X) | [Tony Jones](https://en.wikipedia.org/wiki/Tony_Jones_(theologian)) | In-progress
+| 2 | [A Biblical Theology of Missions](http://a.co/fPnSXJZ) | George W. Peters |
+| 3 | [The Present Future](http://a.co/gcPMQQ1) (1/3) | Reggie McNeal |
+| 4 | [Missional Renaissance: Changing the Scorecard for the Church](https://www.amazon.com/Missional-Renaissance-Changing-Scorecard-Church/dp/0470243449) (2/3) | Reggie McNeal |
+| 5 | [Missional Communities: The Rise of the Post-Congregational Church](https://www.amazon.com/Missional-Communities-Rise-Post-Congregational-Church/dp/047063345X/ref=pd_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=DVE8TKPQCNWXKN54ZDR2) (3/3) | Reggie McNeal
+| 6 | [Kingdom Come: Why We Must Give Up Our Obsession with Fixing the Church--and What We Should Do Instead](http://a.co/hQw9Kdi) | Reggie McNeal
+|---
+
+## Related Buzz Words
+
+|---
+| # | Buzz Word
+|-|-
+| 1 | [Emerging church](https://en.wikipedia.org/wiki/Emerging_church) | Proponents believe the movement transcends such "modernist" labels of "conservative" and "liberal," calling the movement a "conversation" to emphasize its developing and decentralized nature, its vast range of standpoints, and its commitment to dialogue. Participants seek to live their faith in what they believe to be a "postmodern" society. What those involved in the conversation mostly agree on is their disillusionment with the organized and institutional church and their support for the deconstruction of modern Christian worship, modern evangelism, and the nature of modern Christian community. Varieties: Relevants, Reconstructionists, Revisionists, and house church.
+| 2 | [Postmodern philosophy](https://en.wikipedia.org/wiki/Postmodern_philosophy) | A philosophical direction which is critical of certain foundational assumptions of Western philosophy and especially of the 18th-century Enlightenment. It emphasizes the importance of power relationships, personalization and discourse in the "construction" of truth and world views. Postmodernists deny that an objective reality exists, and deny that there are objective moral values.
+| 3 | [Missional](https://en.wikipedia.org/wiki/Missional_living) | Missional living is the adoption of the posture, thinking, behaviors, and practices of a missionary in order to engage others with the gospel message.
+| 4 | [House church](https://en.wikipedia.org/wiki/House_church) | A group of Christians who regularly gather for worship in private homes. The group may be part of a larger Christian body, such as a parish, but some have been independent groups that see the house church as the primary form of Christian community; House church organizations claim that this approach is preferable to public meetings in dedicated buildings because it is a more effective way of building community and personal relationships, and it helps the group to engage in outreach more naturally; Christians who meet together in homes have often done so because of a desire to return to early Church style meetings as found in the New Testament. The New Testament shows that the Early Christian church exhibited a richness of fellowship and interactive practice that is typically not the case in conventional denominations. They believe that Christians walked closely with each other and shared their lives in Christ together.
+|---

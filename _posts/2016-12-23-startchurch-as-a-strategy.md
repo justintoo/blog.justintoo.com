@@ -16,7 +16,7 @@ tags:
   - legal
   - innovation
   - holdings corporation
-  - ecclesiastical entrepreneur
+  - ecclesiastical entrepreneurism
   - church
   - startchurch.com
 ---
