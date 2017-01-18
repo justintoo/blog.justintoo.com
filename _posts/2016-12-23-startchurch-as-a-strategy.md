@@ -192,6 +192,7 @@ Questions I asked Lester (sales) and Caleb (specialist)
 20. **"Discrimination?"** Faith based organizations can discriminate under First Amendment, but not commonly possible**
 21. **Board distinction** Want a distinction between church and holdings corporation; StartChurch recommendation is to not have any same members; liazon; pastors typically have their wives
 22. **Holdings board** Minimum 3 board members
+<<<<<<< Updated upstream
 23. **Can we add a teleconference provision in the for board meetings**
 24. **Church meetings by about February; need public location - how long should we have? Does online location count?** Meeting in **physical** home groups on a regular basis will be okay, but a solely online presence probably won't cut it.
 25. **How is the Holdings Corporation protected from litigation against the church if the church owns the Holdings?**
