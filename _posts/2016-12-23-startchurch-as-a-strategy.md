@@ -176,7 +176,7 @@ Questions I asked Lester (sales) and Caleb (specialist)
 4. **For #28, does income have to be transferred immediately? Or is it net income?**
 5. **Refund policy document/webpage?**
 6. **Will we be able to submit the 501c3 application for the holdings corporation before March?** *(To qualify for tax exemption retroactive to the date of its organization or formation, an organization claiming tax-exempt status under section 501(c)(3), 501(c)(9), or 501(c)(17) generally must file Form 1023, 1023-EZ, or 1024 within 27 months of the end of the month in which it was legally organized or formed. https://www.irs.gov/instructions/i990/ch01.html)*
-7. **Should we amend articles of incorporation for WE now? Do we have to wait for church incorporate for church ownership or does that only happen at exemption filing?** 501c3 for church; when exempt status is submitted or finalized then we can jump into articles; bylaws tying it to the church as parent organization
+7. **Should we amend articles of incorporation for WE now? Do we have to wait for church incorporate for church ownership or does that only happen at exemption filing?** Must submit 501c3 application for church; when exempt status is submitted or finalized then we can jump into articles and 501c3 of holdings corporation since we'll have to put in the bylaws that the holdings corporation will be owned by the church; bylaws tying it to the church as parent organization. Articles can be submitted simultaneously. However, Holdings Corporations have a 15 month 501c3 filing requirement compared to the 27 months for a regular nonprofit :(
 8. **StartRight for 501c3?**
 9. **Rename nonprofit so holdings can have the name?** Yes, possible, but some states have a hold on a name.
 10. **For-profit?** Wait until church is incorporated.
@@ -185,15 +185,16 @@ Questions I asked Lester (sales) and Caleb (specialist)
 13. **Budget approval** Simple majority with me included as Pastor/President; 3/5, including me
 14. **Accountability board** unanimous board vote for removal until accountability board
 15. **Amending bylaws?** Applying 501c3 the IRS needs bylaws, but don't need to file to state or IRS in general;
-16. **Statement of Faith** #3 is Assemblies of God, #5; Most popular is #1
+16. **Statement of Faith** Example #3 is Assemblies of God, #5; Most popular is #1
 17. **Bylaw review** After sending them to me, we will review them together
 18. **Minister in bylaws** the IRS definition of a minister
 19. **Removal of board members**
 20. **"Discrimination?"** Faith based organizations can discriminate under First Amendment, but not commonly possible**
 21. **Board distinction** Want a distinction between church and holdings corporation; StartChurch recommendation is to not have any same members; liazon; pastors typically have their wives
 22. **Holdings board** Minimum 3 board members
-23. Teleconference
-24. Church meetings by about February; need public location - how long should we have? Does online location count?
+23. **Can we add a teleconference provision in the for board meetings**
+24. **Church meetings by about February; need public location - how long should we have? Does online location count?** Meeting in **physical** home groups on a regular basis will be okay, but a solely online presence probably won't cut it.
+25. **How is the Holdings Corporation protected from litigation against the church if the church owns the Holdings?**
 
 1. Articles of Incorporation
 2. EIN number
