@@ -88,7 +88,7 @@ The [Leadership Network](http://leadnet.org) is an interesting Christian organiz
 
 1. Meaningful conversations that lead to action can change the world.
 2. Being curious about future possibilities.
-3. We are not satisfied with good ideas but seeing the implementation and measuring the results of what is being accomplished
+3. We are not satisfied with good ideas but seeing the implementation and measuring the results of what is being accomplished.
 4. We help the CHURCH be the hands and feet of Jesus in their communities and around the world.
 
 ![Leadership Network](/images//posts/2017/01-january/2017-01-17-the-missional-church/leadership-network.jpg){: .align-center}
