@@ -196,6 +196,7 @@ Questions I asked Lester (sales) and Caleb (specialist)
 23. **Can we add a teleconference provision in the for board meetings**
 24. **Church meetings by about February; need public location - how long should we have? Does online location count?** Meeting in **physical** home groups on a regular basis will be okay, but a solely online presence probably won't cut it.
 25. **How is the Holdings Corporation protected from litigation against the church if the church owns the Holdings?**
+See Wagenmaker & Oberly: [Section 501(c)(2) Tax-Exempt Title Holding Corporations: The Good, the Bad, and Other Options](http://www.wagenmakerlaw.com/blog/section-501c2-tax-exempt-title-holding-corporations-good-bad-and-other-options)
 
 1. Articles of Incorporation
 2. EIN number
