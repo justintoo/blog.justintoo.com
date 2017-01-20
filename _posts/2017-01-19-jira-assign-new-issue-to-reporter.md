@@ -1,5 +1,5 @@
 ---
-title: "JIRA - Automatically Assign a New Issue to the Reporter"
+title: "JIRA - Automatically Assign a New Issue to the Current User"
 categories:
   - Project Management
 tags:
