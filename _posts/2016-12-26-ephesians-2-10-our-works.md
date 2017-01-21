@@ -27,8 +27,6 @@ tags:
 
 {% include toc title="Table of Contents" icon="file-text" %}
 
-# [What's Emerging in the Future of the Church?]({% post_url 2016-12-15-whats-emerging-in-the-future-of-the-church %})
-
 > To be good is the first thing, to do good is the second. Make the tree good and its fruit good. –[MacLaren's Expositions](http://biblehub.com/commentaries/maclaren/ephesians/2.htm)
 
 The church today is filled with many dormant seeds - alive but not actively growing.
