@@ -7,17 +7,22 @@ header:
 categories:
   - Faith
 tags:
-  - emergent christian movement
   - christianity
   - future of the church
   - bible
   - bible study
   - ephesians
   - ephesians 2:10
+  - faith
   - works
+  - fruit of the spirit
   - workmanship
   - commentary
-  - faith
+  - james
+  - james 2
+  - romans
+  - romans 4
+  - romans 5
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}
@@ -26,11 +31,13 @@ tags:
 
 > To be good is the first thing, to do good is the second. Make the tree good and its fruit good. –[MacLaren's Expositions](http://biblehub.com/commentaries/maclaren/ephesians/2.htm)
 
-The church today is filled with many dormant mustard seeds - alive but not actively growing. Sleeping.
+The church today is filled with many dormant seeds - alive but not actively growing.
 
-I believe the job of the church is to be a fertile soil for mustard seeds to be planted and cultivated in.
+*Sleeping*.
 
-But each seed must then grow up to bare fruit outside of the confines of the soil - outside in the wider world - to *do good*.
+Yet I believe the job of the church is to be a fertile soil in which us seeds can be planted, cultivated, and incubated.
+
+Each of us must then grow up to bare fruit outside of the confines of our soil, to do good in the wider world.
 
 ![Growing Plant](/images/posts/2016/12-december/2016-12-26-ephesians-2-10-our-works/emerging-plant.jpg){: .align-center}
 
@@ -40,15 +47,17 @@ But each seed must then grow up to bare fruit outside of the confines of the soi
 
 > 10 For we are God’s handiwork, created in Christ Jesus... –[Ephesians 2:10](https://www.biblegateway.com/passage/?search=Ephesians+2%3A10)
 
-Our first step into Christianity is the decision to be re-created by Christ in us. So we must first accept Him, compelled by His grace, before we can begin working for Him, compelled by our faith.
+Our first step into Christianity is the decision to be re-created by Christ in us.
+
+We must first accept Him, compelled by His grace, before we can begin working for Him, compelled by our faith.
 
 > And let us all remember the order in which being and doing come. We must be good first, and then, and only then, shall we do good. We must have Christ for us first, our sacrifice and our means of receiving that new life, and then, Christ in us, the soul of our souls, the Life of our lives, the source of all our goodness. –[MacLaren's Expositions](http://biblehub.com/commentaries/maclaren/ephesians/2.htm)
 
-# Our Works
+# Our Faith Works
 
-> Works do not justify, but the justified man works – [Galatians 5:22-25](https://www.biblegateway.com/passage/?search=Galatians+5:22-25).
+> Works do not justify, but the justified man works.
 
-The single greatest decision we can make *for ourself* - to believe in and receive God's gift of Salvation - is separate from leading the life we are called to live *for God, His Kingdom, His will, and His world*.
+The single greatest decision we can make *for ourself* - to believe in and receive God's gift of Salvation - is a separate matter from leading the life we are called to live *for God, His Kingdom, His will, and His world*.
 
 We are not gifted grace, salvation, and redemption for the sake of a lifelong spiritual party or celebration for those of us who are now "saved". For when we receive His sacrificial gift, we are now, in fact, "called".
 
@@ -59,7 +68,19 @@ We are not gifted grace, salvation, and redemption for the sake of a lifelong sp
 > There are far too many of us who half-consciously do still hold by the notion that if a man believes rightly then that makes him a Christian.
 >
 > You are saved that you may be good, and do good continually; and unless you are so doing you may be steeped to the eyebrows in the correctest of creeds, and it will only drown you.
+>
+> –[MacLaren's Expositions](http://biblehub.com/commentaries/maclaren/ephesians/2.htm)
 
+For a biblical context, read [Are We Justified by Faith (Romans) or by Works (James)?](https://carm.org/are-we-justified-faith-romans-or-works-james) by the [Christian Apologetics & Research Ministry (CARM)](https://carm.org):
+
+> James is examining two kinds of faith: one that leads to godly works and one that does not.  One is true, and the other is false.  One is dead, the other alive; hence, "Faith without works is dead." (James 2:20).
+>
+> This is why in the middle of his section on faith and works, he says in verse 19, "You believe that God is one. You do well; the demons also believe, and shudder."  James says this because the demons believe in God; that is, they have faith, but the faith they have is useless. It does not result in appropriate works. Their faith is only a mental acknowledgment of God's existence [ascentia vs. fiducia or very simply, head-knowledge vs heart-knowledge].
+
+<figure>
+  <img src="/images/posts/2016/12-december/2016-12-26-ephesians-2-10-our-works/faith-works.jpg" />
+	<figcaption>Image from <a href="https://theentrepreneurialwife.com/2014/12/19/grace-through-faith-or-grace-through-faith-and-works-what-the-bible-teaches/" title="Faith Works">theentrepreneurialwife.com</a>.</figcaption>
+</figure>
 
 # Notes
 
