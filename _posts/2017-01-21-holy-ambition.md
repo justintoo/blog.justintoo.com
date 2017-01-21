@@ -38,4 +38,5 @@ In the words of [Pastor Chip Ingram](http://livingontheedge.org/about-us/about-c
 
 1. [Holy Ambition: Turning God-Shaped Dreams Into Reality]({% post_url 2017-01-21-holy-ambition %})
 2. [Holy Ambition Requires Laser Focus]({% post_url 2017-01-21-holy-ambition-requires-laser-focus %})
-3. *stay tuned for more...*
+3. People with a Holy Ambition Ask Questions
+4. *stay tuned for more...*
