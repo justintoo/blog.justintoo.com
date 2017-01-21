@@ -120,6 +120,7 @@ The following is a growing list of my blog posts in my journey to piece together
 3. [StartChurch.com as a Christian Social Entrepreneur's Strategy for Tax & Legal]({% post_url 2016-12-23-startchurch-as-a-strategy %})
 4. [Ephesians 2:10: God’s Workmanship and Our Works]({% post_url 2016-12-26-ephesians-2-10-our-works %})
 5. [The Missional Church: In the City for the City]({% post_url 2017-01-17-the-missional-church %})
+6. [Holy Ambition: Turning God-Shaped Dreams Into Reality]({% post_url 2017-01-21-holy-ambition %})
 
 ## Related People
 
