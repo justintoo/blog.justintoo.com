@@ -32,17 +32,19 @@ He goes on to explain that most people today are flashlights – *diffused light
 
 ![A flashlight](/images/posts/2017/01-january/2017-01-21-holy-ambition-requires-laser-focus/flashlight.jpg){: .align-center}
 
-On the other hand, laser beams do just a few things. But they do them really well. And while a laser can have a high impact and cut through a steel door, a flashlight can maybe help you see 30 feet.
+On the other hand, laser beams do just a few things. But they do them really well. And while a laser can have a high impact and cut through a steel door, a flashlight might just help you see 30 feet.
 
 ## Multiply, Amplify, Unify
 
-Becoming an impactful, laser-focused wave requires [coherence](https://www.google.com/search?q=define%3A+coherence): *the quality of forming a unified whole*.
+A laser is just a wave of light. And to become an impactful, laser-focused wave of change requires [coherence](https://www.google.com/search?q=define%3A+coherence): *the quality of forming a unified whole*.
 
 > Scalability can be achieved by combining separate laser beams... Beams can only be combined if they are coherent with each other. Such beams can be combined actively or passively. (See Wikipedia: [laser power scaling](https://en.wikipedia.org/wiki/Laser_power_scaling).)
 
-This is exactly the approach taken by a local Christian nonprofit organization, [Transforming the Bay with Christ](http://www.tbc.city/):
+This is exactly the approach taken by a local Christian nonprofit that I support - [Transforming the Bay with Christ](http://www.tbc.city/):
 
 > Our strategy is to UNIFY, AMPLIFY and MULTIPLY leaders in the Bay Area for Kingdom impact.
+
+As one body with a multiplicity of functions, we can amplify our Kingdom efforts by unifying together. But this requires a certain level of coordination, collaboration, compromise, and synchronization.
 
 <figure>
   <img src="/images/posts/2017/01-january/2017-01-21-holy-ambition-requires-laser-focus/nif-laser-shot.jpg" />
@@ -55,14 +57,32 @@ This is exactly the approach taken by a local Christian nonprofit organization, 
 
 In this day and age, our lack of concentration tends to stem from *an inundation of distractions* so the key to concentration is not always trying to concentrate more or focus more, but instead, to *eliminate* more.
 
-I have a unique perspective and insight on multitasking because of my background in computer science. Until the advent of multi-core processors in computers, [computer multitasking](https://en.wikipedia.org/wiki/Computer_multitasking) was only a carefully executed illusion orchestrated by your computer's operating system.
+There has never been a worst time in history where our time and attention has had such a breadth at the expense of depth. Data overload. Information overload. Work overload. Ministry overload.
+
+Elimination, to me, doesn't mean you can't do it or shouldn't do it. Elimination might just mean you shouldn't do it right now.
+
+Sometimes in order to go fast, you have to go slow.
+
+# About Multitasking
+
+## The Multitasking Illusion in Computers
+
+I have a unique perspective and insight on multitasking because of my background in computer science. You see, [computer multitasking](https://en.wikipedia.org/wiki/Computer_multitasking) has historically been just a carefully executed illusion orchestrated by your computer's operating system.
+
+Performing an action in a computer program delivers a certain number of instructions to the CPU for execution. But before an instruction can actually be executed, it has to line up in a queue that contains other instructions from all the other programs that you have running. Programs with higher priorities are allowed more execution time, while programs with lower priorities might only have a handful of instructions executed at a given time.
+
+It's this careful interleaving of instruction execution that creates the illusion of multitasking. Needless to say, a CPU can execute a bunch of instructions really fast every second.
+
+This interleaving of instructions doesn't come without a cost, however. In fact, before a program can even run, it has to load its data back into your computer's memory every time it needs to run - this is called a context switch. Each program has to remember where it left off the last time it was being executed by your CPU. This continuous transfer of data is resource intensive and creates an overhead - the cost of multitasking.
+
+But imagine if only one or two programs were running at a given time - so many more instructions would be flying through the CPU and a lot more would be accomplished in a shorter time.
 
 <figure>
   <img src="/images/posts/2017/01-january/2017-01-21-holy-ambition-requires-laser-focus/process-transition.gif" />
 	<figcaption>Programs in a computer go through a continuous cycle of running, stopping, and switching.</figcaption>
 </figure>
 
-# [How (and Why) to Stop Multitasking](https://hbr.org/2010/05/how-and-why-to-stop-multitaski.html)
+## [How (and Why) to Stop Multitasking](https://hbr.org/2010/05/how-and-why-to-stop-multitaski.html)
 
 Below are excerpts I've collected for my reference from [How (and Why) to Stop Multitasking](https://hbr.org/2010/05/how-and-why-to-stop-multitaski.html) in the Harvard Business Review:
 
