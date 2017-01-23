@@ -68,7 +68,7 @@ The first article I read was [Traditioned Innovation](https://www.faithandleader
 >
 > Sometimes that will mean we innovate within existing institutions; at other times we will allow some forms to die so that other ones can rise up in their place. And at still other times we will give birth to new forms to address challenges and opportunities. But even our most dramatic transformations ought to be tethered to our most life-giving past.
 
-## The Biblical Perspective
+# The Biblical Perspective
 The second article I read was by [C. Kavin Rowe](https://www.faithandleadership.com/people-news/writers/c-kavin-rowe), called [Traditioned innovation: A biblical way of thinking](https://www.faithandleadership.com/content/traditioned-innovation-biblical-way-thinking?utm_source=conceptpage&utm_medium=principle&utm_campaign=traditionedinnovation).
 
 I highly recommend reading the article in its entirety, but for convenience, I've saved a collection of poignant snippets below that provides an enlightening biblical perspective on the subject:
