@@ -23,7 +23,8 @@ tags:
   - missional movement
 ---
 
-Outlines an alternative to the program church model that is focused on the projects and passions of the congregants
+
+WE offer an alternative to the program church model that is focused on the projects and passions of God's people.
 
 Reggie McNeal the Missional Leadership Specialist for Leadership Network
 
@@ -33,27 +34,16 @@ Are we a church in the city or for the city?
 
 If we're a church for the city, then we need to do what we're doing with the city.
 
-Non affiliated doesn't mean non-spiritual. Half of them believe in God and 40% of atheists pray.
-
-Many people are not susceptible to coming to church for their first point of engagement.
-
-We need to figure out how to engage people in the street and start the conversation.
-
-The church service vs the service of the church.
-
-Cross-culturual synergy is required to address the biggest issues facing our society.
-
-Schools are long hanging fruits for easy partnerships between the church and the community. Issues in a community are usually manifesting in the local schools. So getting in touch with the school gets you involved with the community needs.
-
-Mentoring is usually a first step. Hunger makes it difficult for people to learn.
-
 Program approach to missional - going out on a weekend once a year to help the community.
 
 We are the people of God partnering with Him in his redemptive work.
 
+
+# Measures of Success
 We measure what we value, but we really end up valuing what we measure.
 
 How much of our facility is being used by the community every week?
+
 
 # [Leadership Network](http://leadnet.org)
 
