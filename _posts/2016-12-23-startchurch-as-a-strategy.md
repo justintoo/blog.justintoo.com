@@ -181,7 +181,7 @@ Questions I asked Lester (sales) and Caleb (specialist)
 9. **Rename nonprofit so holdings can have the name?** Yes, possible, but some states have a hold on a name.
 10. **For-profit?** Wait until church is incorporated.
 11. **Location of Church?** IRS
-12. **Board membership and family?** Need a majority that is unrelated (3/5 is okay). Salary, me and wife shouldn't vote
+12. **Board membership and family?** Need a majority that is unrelated (3/5 is okay). Regarding the my salary, wife and I shouldn't vote
 13. **Budget approval** Simple majority with me included as Pastor/President; 3/5, including me
 14. **Accountability board** unanimous board vote for removal until accountability board
 15. **Amending bylaws?** Applying 501c3 the IRS needs bylaws, but don't need to file to state or IRS in general;
@@ -192,11 +192,27 @@ Questions I asked Lester (sales) and Caleb (specialist)
 20. **"Discrimination?"** Faith based organizations can discriminate under First Amendment, but not commonly possible**
 21. **Board distinction** Want a distinction between church and holdings corporation; StartChurch recommendation is to not have any same members; liazon; pastors typically have their wives
 22. **Holdings board** Minimum 3 board members
-<<<<<<< Updated upstream
 23. **Can we add a teleconference provision in the for board meetings**
 24. **Church meetings by about February; need public location - how long should we have? Does online location count?** Meeting in **physical** home groups on a regular basis will be okay, but a solely online presence probably won't cut it.
 25. **How is the Holdings Corporation protected from litigation against the church if the church owns the Holdings?**
 See Wagenmaker & Oberly: [Section 501(c)(2) Tax-Exempt Title Holding Corporations: The Good, the Bad, and Other Options](http://www.wagenmakerlaw.com/blog/section-501c2-tax-exempt-title-holding-corporations-good-bad-and-other-options)
+26. **We incorporated December 2014 - was I supposed to file a 990-N postcard for 2014?** Usually should start filing once EIN is obtained; we only obtained EIN March 2015 so we're fine since we filed a 990-N for 2015 and will file this year for 2016.
+27. **Ordination Certificate Template for other pastors ordained by our ministry?** StartChurch might have templates in the Document Suite.
+28. **Religious or Non-religious CDC?** Religious = hire and operate based on religious beliefs; downside can be that certain donors/grants wouldn't want to donate to you
+29. **Is it possible to tie CDC to Church?** Not legally, but usually tied informally with the same governing individuals.
+30. **What do organizations usually use: Chairman or President?** Sometimes the Chairman rotates yearly; or between two people (maybe President and Vice-President); current bylaws say President will serve the Chairperson; so I need to be Pastor/President/Chairman in order retain as much control of the church, and there's no conflicts because the bylaws help us maintain balanced control with the board structure since a majority vote is still required, which must include my vote.
+31. **Conflict of interest related to CDC and church - should there be a separation of boards?** No, there is no issue with the same boards since assets are not shared as is the case between the Church and the Holdings Corporation.
+32. **For-profit arm** 51% ownership for the church/holdings is recommended, though it's not required; you will have to register with the department of revenue in California for payroll and labor department on your own; 1120 tax return.
+33. **When and how much of profits are given through dividends** Specified in bylaws to give board this responsibility. Typically set it up with 100,000 shares specified in articles of incorporation. Bylaws set the par value of shares to $0.001/share. See [Par Value for a Startup Company’s Stock](http://startuplawyer.com/incorporation/par-value-for-a-startup-companys-stock), [CapGenius: Set the Par Value for your Common Stock "Absurdly" Low](https://capgenius.com/2011/02/27/set-the-par-value-for-your-common-stock-absurdly-low-heres-why/), and [How many shares should be authorized in the certificate of incorporation?](http://www.startupcompanylawyer.com/2008/01/25/how-many-shares-should-be-authorized-in-the-certificate-of-incorporation/): "From a purely mathematical perspective, it doesn’t matter whether there are 1 million or 10 million fully-diluted shares. However, when companies are granting options to new employees, even the smartest engineers feel better receiving options to purchase 100,000 shares as opposed to 10,000 shares, even if it represents the same percentage ownership of the company."
+34. **Franchise Tax in Delaware**: See calculator: https://corp.delaware.gov/frtaxcalc.shtml.
+
+Holdings - we wait for church 501c3 ; 15 month window
+
+Send Caleb names and addresses of board members
+
+1 - CDC: religious or not
+2 - CDC: name change or not
+3 -
 
 1. Articles of Incorporation
 2. EIN number
