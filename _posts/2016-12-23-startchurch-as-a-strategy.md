@@ -206,7 +206,7 @@ See Wagenmaker & Oberly: [Section 501(c)(2) Tax-Exempt Title Holding Corporation
 33. **When and how much of profits are given through dividends** Specified in bylaws to give board this responsibility. Typically set it up with 100,000 shares specified in articles of incorporation. Bylaws set the par value of shares to $0.001/share. See [Par Value for a Startup Company’s Stock](http://startuplawyer.com/incorporation/par-value-for-a-startup-companys-stock), [CapGenius: Set the Par Value for your Common Stock "Absurdly" Low](https://capgenius.com/2011/02/27/set-the-par-value-for-your-common-stock-absurdly-low-heres-why/), and [How many shares should be authorized in the certificate of incorporation?](http://www.startupcompanylawyer.com/2008/01/25/how-many-shares-should-be-authorized-in-the-certificate-of-incorporation/): "From a purely mathematical perspective, it doesn’t matter whether there are 1 million or 10 million fully-diluted shares. However, when companies are granting options to new employees, even the smartest engineers feel better receiving options to purchase 100,000 shares as opposed to 10,000 shares, even if it represents the same percentage ownership of the company."
 34. **Franchise Tax in Delaware**: See calculator: https://corp.delaware.gov/frtaxcalc.shtml.
 
-Holdings - we wait for church 501c3 ; 15 month window
+Holdings - we will wait for church 501c3 application since holdings has 15 month window to apply for 501c3 itself.
 
 Send Caleb names and addresses of board members
 
