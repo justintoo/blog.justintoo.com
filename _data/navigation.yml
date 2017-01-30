@@ -5,7 +5,8 @@ main:
 
 #  - title: "Search"
 #    url: /search/
-
+  - title: "About"
+    url: http://justintoo.com
   - title: "Writing"
     url: /year-archive/
 
