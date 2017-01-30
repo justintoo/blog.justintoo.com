@@ -149,10 +149,10 @@ kramdown:
 
 
 # Collections
-collections:
-  software:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  software:
+#    output: true
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -175,18 +175,18 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _software
-  - scope:
-      path: ""
-      type: software
-    values:
-      layout: software
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "software"
+#  # _software
+#  - scope:
+#      path: ""
+#      type: software
+#    values:
+#      layout: software
+#      read_time: false
+#      author_profile: false
+#      share: false
+#      comments: false
+#      sidebar:
+#        nav: "software"
 
 
 # Outputting
