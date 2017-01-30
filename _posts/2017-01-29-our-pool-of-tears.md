@@ -56,4 +56,4 @@ Jesus implores us in [John 16:33](https://www.biblegateway.com/passage/?search=J
 
 <hr/>
 
-*Need encouragement and inspiration to Find Joy in a Challenging World?* Join me on March 31st at the 23rd annual [Silicon Valley Prayer Breakfast conference](http://www.svpb.net/annual-breakfasts.html) to hear an inspirational set of speakers, including Ron Johnson, Diane Flynn, and Vanessa Russell, at the Hyatt Regency in Santa Clara, California. I promise you'll be uplifted and inspired through their pools of tears.
+*Need encouragement and inspiration to Find Joy in a Challenging World? Join me on March 31st at the 23rd annual [Silicon Valley Prayer Breakfast conference](http://www.svpb.net/annual-breakfasts.html) to hear an inspirational set of speakers, including Ron Johnson, Diane Flynn, and Vanessa Russell, at the Hyatt Regency in Santa Clara, California. I promise you'll be uplifted and inspired through their pools of tears.*
