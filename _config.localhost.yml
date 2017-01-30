@@ -149,10 +149,10 @@ kramdown:
 
 
 # Collections
-collections:
-  software:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  software:
+#    output: true
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
