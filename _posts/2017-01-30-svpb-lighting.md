@@ -48,7 +48,7 @@ Capabilities that are out of the budget or not possible:
 1. DMX for remote dimming capability with dim board (over $2000/light).
 2. Truss of lights can only support around 10' wide, otherwise would require additional ceiling support.
 
-## Scenario 1 - 2 Lights
+## Scenario 1 - 2 Lights ($1,996.92)
 
 |---
 | # | Item | Price | Qty | Total | Description
@@ -72,7 +72,7 @@ Capabilities that are out of the budget or not possible:
 
 <!--more-->
 
-## Scenario 2 - 4 Lights
+## Scenario 2 - 4 Lights ($3,811.36)
 
 |---
 | # | Item | Price | Qty | Total | Description
