@@ -37,6 +37,7 @@ In the words of [Pastor Chip Ingram](http://livingontheedge.org/about-us/about-c
 *The following is a growing list of my blog posts in my journey to develop a holy ambition:*
 
 1. [Holy Ambition: Turning God-Shaped Dreams Into Reality]({% post_url 2017-01-21-holy-ambition %})
-2. [Holy Ambition Requires Laser Focus]({% post_url 2017-01-21-holy-ambition-requires-laser-focus %})
-3. People with a Holy Ambition Ask Questions
-4. *stay tuned for more...*
+2. [Holy Ambition: Impact through Laser Focus]({% post_url 2017-01-21-holy-ambition-impact-through-laser-focus %})
+3. [Holy Ambition: Projects must be valuable to the worker](%{ post_url 2017-01-27-holy-ambition-projects-must-be-valuable-to-the-worker %})
+4. People with a Holy Ambition Ask Questions
+5. *stay tuned for more...*
