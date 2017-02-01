@@ -32,6 +32,10 @@ header:
 | 3 | Worst Quality | $13,277.43 | 6 speakers, 4 mics, 0 lights
 |---
 
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
 ## Scenario 1 - Best Quality ($18,169.03)
 
 The total cost of the best-quality revised proposal is **$18,169.03**, which is +$6,628.89 more than [proposal #1]({% post_url 2017-01-07-svpb-av %}) ($11,540.14) due to the addition of the following estimated cost escalations:
@@ -71,6 +75,10 @@ The following example ROI schedule does not consider Corp cost-escalation/inflat
 | 5 | 2021 | $5,075 ($25,375) | $2,175 ($26,700, +$1,325, -5.22% savings)
 | 6 | 2022 | $5,075 ($30,450) | $2,175 ($28,875, -$1,575, +5.12% savings)
 |---
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
 
 ## Scenario 2 - Average Quality ($15,085.40)
 
@@ -112,6 +120,53 @@ The following example ROI schedule does not consider Corp cost-escalation/inflat
 | 6 | 2022 | $5,075 ($30,450) | $2,175 ($25,875, -$4,575, +15.0% savings)
 |---
 
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+## Scenario 3 - Worst Quality ($13,187.03)
+
+The total cost of the worst-quality revised proposal is **$13,187.03**, which is +1,646.89 more than [proposal #1]({% post_url 2017-01-07-svpb-av %}) ($11,540.14) due to the addition of the following estimated cost escalations:
+
+1. 2x extra speakers (+1,305)
+2. 2x extra microphones (+1,129.17)
+3. 0x lighting (+0.00)
+
+This takes into account a $3,000 capital contribution from WE.
+
+However, this does not take into account insurance coverage, which is estimated to be $5000-$6000/year ($416-$500/month). Therefore, it is not recommended that SVPB covers the premiums in order to be assigned loss payee.
+
+|---
+| # | Component | Cost | Description
+|-|-
+| 1 | **Projection** | $4,201.99 | 2x 4200 lumens 1920x1080 16:9 projecting to 167" (12x7.5') screen (includes accessories)
+| 2 | **Speakers** | $6,791.13 | 6x 1000W speakers
+| 3 | **Microphones** | $3,248.10 (-1,128.83) | 4x wireless microphones (2x handheld, 2x lav); -2x lavs
+| 4 | **Video** | $1,175 | 50% off
+| | **Subtotal** | $15,416.22
+| | **Contingency** | $770.81 | 5%
+| | **Market Value** | **$16,187.03**
+| | **WE Contribution** | -$3,000
+| | **Total** | **$13,187.03**
+|---
+
+The following example ROI schedule does not consider Corp cost-escalation/inflation:
+
+|---
+| # | Year | Corp | WE
+|-|-
+| 1 | 2017 | $5,075 | $15,000
+| 2 | 2018 | $5,075 ($10,150) | $2,175 (43% corp) ($17,175)
+| 3 | 2019 | $5,075 ($15,225) | $2,175 ($19,350, +$4,125, -27.0% savings)
+| 4 | 2020 | $5,075 ($20,300) | $2,175 ($21,525, +$1,225, -6.00% savings)
+| 5 | 2021 | $5,075 ($25,375) | $2,175 ($23,700, -$1,675, +6.60% savings)
+| 6 | 2022 | $5,075 ($30,450) | $2,175 ($25,875, -$4,575, +15.0% savings)
+|---
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
 # Procurement Schedule
 
 Here is the procurement, testing, and training schedule:
@@ -130,6 +185,10 @@ Here is the procurement, testing, and training schedule:
 | 9 | 8 | Thursday, 3/30 | A/V setup at [Hyatt Regency Santa Clara](https://santaclara.regency.hyatt.com/en/hotel/home.html)
 | 10 |  | Friday, 3/31 | [SVPB 23rd annual event, 7am - 8:30am](http://www.svpb.net/annual-breakfasts.html)
 |---
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
 
 # Itemized A/V Components
 
