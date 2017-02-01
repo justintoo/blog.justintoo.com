@@ -49,6 +49,27 @@ However, this does not take into account insurance coverage, which is estimated 
 | | **Total** | **$18,169.03**
 |---
 
+# Procurement Schedule
+
+Here is the procurement, testing, and training schedule:
+
+|---
+| # | Week | Date | Details
+|-|-
+| 1 | 1 | Monday, 2/13 | Budget Approval
+| 2 |  | Wednesday, 2/15 | Initial Procurement
+| 3 | 2| Friday, 2/24 | Equipment Arrival
+| 4 | 3 | Sunday, 2/26 | Live event test 1/5
+| 5 | 4 | Sunday, 3/5 | Live event test 2/5 - returns/exchanges procurement
+| 6 | 5 | Sunday, 3/12 | Live event test 3/5
+| 7 | 6 | Sunday, 3/19 | Live event test 4/5 - test procurements from #5 (1/2)
+| 8 | 7 | Sunday, 3/26 | Live event test 5/5 - test replacements from #5 (2/2)
+| 9 | 8 | Thursday, 3/30 | A/V setup at [Hyatt Regency Santa Clara](https://santaclara.regency.hyatt.com/en/hotel/home.html)
+| 10 |  | Friday, 3/31 | [SVPB 23rd annual event, 7am - 8:30am](http://www.svpb.net/annual-breakfasts.html)
+|---
+
+# Itemized A/V Components
+
 ## Projection ($4,201.99)
 
 |---
