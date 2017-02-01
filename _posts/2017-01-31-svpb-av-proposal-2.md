@@ -24,6 +24,31 @@ header:
 
 # Summary
 
+The total cost of the revised proposal is **$18,169.03**, which is +$6,628.89 more than [proposal #1]({% post_url 2017-01-07-svpb-av %}) ($11,540.14) due to the addition of the following estimated cost escalations:
+
+1. 2x extra speakers (+1,305)
+2. 4x extra microphones (+2,258)
+3. 4x lighting (+3,616)
+
+This takes into account a $3,000 capital contribution from WE.
+
+However, this does not take into account insurance coverage, which is estimated to be $5000-$6000/year ($416-$500/month). Therefore, it is not recommended that SVPB covers the premiums in order to be assigned loss payee.
+
+|---
+| # | Component | Cost | Description
+|-|-
+| 1 | **Projection** | $4,201.99 | 2x 4200 lumens 1920x1080 16:9 projecting to 167" (12x7.5') screen (includes accessories)
+| 2 | **Speakers** | $6,791.13 | 6x 1000W speakers
+| 3 | **Microphones** | $4,376.93 | 6x wireless microphones (2x handheld, 4x lav)
+| 4 | **Lighting** | $3,615.94 | 4x flood-to-spot lights with up to 50 ft. throw
+| 5 | **Video** | $1,175 | 50% off
+| | **Subtotal** | $20,160.99
+| | **Contingency** | $1,008.05 | 5%
+| | **Market Value** | **$21,169.03**
+| | **WE Contribution** | -$3,000
+| | **Total** | **$18,169.03**
+|---
+
 ## Projection ($4,201.99)
 
 |---
@@ -36,7 +61,7 @@ header:
 | 5 | **Surge Protector Power Strip** [APC SurgeArrest 11-Outlet Surge Protector ](https://www.bhphotovideo.com/c/product/1219813-REG/apc_p11u2_surgearrest_11_outlet_surge_protector.html) | [$34.99](https://www.bhphotovideo.com/c/product/1219813-REG/apc_p11u2_surgearrest_11_outlet_surge_protector.html) | 2 | $69.98 | 11 outlets, 2 USB 2.4A, 2880 joules protection, $250k connected equipment warranty
 | | Subtotal | | | $3,863.89 |
 | | Tax | 8.75% | | $338.10 |
-| | Total | | | $4,201.99 |
+| | Total | | | **$4,201.99** |
 |---
 
 *See CNET: [9 things you should know about surge protectors](https://www.cnet.com/news/9-things-you-should-know-about-surge-protectors/).*
@@ -45,24 +70,27 @@ header:
 <em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
 <hr/>
 
-## Audio - Speakers
+## Audio - Speakers ($6,791.13)
 
 |---
 | # | Item | Price | Qty | Total | Description
 |-|-
-| 1 | [JBL EON615 15" 1000W Speakers](http://www.jblpro.com/www/products/portable-market/eon600-series/eon615#.WHQxmpJWcWM) | [$599.95](https://www.bhphotovideo.com/c/product/1112180-REG/jbl_jbl_eon615_powered_speaker.html) | 6 | $3,599.70 | Comes with Gas Assist Tripod Kit; 2 x Balanced XLR-1/4” combination inputs; 1 x male XLR loop thru out; requires AC power ([1/3rd Power – 2.03A (Max)](http://www.jblpro.com/ProductAttachments/EON615_SpecSheet_4%2028%2015.pdf))
-| 2 | [JBL EON615-Bag-W Deluxe Carry Bag with Wheels](https://www.bhphotovideo.com/c/product/1103017-REG/jbl_eon615_bag_w_deluxe_carry_bag.html) | [$179.99](https://www.bhphotovideo.com/c/product/1103017-REG/jbl_eon615_bag_w_deluxe_carry_bag.html) | 6 | $1,079.94 |
-| 3 | [Kopul Studio Elite 4000 Series XLR M to XLR F 50'](https://www.bhphotovideo.com/c/product/845542-REG/Kopul_m4050_Kopul_Studio_Elite_4000.html) | [$21.49](https://www.bhphotovideo.com/c/product/845542-REG/Kopul_m4050_Kopul_Studio_Elite_4000.html) | 6 | $128.94 | Extra long cables for chaining speakers
-| 4 | [Kopul Studio Elite 4000 Series XLR M to XLR F 100'](https://www.bhphotovideo.com/c/product/845545-REG/Kopul_m4100_Kopul_Studio_Elite_4000.html) | [$29.95](https://www.bhphotovideo.com/c/product/845545-REG/Kopul_m4100_Kopul_Studio_Elite_4000.html) | 4 | $119.80 | Extra long cables for linking audio board to speakers
-| 5 | [Watson 100 ft AC Power Extension Cord 14 AWG](https://www.bhphotovideo.com/c/product/1013728-REG/watson_ace14_100b_100_power_extention_cord.html) | [$49.95](https://www.bhphotovideo.com/c/product/1013728-REG/watson_ace14_100b_100_power_extention_cord.html) | 2 | $99.90 |
-| 6 | [Watson 50 ft AC Power Extension Cord 14 AWG](https://www.bhphotovideo.com/c/product/1013727-REG/watson_ace14_50b_50_power_extention_cord.html) | [$29.95](https://www.bhphotovideo.com/c/product/1013727-REG/watson_ace14_50b_50_power_extention_cord.html) | 8 | $239.60
-| 7 | [Furman PL-8 C Power Conditioner](https://www.bhphotovideo.com/c/product/584417-REG/Furman_PL_8C_PL_8_C_Power_Conditioner.html) | [$158.97](https://www.bhphotovideo.com/c/product/584417-REG/Furman_PL_8C_PL_8_C_Power_Conditioner.html) | 2 | $317.94 | Ensures that each speaker gets the correct voltage and current needed
-| | Subtotal | | | $3,863.16 - $5,585.82 |
-| | Tax | 8.75% | | $338.03 - $488.76 |
-| | **Total** | | | **$4,201.18 - $6,074.52** |
+| 1 | [JBL EON615 15" 1000W Speakers](http://www.jblpro.com/www/products/portable-market/eon600-series/eon615#.WHQxmpJWcWM) | [$599.95](https://www.bhphotovideo.com/c/product/1112180-REG/jbl_jbl_eon615_powered_speaker.html) | 6 | $3,599.70 | 6x Comes with Gas Assist Tripod Kit; 2 x Balanced XLR-1/4” combination inputs; 1 x male XLR loop thru out; requires AC power ([1/3rd Power – 2.03A (Max)](http://www.jblpro.com/ProductAttachments/EON615_SpecSheet_4%2028%2015.pdf))
+| 2 | [JBL EON615-Bag-W Deluxe Carry Bag with Wheels](https://www.bhphotovideo.com/c/product/1103017-REG/jbl_eon615_bag_w_deluxe_carry_bag.html) | [$179.99](https://www.bhphotovideo.com/c/product/1103017-REG/jbl_eon615_bag_w_deluxe_carry_bag.html) | 6 | $1,079.94 | 6x speaker bags
+| 3 | [dbx DriveRack 260 Equalization and Loudspeaker Control System](https://www.bhphotovideo.com/c/product/288109-REG/dbx_260_DriveRack_260_Control_System.html) | [$599.00](https://www.bhphotovideo.com/c/product/288109-REG/dbx_260_DriveRack_260_Control_System.html) | 1 | $599.00 | Syncing, phasing, interference, sound control
+| 4 | [Kopul Studio Elite 4000 Series XLR M to XLR F 50'](https://www.bhphotovideo.com/c/product/845542-REG/Kopul_m4050_Kopul_Studio_Elite_4000.html) | [$21.49](https://www.bhphotovideo.com/c/product/845542-REG/Kopul_m4050_Kopul_Studio_Elite_4000.html) | 6 | $128.94 | 4x long 50' cables for chaining speakers; 2x backup
+| 5 | [Kopul Studio Elite 4000 Series XLR M to XLR F 100'](https://www.bhphotovideo.com/c/product/845545-REG/Kopul_m4100_Kopul_Studio_Elite_4000.html) | [$29.95](https://www.bhphotovideo.com/c/product/845545-REG/Kopul_m4100_Kopul_Studio_Elite_4000.html) | 6 | $179.70 | 4x Extra long 100' XLR cables for linking audio board to speakers; 2x backup
+| 6 | [Watson 100 ft AC Power Extension Cord 14 AWG](https://www.bhphotovideo.com/c/product/1013728-REG/watson_ace14_100b_100_power_extention_cord.html) | [$49.95](https://www.bhphotovideo.com/c/product/1013728-REG/watson_ace14_100b_100_power_extention_cord.html) | 2 | $99.90 |
+| 7 | [Watson 50 ft AC Power Extension Cord 14 AWG](https://www.bhphotovideo.com/c/product/1013727-REG/watson_ace14_50b_50_power_extention_cord.html) | [$29.95](https://www.bhphotovideo.com/c/product/1013727-REG/watson_ace14_50b_50_power_extention_cord.html) | 8 | $239.60
+| 8 | [Furman PL-8 C Power Conditioner](https://www.bhphotovideo.com/c/product/584417-REG/Furman_PL_8C_PL_8_C_Power_Conditioner.html) | [$158.97](https://www.bhphotovideo.com/c/product/584417-REG/Furman_PL_8C_PL_8_C_Power_Conditioner.html) | 2 | $317.94 | Ensures that each speaker gets the correct voltage and current needed
+| | Subtotal | | | $6,244.72 |
+| | Tax | 8.75% | | $546.41 |
+| | **Total** | | | **$6,791.13** |
 |---
 
-2x dedicated mixer-to-speakers (L/R); 2x speaker-to-speaker (side-to-front);
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
 
 ## Audio - Microphones ($4,376.93)
 
@@ -97,6 +125,10 @@ header:
 | 7 | Mixer 1 - L | Mixer 2 - In | 5'
 |---
 
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
 ## Lighting ($3,615.94)
 
 |---
@@ -113,16 +145,28 @@ header:
 | | **Total** | | | **$3,615.94**
 |---
 
-## Video
+## Video ($1,175)
 
-
-## Misc
-
-| 7 | [ProTapes Pro Gaffer Tape (3" x 55 yd, Black)](https://www.bhphotovideo.com/c/product/812219-REG/General_Brand_001UPCG355MBLA_Pro_Gaffer_Cloth_Tape.html) | [$29.95](https://www.bhphotovideo.com/c/product/812219-REG/General_Brand_001UPCG355MBLA_Pro_Gaffer_Cloth_Tape.html) | 3 | $89.85 | secure lighting, wires, power cords, etc.
-
-
-# Multimedia Services
+|---
+| # | Item | Cost | Notes
+|-|-
+| 1 | Video Production | $1,175 | 50% off
+|---
 
 <hr/>
 <em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
 <hr/>
+
+## Misc
+
+*In progress...*
+
+|---
+| # | Item | Cost | Notes
+|-|-
+| 1 | [ProTapes Pro Gaffer Tape (3" x 55 yd, Black)](https://www.bhphotovideo.com/c/product/812219-REG/General_Brand_001UPCG355MBLA_Pro_Gaffer_Cloth_Tape.html) | [$29.95](https://www.bhphotovideo.com/c/product/812219-REG/General_Brand_001UPCG355MBLA_Pro_Gaffer_Cloth_Tape.html) | 3 | $89.85 | secure lighting, wires, power cords, etc.
+|---
+
+
+# Multimedia Services
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
