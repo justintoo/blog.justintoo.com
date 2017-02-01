@@ -16,8 +16,8 @@ tags:
   - presentation
   - live event
 header:
-  image: /posts/2017/01-january/2017-01-07-projector-optoma-eh416/cover-projector-optoma-eh416.jpg
-  caption: "Microphone"
+  image: /posts/2017/01-january/2017-01-07-svpb-av-microphones/cover-shure-wireless-mic.jpg
+  caption: "Wireless Microphone"
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}
@@ -25,6 +25,21 @@ header:
 *This article is part of multipart series: [Researching A/V Equipment for the Silicon Valley Prayer Breakfast (SVPB)]({% post_url 2017-01-07-svpb-av %}).*
 
 # Summary
+
+## Proposal #2
+
+1x snake
+
+|---
+| # | Item | Price | Qty | Total | Description
+|-|-
+| 1 | [Whirlwind 4 XLR Male to 4 XLR Female Fan](https://www.bhphotovideo.com/c/product/1008351-REG/whirlwind_mt_4_f_m_200_ss_4_xlr_male_to.html) | [$439.99](https://www.bhphotovideo.com/c/product/1008351-REG/whirlwind_mt_4_f_m_200_ss_4_xlr_male_to.html) | 1 | $439.99 | 1x long XLR snake for the 4 wireless lavs
+| 2 | [Kopul Premium Performance 3000 Series 100' XLR](https://www.bhphotovideo.com/c/product/867241-REG/Kopul_m3100_Inhouse_Description.html) | [$29.99](https://www.bhphotovideo.com/c/product/867241-REG/Kopul_m3100_Inhouse_Description.html) | 8 | $239.92 | 2x dedicated long XLR for handheld mic-receivers-to-mixer; 2x dedicated mixer-to-speakers (L/R); 2x speaker-to-speaker (side-to-front); 2x backup
+| 3 | [Kopul Premium Performance 3000 Series XLR 50'](https://www.bhphotovideo.com/c/product/867234-REG/Kopul_m3050_Premium_Performance_3000_Series.html) | [$19.99](https://www.bhphotovideo.com/c/product/867234-REG/Kopul_m3050_Premium_Performance_3000_Series.html) | 
+| 4 | [JBL Dual EON615 15" 2-Way Powered Speakers with dbx DriveRack 260 Control System & RTA-M Measurement Microphone](https://www.bhphotovideo.com/c/product/1202981-REG/jbl_dual_eon615_15_2_way.html) | [$1,529.95](https://www.bhphotovideo.com/c/product/1202981-REG/jbl_dual_eon615_15_2_way.html) | 1 | $1,529.95 | JBL EON615 Speakers with speaker alignment and feedback elimination controller (cheaper as bundle)
+|---
+
+## Proposal #1
 
 We could choose to use all handhelds so nobody has to be mic'd up beforehand, avoiding the needed coordination to ensure it's clipped on to the vocal and then turned on.
 
@@ -47,7 +62,32 @@ We could choose to use all handhelds so nobody has to be mic'd up beforehand, av
 
 <!--more-->
 
-# Overview
+# Lavalier Mics
+
+|---
+| # | Item | Price | Polar Pattern | Frequency Response | Dynamic Range | Signal-to-noise Ratio | Maximum Input Sound Level | Power Requirements | Output Connectors | Reviews
+|-|-
+| 1 | [Shure MX185 (lav only)]() | [$207.00](https://www.bhphotovideo.com/c/product/126756-REG/Shure_MX185_MX185_Cardioid_Wired.html) | Cardioid | 50Hz - 17kHz | 94dB, (@ 1kHz, A-Weighted) | 65dB | 123dB, (@ 1kHz, 1% THD) | 11 - 52VDC (with Belt Clip Preamp, Included) | TA4-F (4-pin mini connection); XLR-3M Type (with included RK183T2 preamplifier) | Too big, too sensitive (handling noise), but good output
+| 2 | [RodeLink Wireless Filmmaker Kit]() | [$399.00](https://www.bhphotovideo.com/c/product/1115091-REG/rode_rodlnk_fm_rodelink_wireless_filmmaker_kit.html) | Omnidirectional | 60 Hz to 18 kHz | 112 dB |
+
+## [MX150: Subminiature Lavalier Microphone](http://www.shure.com/americas/products/microphones/microflex/mx150-subminiature-lavalier-microphone)
+
+Lavalier microphone for TV broadcasting, lectures, teleconferencing, houses of worship, and live sound.
+
+The XLR version has an in-line preamp - an electronic amplifier that converts a weak electrical signal into an output signal strong enough to be noise tolerant and strong enough for further processing.
+
+## RodeLink Wireless Filmmaker Kit
+
+See nofilmschool.com: [Experience With The Rode Rodelink Filmmaker Kit ](http://nofilmschool.com/boards/questions/experience-rode-rodelink-filmmaker-kit):
+
+> I've been using one since they came out The negatives is that the lav itself is definitely not as robust as the sennheiser ones, and the camera and belt packs are much bulkier. But they are the easiest things in the world to use as they don't run on radio frequencies, they are digital so they will link themselves up. Also despite the hefty price I've always had interference in some form or another with the sennheisers just because of their UHF nature, there are radio signals bouncing around everywhere. So for general all round use you could do a lot worse than the Rode. They may not last a lifetime in build quality, but are much easier to use and sound pretty close.
+>
+> They are the best value right now, if you go cheaper you can tell, if you go more expensive most people won't hear a difference.
+>
+> They also provide great service. The first Lav would cut in and out if the wire was bent the wrong way. I contacted Rode and two days latter I had a brand new Lav in my mail box, no charge, no need to exchange.
+
+
+# Handheld Mics
 
 See [sweetwater.com's Shure Wireless Systems Buying Guide](http://www.sweetwater.com/store/manufacturer/shure/buyingguide/wireless.php) (with SM58):
 
@@ -91,28 +131,6 @@ See [thegearpage.net: What's the difference between Shure's Digital Wireless and
 >
 > UHF-R: Shure's ultra-high-end analog system. Still used as standard for top-level tours and events. As the ULX-D becomes more widespread, this system may start to decline in use.
 
-## [GLX-D](https://www.bhphotovideo.com/c/product/969725-REG/shure_glxd24_sm58_z2_glxd_rechargeable_hand_held.html)
-
-See [B&H reviews](https://www.bhphotovideo.com/c/product/969725-REG/shure_glxd24_sm58_z2_glxd_rechargeable_hand_held.html):
-
-> We needed a system to give presentations during all hands meetings to both local office (about 100 people) and to remote employees via laptop and online meeting software. We tried some cheap system and got nothing but trouble out of it. Then I ordered Shure equipment and mixer/usb interface. All problems solved. Quality of sound, useful range, noise levels are outstanding. I was worried a little bit about potential interference because our office is tech gadgets heavy but everything works just fine. I especially like built-in battery charger and easy to understand display on base. So far I had zero issues with this system.
-
-> I bought this because our campus has 60 wireless in the UHF band and I had no room for more. So I went with the 2.4GHZ band and even with all our wifi floating around this was able to find an open channel. Very Clean, No dropouts. Best sounding transmission over non digital wireless mics. I will be buying several more. The battery life lasts forever and you can recharge it easily with the receiver. And set up was so easy I pressed one button and both transmitter and receiver were synced. I have no Cons for this mic.
-
-> I use this Shure microphone for a number of uses; vocal microphone, presentations, concerts. The range is amazing! The quality is outstanding. The best part is the rechargeable battery, slides into the receiver for quick, easy charging. Typically last 10-14 hours. The battery has never died on me! The pick up range of the microphone is awesome. People can hold the microphone where it's comfortable and it will still pick up their voices.
-
-
-
-## [MX150: Subminiature Lavalier Microphone](http://www.shure.com/americas/products/microphones/microflex/mx150-subminiature-lavalier-microphone)
-
-Lavalier microphone for TV broadcasting, lectures, teleconferencing, houses of worship, and live sound.
-
-The XLR version has an in-line preamp - an electronic amplifier that converts a weak electrical signal into an output signal strong enough to be noise tolerant and strong enough for further processing.
-
-<hr/>
-<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
-<hr/>
-
 ## [Shure SM58](http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone)
 
 Tuned to accentuate the warmth and clarity of lead and back-up vocals.
@@ -125,38 +143,63 @@ Tuned to accentuate the warmth and clarity of lead and back-up vocals.
 <em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
 <hr/>
 
-## Wireless Systems
+# Wireless Systems
 
 See the [Shure: Wireless Systems Comparison PDF](http://cdn.shure.com/uploaded_file/upload/157/Wireless_Systems_Comparison_Chart.pdf).
 
+## Shure GLX-D
+[GLX-D](https://www.bhphotovideo.com/c/product/969725-REG/shure_glxd24_sm58_z2_glxd_rechargeable_hand_held.html)
 
-## Shopping Criteria
+See [B&H reviews](https://www.bhphotovideo.com/c/product/969725-REG/shure_glxd24_sm58_z2_glxd_rechargeable_hand_held.html):
 
-*[gearank.com: The Best Wireless Microphone System Guide - Handheld](https://www.gearank.com/guides/wireless-microphone-system):*
+> We needed a system to give presentations during all hands meetings to both local office (about 100 people) and to remote employees via laptop and online meeting software. We tried some cheap system and got nothing but trouble out of it. Then I ordered Shure equipment and mixer/usb interface. All problems solved. Quality of sound, useful range, noise levels are outstanding. I was worried a little bit about potential interference because our office is tech gadgets heavy but everything works just fine. I especially like built-in battery charger and easy to understand display on base. So far I had zero issues with this system.
 
-> 1. **Number of Channels.** This determines the maximum number of compatible systems you can use at the same time. For example if you need to use 20 wireless mics then you'd need 20 channels so you can run 20 systems simultaneously.
+> I bought this because our campus has 60 wireless in the UHF band and I had no room for more. So I went with the 2.4GHZ band and even with all our wifi floating around this was able to find an open channel. Very Clean, No dropouts. Best sounding transmission over non digital wireless mics. I will be buying several more. The battery life lasts forever and you can recharge it easily with the receiver. And set up was so easy I pressed one button and both transmitter and receiver were synced. I have no Cons for this mic.
+
+> I use this Shure microphone for a number of uses; vocal microphone, presentations, concerts. The range is amazing! The quality is outstanding. The best part is the rechargeable battery, slides into the receiver for quick, easy charging. Typically last 10-14 hours. The battery has never died on me! The pick up range of the microphone is awesome. People can hold the microphone where it's comfortable and it will still pick up their voices.
+
+See shure.custhelp.com: [The Emergence of 2.4 GHz Wireless](http://www.mixonline.com/news/guides/emergence-24-ghz-wireless/424531):
+
+> GLX-D Digital Wireless Systems offer an operating range of up to 100 feet indoors and up to 65 feet outdoors
+
+> The challenge of 2.4GHz is that Wi-Fi traffic can be unpredictable. GLX-D meets these challenges as follows:
 >
-> 2. **Range.** The ranges presented below are for line of sight where you can see the receiver from where you are using the mic. If you are going to have obstacles, such as walking around a crowd of people as you might in a theater restaurant or house of worship, then it's best to get one with at least twice the range as the actual distance to the receiver. For the kinds of gigs most bands play you won't really need to go beyond 150 feet.
+> a) Prioritizes and transmits on the best three frequencies per channel - choosing from a pool of six frequencies across the 2.4GHz band.
 >
-> 3. **Receiver Frequency.** If you, or someone else nearby, are using other wireless systems for mics or instruments, then be sure to check which frequencies they use and get a new wireless mic system that runs on a different frequency range. You can find the frequency in your manual or printed on the back of your receiver.
+> b) Repeats the most important information such that one frequency can be taken out entirely without audio interruption.
 >
-> 4. **Analog vs Digital.** Theoretically digital systems should provide slightly less noise at long range and slightly better dynamic and frequency response. The reality is that for most music and worship applications the analog systems are rated higher than their more expensive digital cousins
+> c) Continuously scans during usage to rank all frequencies - both current and backup frequencies.
+>
+> d) Quickly moves away from interference to use backup frequencies without audio interruption
+>
+> **Coexisting with Wi-Fi**
+>
+> If Wi-Fi will be active during a performance, turn on Wi-Fi devices prior to turning on GLX-D and scanning for the best channel. GLX-D detects and avoids other Wi-Fi traffic by scanning the entire 2.4GHz environment and selecting the three best frequencies to transmit on. “Bursting” Wi-Fi is harder to detect as it is periodic; however, because GLX-D repeats the most important information, even bursts at very high-levels often will not have an effect on audio performance. If there is a Wi-Fi transmitting device in use, the GLX-D receiver must be placed at least 10 feet away from the device.
+>
+> **Challenging Wireless Environments**
+>
+> Challenging Wireless Environments
+>
+> Some environments are more difficult than others for 2.4 GHz wireless system performance. Additionally, RF signal absorption by the human body has a greater impact in the 2.4 GHz spectrum, compared to the UHF spectrum. The simplest solution often is to reduce the transmitter to receiver distance such as placing the receiver on the stage with a clear line of sight.  Challenging environments include:
+>
+> a) Areas with few reflective surfaces such as: Outdoors; Buildings with very high ceilings.
+>
+> b) A venue where three or more GLX-D receivers are in use.
+>
+> c) Strong Wi-Fi presence. A typical Wi-fi transmitter/receiver will emit a signal ten times stronger (or more) than the GLX-D signal.
+>
+> d) Non-Shure 2.4 GHz systems in use - unlike analog TV band wireless system (which typically use the same type of RF transmission no matter the manufacturer) every 2.4GHz wireless currently on the market uses a different type of wireless transmission. These differences make it difficult to successfully mix and match 2.4 GHz from multiple manufacturers.
+>
+> Predicted Operating Distance
+>
+> Indoors: Up to 100 feet (30 meters) is typical, with a maximum of 200 feet (60 m) under ideal conditions.
+> Outdoors: Up to 65 feet (20 meters) typical, with a maximum of 165 feet (50 m) under ideal conditions.
+>
+> However, adverse local RF conditions can limit GLX-D operating distance to as little as 10 to 20 feet. In the worst case, the GLX-D may not operate at all.
 
-<hr/>
-<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
-<hr/>
+See [GLX-D Pro / Con of the 2.4 GHz Frequency Band and User Hints](http://shure.custhelp.com/app/answers/detail/a_id/5538/~/glx-d-pro-%2F-con-of-the-2.4-ghz-frequency-band-and-user-hints):
 
-## Common Mistakes
-
-*[blog.shure.com: Avoid These Five Mistakes in Wireless](http://blog.shure.com/avoid-these-five-mistakes-in-wireless/):*
-
-Understanding the basics of how wireless systems and radio waves function will help you consistently triumph over dropouts, interference and distortion:
-
-> 1. **Signal blockage** - Maintain line-of-sight between the transmitter and receiver antennas as much as possible; don't coil or fold the flexible antenna connecting.
-> 2. **Incorrect antenna type or placement** - To ensure good diversity performance, space antennas apart by at least one-quarter of a wavelength (about 5 inches at 600 MHz). The receiver antennas should be angled apart in a wide “V” configuration, which provides better pickup when the transmitter is moving around and being held at different angles.
-> 3. **Poorly coordinated frequency set** - Frequencies must avoid local active TV channels (up to one million watts compared to typical microphone sound systems 50 mW (fifty one thousandths of one watt!)) and frequencies must be mutually compatible; “Local” is generally considered to be up to 50 or 60 miles, depending on the coverage area of the particular TV transmitter; use Channels that are all in the same Group
-> 4. **Poor battery management** - Despite the fact that transmitter battery life is a top concern with wireless mics, users continue to try and cut operating costs by using inexpensive batteries. Most wireless manufacturers specify alkaline or lithium single-use batteries because their output voltage is very stable over the life of the battery. This is important because most transmitters will exhibit audible distortion or signal dropouts when supplied with low voltage. Rechargeable batteries often seem like the ideal solution, but many rechargeables provide about 20 percent less voltage than a single-use battery — even when they are fully charged. To combat battery problems, carefully compare the transmitter’s voltage requirements with the battery’s output voltage over time to make sure that the battery will last through a full performance.
-> 5. **Improper gain set-up** - Setting the proper input gain is one of the most important adjustments on a wireless microphone system. Distortion may occur if the gain is set too high, while poor signal-to-noise may result if the gain is set too low; Its purpose is to set the input sensitivity low enough to prevent input overload or “clipping” but high enough so that the signal level is well above the system noise floor.
+> There is no perfect frequency band for a wireless mic system.   Every frequency band has pros and cons. GLX-D operates within the 2.4GHz ISM band which is utilized by Wi-Fi, Bluetooth, and other wireless devices.
 
 <hr/>
 <em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
@@ -171,6 +214,24 @@ See [thegearpage.net: What's the difference between Shure's Digital Wireless and
 > The reason for this is that the FCC is again looking at restricting frequency spectrums. They took away the 700Mhz spectrum back in 2010. They are in talks to take away the 600Mhz band in the next 2-5 years. The G band is best because it operates in the low 500Mhz band. So if the FCC does come after it, it will be the furthest down the road.
 >
 > The reason Shure is trying out the GLX-D system (2.4Ghz band) is to circumvent the issue altogether. The FCC hasn't licensed the 2.4Ghz band so that's why it's used for everybody's Wifi. The problem with that is that IT'S BEING USED FOR EVERYBODY'S WIFI. It's very crowded and dropouts are not just likely but virtually guaranteed. To combat that, Shure's GLX-D system has 3 frequencies on that band simultaneously and jumps back and forth constantly. It does a good enough job, but in areas where Wifi is super heavy, audio professionals are hesitant to rely their jobs and reputations on it yet. Plus the whole latency thing.
+
+## 2.4 GHz
+
+See [GLX-D Pro / Con of the 2.4 GHz Frequency Band and User Hints](http://shure.custhelp.com/app/answers/detail/a_id/5538/~/glx-d-pro-%2F-con-of-the-2.4-ghz-frequency-band-and-user-hints):
+
+> ### Pros
+>
+> 1. No license required in any country.
+> 2. No interference from local TV stations.
+>
+> ### Cons
+>
+> 1. Used for many other wireless services, such as Wi-Fi. Note there are audio mixing boards that use Wi-Fi for remote control.
+> 2. Heavy RF traffic in this band can adversely affect the GLX-D performance.  Symptoms can be short transmission range, frequent loss of signal, inability to operate multiple GLX-D systems at the same time. In theory, it is feasible to simultaneously operate up to eight GLX-D systems in one venue under optimal conditions.  However, local interference in the 2.4 GHz band will often reduce this number to four or less.
+> 3. The human body efficiently absorbs and blocks this frequency.  The short 2.4 GHz wavelengths (4.9 inches) make it essential to maintain
+> line-of-sight between the transmitter and the receiver for the most reliable operation.
+> 4. Microwave ovens can produce local interference in this frequency band.
+> 5. At 2.4 GHz, transmission distance outdoors is typically far less than indoors.   Outdoors there is a lack of surfaces to reflect the transmitted signal.  Such reflections improve transmission distance indoors. As a general rule, 2.4 GHz waves do not effectively penetrate many types of walls.
 
 # Digital or Analog
 
@@ -193,6 +254,37 @@ See [shure.custhelp.com: ](http://shure.custhelp.com/app/answers/detail/a_id/568
 
 [Mackie 802 VLZ4 8 Channel Mixer](https://www.bhphotovideo.com/c/product/996858-REG/mackie_802_vlz4_802vlz4_8_channel_ultra_compact_mixer.html) - $199.99
 
+# Shopping Criteria
+
+*[gearank.com: The Best Wireless Microphone System Guide - Handheld](https://www.gearank.com/guides/wireless-microphone-system):*
+
+> 1. **Number of Channels.** This determines the maximum number of compatible systems you can use at the same time. For example if you need to use 20 wireless mics then you'd need 20 channels so you can run 20 systems simultaneously.
+>
+> 2. **Range.** The ranges presented below are for line of sight where you can see the receiver from where you are using the mic. If you are going to have obstacles, such as walking around a crowd of people as you might in a theater restaurant or house of worship, then it's best to get one with at least twice the range as the actual distance to the receiver. For the kinds of gigs most bands play you won't really need to go beyond 150 feet.
+>
+> 3. **Receiver Frequency.** If you, or someone else nearby, are using other wireless systems for mics or instruments, then be sure to check which frequencies they use and get a new wireless mic system that runs on a different frequency range. You can find the frequency in your manual or printed on the back of your receiver.
+>
+> 4. **Analog vs Digital.** Theoretically digital systems should provide slightly less noise at long range and slightly better dynamic and frequency response. The reality is that for most music and worship applications the analog systems are rated higher than their more expensive digital cousins
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+# Common Mistakes
+
+*[blog.shure.com: Avoid These Five Mistakes in Wireless](http://blog.shure.com/avoid-these-five-mistakes-in-wireless/):*
+
+Understanding the basics of how wireless systems and radio waves function will help you consistently triumph over dropouts, interference and distortion:
+
+> 1. **Signal blockage** - Maintain line-of-sight between the transmitter and receiver antennas as much as possible; don't coil or fold the flexible antenna connecting.
+> 2. **Incorrect antenna type or placement** - To ensure good diversity performance, space antennas apart by at least one-quarter of a wavelength (about 5 inches at 600 MHz). The receiver antennas should be angled apart in a wide “V” configuration, which provides better pickup when the transmitter is moving around and being held at different angles.
+> 3. **Poorly coordinated frequency set** - Frequencies must avoid local active TV channels (up to one million watts compared to typical microphone sound systems 50 mW (fifty one thousandths of one watt!)) and frequencies must be mutually compatible; “Local” is generally considered to be up to 50 or 60 miles, depending on the coverage area of the particular TV transmitter; use Channels that are all in the same Group
+> 4. **Poor battery management** - Despite the fact that transmitter battery life is a top concern with wireless mics, users continue to try and cut operating costs by using inexpensive batteries. Most wireless manufacturers specify alkaline or lithium single-use batteries because their output voltage is very stable over the life of the battery. This is important because most transmitters will exhibit audible distortion or signal dropouts when supplied with low voltage. Rechargeable batteries often seem like the ideal solution, but many rechargeables provide about 20 percent less voltage than a single-use battery — even when they are fully charged. To combat battery problems, carefully compare the transmitter’s voltage requirements with the battery’s output voltage over time to make sure that the battery will last through a full performance.
+> 5. **Improper gain set-up** - Setting the proper input gain is one of the most important adjustments on a wireless microphone system. Distortion may occur if the gain is set too high, while poor signal-to-noise may result if the gain is set too low; Its purpose is to set the input sensitivity low enough to prevent input overload or “clipping” but high enough so that the signal level is well above the system noise floor.
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
 
 ## External resources
 
