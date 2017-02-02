@@ -36,6 +36,7 @@ The following cost range is bounded between $8,500 (full corp rental) to $18,169
 |---
 
 Budget approval is required by Monday, 2/13 for the ideal Procurement Schedule.
+{: .notice--danger}
 
 <hr/>
 <em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
@@ -51,11 +52,11 @@ The following cost schedule does not consider Corp cost-escalation/inflation:
 | # | Year | Corp
 |-|-
 | 1 | 2017 | $8,500
-| 2 | 2018 | $17,000
-| 3 | 2019 | $25,500
-| 4 | 2020 | $34,000
-| 5 | 2021 | $42,500
-| 6 | 2022 | $51,000
+| 2 | 2018 | $8,500 ($18,000)
+| 3 | 2019 | $8,500 ($25,500)
+| 4 | 2020 | $8,500 ($34,000)
+| 5 | 2021 | $8,500 ($42,500)
+| 6 | 2022 | $8,500 ($51,000)
 |---
 
 <hr/>
