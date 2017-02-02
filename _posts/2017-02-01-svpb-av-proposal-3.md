@@ -1,0 +1,284 @@
+---
+title: "Researching A/V Equipment for SVPB - Itemized Proposal #3"
+categories:
+  - Business
+  - Nonprofit
+  - Faith
+tags:
+  - silicon valley prayer breakfast
+  - lighting
+  - video
+  - multimedia
+  - conference
+  - presentation
+  - live event
+  - arri
+  - B&H
+header:
+  image: /posts/2017/01-january/2017-01-05-svpb-av-projectors/cover-svpb.jpg
+---
+
+{% include toc title="Table of Contents" icon="file-text" %}
+
+*This article is part of multipart series: [Researching A/V Equipment for the Silicon Valley Prayer Breakfast (SVPB)]({% post_url 2017-01-07-svpb-av %}).*
+
+# Summary
+
+The following cost range is bounded between $8,500 (full corp rental) to $18,169.03 (full purchase):
+
+|---
+| # | Quality Scenario | Cost | Delta | ROI Break Even | Description
+|-|-
+| 1 | 100% Rental | $8,500 | (corp baseline) | n/a | 6 speakers, 6 mics, 4 lights
+| 2 | 100% Rental (Proposal #1) | $11,540.14 | +3,040.14 | 1 year | 4 speakers, 2 mics, 0 lights
+| 3 | 50% Rental, 50% Purchase | $13,328.98 | +1,788.84 | 2 years |6 speakers, 6 mics, 4 lights
+| 4 | 100% Purchase| $18,169.03 | +4,840.05 | 3 years | 6 speakers, 6 mics, 4 lights
+|---
+
+Budget approval is required by Monday, 2/13 for the ideal Procurement Schedule.
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+## Scenario 1 - 100% Rental ($8500.00)
+
+Previous contract for full A/V rental and services was roughly $8,000 plus $500 contigency for 4 additional microphone rentals.
+
+The following cost schedule does not consider Corp cost-escalation/inflation:
+
+|---
+| # | Year | Corp
+|-|-
+| 1 | 2017 | $8,500
+| 2 | 2018 | $17,000
+| 3 | 2019 | $25,500
+| 4 | 2020 | $34,000
+| 5 | 2021 | $42,500
+| 6 | 2022 | $51,000
+|---
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+## Scenario 2 - 50% Rental, 50% Purchase ($13,328.98)
+
+|---
+| # | Component | Cost | Description
+|-|-
+| 1 | **Projection** | $4,201.99 | 2x 4200 lumens 1920x1080 16:9 projecting to 167" (12x7.5') screen (includes accessories)
+| 2 | **Speakers** | $3,702.89 | 6x 1000W speakers
+| 3 | **Microphones** | $2,348.78 | 4x wireless microphones (2x handheld, 2x lav); -2x lavs
+| 4 | **Lighting** | $1,039.11 | 2x flood-to-spot lights with up to 50 ft. throw; -2x lights
+| 5 | **Video** | $1,175 | 50% off
+| | **Subtotal** | $12,467.77
+| | **Contingency** | $861.21 | 7%
+| | **Total ** | **$13,328.98**
+|---
+
+The following example ROI schedule does not consider Corp cost-escalation/inflation:
+
+|---
+| # | Year | Corp (Total) | WE (Total, Delta, ROI)
+|-|-
+| 1 | 2017 | $8,500 | $13,500
+| 2 | 2018 | $8,500 ($17,000) | $3,500 ($17,000, -0.00, +0.00%)
+| 3 | 2019 | $8,500 ($25,500) | $3,500 ($20,500, -5,000, +19.6%)
+| 4 | 2020 | $8,500 ($34,000) | $3,500 ($24,000, -10,000, +29.4%)
+| 5 | 2021 | $8,500 ($42,500) | $3,500 ($27,500, -15,000, +35.3%)
+| 6 | 2022 | $8,500 ($51,000) | $3,500 ($31,000, -20,000, +39.2%)
+|---
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+## Scenario 3 - 100% Purchase ($18,169.03)
+
+The total cost of the full revised proposal is **$18,169.03**, which is +$6,628.89 more than [proposal #1]({% post_url 2017-01-07-svpb-av %}) ($11,540.14) due to the addition of the following estimated cost escalations:
+
+1. 2x extra speakers (+1,305)
+2. 4x extra microphones (+2,258)
+3. 4x lighting (+3,616)
+
+This takes into account a $3,000 capital contribution from WE.
+
+However, this does not take into account insurance coverage, which is estimated to be $3000-$6000/year ($250-$500/month). Therefore, it is not recommended that SVPB covers the premiums in order to be assigned loss payee.
+
+|---
+| # | Component | Cost | Description
+|-|-
+| 1 | **Projection** | $4,201.99 | 2x 4200 lumens 1920x1080 16:9 projecting to 167" (12x7.5') screen (includes accessories)
+| 2 | **Speakers** | $6,791.13 | 6x 1000W speakers
+| 3 | **Microphones** | $4,376.93 | 6x wireless microphones (2x handheld, 4x lav)
+| 4 | **Lighting** | $3,615.94 | 4x flood-to-spot lights with up to 50 ft. throw
+| 5 | **Video** | $1,175 | 50% off
+| | **Subtotal** | $20,160.99
+| | **Contingency** | $1,008.05 | 5%
+| | **Market Value** | **$21,169.03**
+| | **WE Contribution** | -$3,000
+| | **Total** | **$18,169.03**
+|---
+
+The following example ROI schedule does not consider Corp cost-escalation/inflation:
+
+|---
+| # | Year | Corp (Total) | WE (Total, Delta, ROI)
+|-|-
+| 1 | 2017 | $8,500 | $18,200
+| 2 | 2018 | $8,500 ($17,000) | $3,500 ($21,700, +4,700, -27.6%)
+| 3 | 2019 | $8,500 ($25,500) | $3,500 ($25,200, -$300, +1.2%)
+| 4 | 2020 | $8,500 ($34,000) | $3,500 ($28,700, -5,300, +15.6%)
+| 5 | 2021 | $8,500 ($42,500) | $3,500 ($32,200, -10,300, +24.2%)
+| 6 | 2022 | $8,500 ($51,000) | $3,500 ($35,700, -15,300, +30.0%)
+|---
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+# Procurement Schedule
+
+Here is the procurement, testing, and training schedule:
+
+|---
+| # | Week | Date | Details
+|-|-
+| 1 | 1 | Monday, 2/13 | Budget Approval
+| 2 |  | Wednesday, 2/15 | Initial Procurement
+| 3 | 2| Friday, 2/24 | Equipment Arrival
+| 4 | 3 | Sunday, 2/26 | Live event test 1/5
+| 5 | 4 | Sunday, 3/5 | Live event test 2/5 - returns/exchanges procurement
+| 6 | 5 | Sunday, 3/12 | Live event test 3/5
+| 7 | 6 | Sunday, 3/19 | Live event test 4/5 - test procurements from #5 (1/2)
+| 8 | 7 | Sunday, 3/26 | Live event test 5/5 - test replacements from #5 (2/2)
+| 9 | 8 | Thursday, 3/30 | A/V setup at [Hyatt Regency Santa Clara](https://santaclara.regency.hyatt.com/en/hotel/home.html)
+| 10 |  | Friday, 3/31 | [SVPB 23rd annual event, 7am - 8:30am](http://www.svpb.net/annual-breakfasts.html)
+|---
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+# Itemized A/V Components
+
+## Projection ($4,201.99)
+
+|---
+| # | Item | Price | Qty | Total | Description
+|-|-
+| 1 | **Projector**: [Optoma EH416]({% post_url 2017-01-07-projector-optoma-eh416 %}) | [$863.02](http://a.co/332cqny) | 2 | $1,726.04 | 1920x1080 16:9 20,000:1 DLP (1) 4200 Lumens
+| 2 | **Projector Screen**: [Da-Lite Da-Mat 92 x 144" Front Projection Fast-Fold Deluxe](https://www.bhphotovideo.com/c/product/901758-REG/da_lite_38307_da_mat_92_x_144.html) | [$895.95](https://www.bhphotovideo.com/c/product/901758-REG/da_lite_38307_da_mat_92_x_144.html) | 2 | $1,791.90 | 167.52" diagonal 16:10 aspect ratio, front projection, 1.0 Gain, Folding Frame / Truss
+| 3 | **HDMI Cable** [AmazonBasics High-Speed HDMI Cable - 6 Feet ](http://a.co/846YjhH) | [$6.99](http://a.co/846YjhH) | 3 | $20.97 | Male to A Male Cable; 1x backup cable
+| 4 | **SDI to HDMI** [Blackmagic Design Micro Converter](http://a.co/etrw8Q9) | [$85](http://a.co/etrw8Q9) | 3 | $255 | Converts long-relay SDI signal to short-relay HDMI; 1x backup converter
+| 5 | **Surge Protector Power Strip** [APC SurgeArrest 11-Outlet Surge Protector ](https://www.bhphotovideo.com/c/product/1219813-REG/apc_p11u2_surgearrest_11_outlet_surge_protector.html) | [$34.99](https://www.bhphotovideo.com/c/product/1219813-REG/apc_p11u2_surgearrest_11_outlet_surge_protector.html) | 2 | $69.98 | 11 outlets, 2 USB 2.4A, 2880 joules protection, $250k connected equipment warranty
+| | Subtotal | | | $3,863.89 |
+| | Tax | 8.75% | | $338.10 |
+| | Total | | | **$4,201.99** |
+|---
+
+*See CNET: [9 things you should know about surge protectors](https://www.cnet.com/news/9-things-you-should-know-about-surge-protectors/).*
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+## Audio - Speakers ($3,702.89)
+
+|---
+| # | Item | Price | Qty | Total | Description
+|-|-
+| 1 | (Rental) | [$70](http://www.audiodesignrentals.com/jbl-eon615-1000watt-powered-speaker-rental.html) | 4 | $280 | 1 week rental; no insurance or accessories
+| 1 | [JBL EON615 15" 1000W Speakers](http://www.jblpro.com/www/products/portable-market/eon600-series/eon615#.WHQxmpJWcWM) | [$599.95](https://www.bhphotovideo.com/c/product/1112180-REG/jbl_jbl_eon615_powered_speaker.html) | 2 | $1,199.90 | 2x Comes with Gas Assist Tripod Kit; 2 x Balanced XLR-1/4” combination inputs; 1 x male XLR loop thru out; requires AC power ([1/3rd Power – 2.03A (Max)](http://www.jblpro.com/ProductAttachments/EON615_SpecSheet_4%2028%2015.pdf))
+| 2 | [JBL EON615-Bag-W Deluxe Carry Bag with Wheels](https://www.bhphotovideo.com/c/product/1103017-REG/jbl_eon615_bag_w_deluxe_carry_bag.html) | [$179.99](https://www.bhphotovideo.com/c/product/1103017-REG/jbl_eon615_bag_w_deluxe_carry_bag.html) | 2 | $359.98 | 2x speaker bags
+| 3 | [dbx DriveRack 260 Equalization and Loudspeaker Control System](https://www.bhphotovideo.com/c/product/288109-REG/dbx_260_DriveRack_260_Control_System.html) | [$599.00](https://www.bhphotovideo.com/c/product/288109-REG/dbx_260_DriveRack_260_Control_System.html) | 1 | $599.00 | Syncing, phasing, interference, sound control
+| 4 | [Kopul Studio Elite 4000 Series XLR M to XLR F 50'](https://www.bhphotovideo.com/c/product/845542-REG/Kopul_m4050_Kopul_Studio_Elite_4000.html) | [$21.49](https://www.bhphotovideo.com/c/product/845542-REG/Kopul_m4050_Kopul_Studio_Elite_4000.html) | 6 | $128.94 | 4x long 50' cables for chaining speakers; 2x backup
+| 5 | [Kopul Studio Elite 4000 Series XLR M to XLR F 100'](https://www.bhphotovideo.com/c/product/845545-REG/Kopul_m4100_Kopul_Studio_Elite_4000.html) | [$29.95](https://www.bhphotovideo.com/c/product/845545-REG/Kopul_m4100_Kopul_Studio_Elite_4000.html) | 6 | $179.70 | 4x Extra long 100' XLR cables for linking audio board to speakers; 2x backup
+| 6 | [Watson 100 ft AC Power Extension Cord 14 AWG](https://www.bhphotovideo.com/c/product/1013728-REG/watson_ace14_100b_100_power_extention_cord.html) | [$49.95](https://www.bhphotovideo.com/c/product/1013728-REG/watson_ace14_100b_100_power_extention_cord.html) | 2 | $99.90 |
+| 7 | [Watson 50 ft AC Power Extension Cord 14 AWG](https://www.bhphotovideo.com/c/product/1013727-REG/watson_ace14_50b_50_power_extention_cord.html) | [$29.95](https://www.bhphotovideo.com/c/product/1013727-REG/watson_ace14_50b_50_power_extention_cord.html) | 8 | $239.60
+| 8 | [Furman PL-8 C Power Conditioner](https://www.bhphotovideo.com/c/product/584417-REG/Furman_PL_8C_PL_8_C_Power_Conditioner.html) | [$158.97](https://www.bhphotovideo.com/c/product/584417-REG/Furman_PL_8C_PL_8_C_Power_Conditioner.html) | 2 | $317.94 | Ensures that each speaker gets the correct voltage and current needed
+| | Subtotal | | | $3,404.96 |
+| | Tax | 8.75% | | $297.93 |
+| | **Total** | | | **$3,702.89** |
+|---
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+## Audio - Microphones ($2,348.78)
+
+|---
+| # | Item | Price | Qty | Total | Description
+|-|-
+| 1 | [Shure GLXD24/SM58 Handheld Wireless System](http://www.shure.com/americas/products/wireless-systems/glxd-digital-wireless-systems) | [$499.00](https://www.bhphotovideo.com/c/product/969725-REG/shure_glxd24_sm58_z2_glxd_rechargeable_hand_held.html) | 2 | $998.00 | 2x wireless handheld mics
+| 2 | [Shure GLXD14/WL93 Lavalier Wireless System](https://www.bhphotovideo.com/c/product/969704-REG/shure_glxd14_93_z2_glxd14_93_lavalier_wireless_system.html) | $75.00 (rental) | 4 | $300.00 | 4x wireless lav mics
+| 3 | [Shure SB902 Rechargeable Lithium-Ion Battery](https://www.bhphotovideo.com/c/product/969732-REG/shure_sb902_rechargeable_lithium_ion_battery.html/pageID/accessory) | [$29.99](https://www.bhphotovideo.com/c/product/969732-REG/shure_sb902_rechargeable_lithium_ion_battery.html/pageID/accessory) | 2 | $59.98 | 2x Backup batteries
+| 4 | [Shure A58WS-BK - Black Windscreen](https://www.bhphotovideo.com/c/product/68629-REG/Shure_A58WS_BLK_A58WS_BK_Black_Windscreen.html/pageID/accessory) | [$5.49](https://www.bhphotovideo.com/c/product/68629-REG/Shure_A58WS_BLK_A58WS_BK_Black_Windscreen.html/pageID/accessory) | 2 | $10.98 | 2x Windscreen noise and protection covers
+| 5 | [Auray MS-5230F Tripod Microphone Stand](https://www.bhphotovideo.com/c/product/755877-REG/auray_ms_5230f_tripod_microphone_stand.html) | [$21.99](https://www.bhphotovideo.com/c/product/755877-REG/auray_ms_5230f_tripod_microphone_stand.html) | 2 | $43.98 | 1x microphone stand; 1x backup
+| 6 | [Mackie ProFX8v2 8-Channel Sound Mixer](https://www.bhphotovideo.com/c/product/1139062-REG/mackie_profx8v2_8_channel_professional_fx_mixer.html) | [$199.99](https://www.bhphotovideo.com/c/product/1139062-REG/mackie_profx8v2_8_channel_professional_fx_mixer.html) | 2 | $399.98 | 2x 4-input chained mixers for redundancy
+| 7 | [Gator Cases G-MIXERBAG-1515](https://www.bhphotovideo.com/c/product/1126492-REG/gator_cases_g_mixerbag_1515_padded_nylon_mixer_equipment.html/pageID/accessory) | [$39.99](https://www.bhphotovideo.com/c/product/1126492-REG/gator_cases_g_mixerbag_1515_padded_nylon_mixer_equipment.html/pageID/accessory) | 2 | $79.98 | 2x mixer bags
+| 8 | [Kopul Premium Performance 3000 Series 100' XLR](https://www.bhphotovideo.com/c/product/867241-REG/Kopul_m3100_Inhouse_Description.html) | [$29.99](https://www.bhphotovideo.com/c/product/867241-REG/Kopul_m3100_Inhouse_Description.html) | 8 | $239.92 | 6x dedicated 100' long XLR for handheld/lav mic-receivers-to-mixer; 2x backup
+| 9 | [Kopul Premium Performance 3000 Series XLR 5'](https://www.bhphotovideo.com/c/product/867217-REG/Kopul_m3005_Premium_Performance_3000_Series.html) | [$13.49](https://www.bhphotovideo.com/c/product/867217-REG/Kopul_m3005_Premium_Performance_3000_Series.html) | 2 | $26.98 | 1x short 5' mixer-1-to-mixer-2; 1x backup
+| | Subtotal | | | $2,159.80
+| | Tax | 8.75% | | $188.98
+| | **Total** | | | **$2,348.78**
+|---
+
+
+|---
+| # | Out | Into | Length
+|-|-
+| 1 | Mic receiver #1 | Mixer 1 | 100'
+| 2 | Mic receiver #2 | Mixer 1 | 100'
+| 3 | Mic receiver #3 | Mixer 1 | 100'
+| 4 | Mic receiver #4 | Mixer 1 | 100'
+| 5 | Mic receiver #5 | Mixer 2 | 100'
+| 6 | Mic receiver #6 | Mixer 2 | 100'
+| 7 | Mixer 1 - L | Mixer 2 - In | 5'
+|---
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+## Lighting ($1,039.11)
+
+|---
+| # | Item | Price | Qty | Total | Description
+|-|-
+| 1 | [Arri 650 Watt Plus Tungsten Fresnel](https://www.bhphotovideo.com/c/product/72020-REG/Arri_531600_650_Watt_Plus_Tungsten.html) | [$125](https://www.borrowlenses.com/product/Arri-650-Watt-Plus-Tungsten-Fresnel-Light) (rental) | 4 | $500 | 4x fresnel flood-to-spot capability (52°/14.5°); up to 50 ft. throw
+| 2 | [Impact Steel Roller with Low Base and Braking Wheels (9.5')](https://www.bhphotovideo.com/c/product/936201-REG/impact_lsp_sw10_9_5_steel_roller_with.html) | $45 (rental) | 4 | $180 | 4x 4' - 9.5' height; 27lb load capacity; locking wheels; 5/8" c-stand stud
+| 3 | [Impact Saddle Sandbag - 15 lb](https://www.bhphotovideo.com/c/product/421395-REG/Impact_SB_15O_Saddle_Sandbag_15.html/pageID/accessory) | [$21.95](https://www.bhphotovideo.com/c/product/421395-REG/Impact_SB_15O_Saddle_Sandbag_15.html/pageID/accessory) | 8 | $175.60 | 8x - 2/c-stand
+| 4 | [Setwear Hothand Gloves](https://www.bhphotovideo.com/c/product/1047843-REG/setwear_shh_05_010_hot_hand_glove.html/pageID/accessory) | [$49.95](https://www.bhphotovideo.com/c/product/1047843-REG/setwear_shh_05_010_hot_hand_glove.html/pageID/accessory) | 2 | $99.90 | heat-resistant leather gloves for working with hot-lights/rigging
+| | Subtotal | | | $955.50
+| | Tax | 8.75% | | $83.61
+| | **Total** | | | **$1,039.11**
+|---
+
+## Video ($1,175)
+
+|---
+| # | Item | Cost | Notes
+|-|-
+| 1 | Video Production | $1,175 | 50% off
+|---
+
+<hr/>
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
+<hr/>
+
+## Misc
+
+*In progress...*
+
+|---
+| # | Item | Cost | Notes
+|-|-
+| 1 | [ProTapes Pro Gaffer Tape (3" x 55 yd, Black)](https://www.bhphotovideo.com/c/product/812219-REG/General_Brand_001UPCG355MBLA_Pro_Gaffer_Cloth_Tape.html) | [$29.95](https://www.bhphotovideo.com/c/product/812219-REG/General_Brand_001UPCG355MBLA_Pro_Gaffer_Cloth_Tape.html) | 3 | $89.85 | secure lighting, wires, power cords, etc.
+|---
+
+
+# Multimedia Services
+<em>{% include contact-we-mass-media.md %} {% include contact-justin-too-creations.md %}</em>
