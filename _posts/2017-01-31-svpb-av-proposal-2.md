@@ -46,7 +46,7 @@ The total cost of the best-quality revised proposal is **$18,169.03**, which is 
 
 This takes into account a $3,000 capital contribution from WE.
 
-However, this does not take into account insurance coverage, which is estimated to be $5000-$6000/year ($416-$500/month). Therefore, it is not recommended that SVPB covers the premiums in order to be assigned loss payee.
+However, this does not take into account insurance coverage, which is estimated to be $3000-$6000/year ($250-$500/month). Therefore, it is not recommended that SVPB covers the premiums in order to be assigned loss payee.
 
 |---
 | # | Component | Cost | Description
@@ -90,7 +90,7 @@ The total cost of the average-quality revised proposal is **$15,085.40**, which 
 
 This takes into account a $3,000 capital contribution from WE.
 
-However, this does not take into account insurance coverage, which is estimated to be $5000-$6000/year ($416-$500/month). Therefore, it is not recommended that SVPB covers the premiums in order to be assigned loss payee.
+However, this does not take into account insurance coverage, which is estimated to be $3000-$6000/year ($250-$500/month). Therefore, it is not recommended that SVPB covers the premiums in order to be assigned loss payee.
 
 |---
 | # | Component | Cost | Description
@@ -134,7 +134,7 @@ The total cost of the worst-quality revised proposal is **$13,187.03**, which is
 
 This takes into account a $3,000 capital contribution from WE.
 
-However, this does not take into account insurance coverage, which is estimated to be $5000-$6000/year ($416-$500/month). Therefore, it is not recommended that SVPB covers the premiums in order to be assigned loss payee.
+However, this does not take into account insurance coverage, which is estimated to be $3000-$6000/year ($250-$500/month). Therefore, it is not recommended that SVPB covers the premiums in order to be assigned loss payee.
 
 |---
 | # | Component | Cost | Description
