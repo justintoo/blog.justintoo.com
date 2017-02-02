@@ -234,7 +234,7 @@ Direct gifts to pastor is not tax-deductible because the pastor is not the 501(c
 
 However, at the least, it's not taxable income to the pastor if the gift was spontaneous.
 
-# Guest Speaker
+# Compensation Suite
 
 ## Paying a Guest Speaker
 
@@ -270,6 +270,29 @@ Must have a written reimbursement policy.
 Using church credit card to fill up your private car with gas is embezzlement - you have to use a reimbursement policy that pays by mileage.
 
 Use the nonprofit business rate
+
+The church must own the cell phone - The 2010 Small Business Jobs Act now allows the church to pay for the pastor's and other church officers' and employees' cell phones. Including iPads/tablets.
+
+**Adoption assistance**
+
+**Travel** - Travel over 50 miles and spending the night.
+
+Hotel room is only 50% reimbursable if your spouse also stays in there. You must make a board resolution ahead of time: it's going to further the purpose of the organization for my spouse to be with me => 100% reimbursable.
+
+College tuition: ~$5000/year
+
+# Tithes and Offerings
+
+Donated services and rent are not deductible - they must write a church back to the church.
+
+## Conditional
+
+
+## Designated
+Tithe envelope with suggested gift marking, e.g. "designating this tithe to building fund" - Page 161: use envelope to give church full control of the funds donated - "agreement to relinquish control."
+
+## Restricted
+If the money is given for only one specific thing, it's not tax-deductible.
 
 # Ministry vs Church?
 
@@ -310,6 +333,10 @@ Use the nonprofit business rate
 16. How do you opt out of self-employment tax?
 
 17. How do you create agreement to be sent by church as guest speaker?
+
+18. Hotel room reimbursement - board resolution?
+
+19. Donated services and rent are not deductible - they must write a church back to the church.
 
 ----
 Paying $1,668.58 more and only getting 2 resources.
