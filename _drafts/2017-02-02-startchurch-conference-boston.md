@@ -210,9 +210,70 @@ The Gospel is the only way to transform a heart.
 
 But not every single thing
 
+Purchase property and sub-lease to ministry.
 
+Structure grant-writer compensation to get paid based on receipt of grant. (Capital Suite shows 400 sources of grants; grant.gov).
+
+Ways to structure to avoid compromising situations:
+
+Example #1: CDC rents property from Church and in the rental agreement, the Church specifies property usage must adhere to Church's bylaws/faith doctrines.
+
+Example #2: CDC hires Church to vet volunteers.
+
+# Holdings Corporation
+
+Every time you transfer assets from the holdings corporation into the church, you are poking a hole in the corporate veil.
+
+# Pastoral Love Offerings
+
+Goodwin v. United States:
+
+> It's okay to be gifted spontaneously where it is not tied to pastoral services rendered.
+
+Direct gifts to pastor is not tax-deductible because the pastor is not the 501(c)(3).
+
+However, at the least, it's not taxable income to the pastor if the gift was spontaneous.
+
+# Guest Speaker
+
+## Paying a Guest Speaker
+
+Should not be cash from the offering - just write one check to guest after collecting and counting the offering.
+
+Document... Document... Document...
+
+## W-9
+
+Guest Speaker must fill out a W-9, otherwise we will hold 28% for backup withholdings.
+
+Make sure you verify their information - check their identification to see if it matches up with their W-9.
+
+## 1099-Misc
+
+If the amount you pay to the guest speaker is $600.00 or more.
+
+# What if you are the guest speaker?
+
+Create agreement to be sent by church:
+
+Give W-9 and get the other church to write your love offering to the church so it will show up on your W-2.
+
+# Reimbursements
+
+1. Pastor submits a reimbursement form and attaches the receipt.
+2. Signature from treasurer.
+3. Signature from person being reimbursed.
+4. Bring it back within 60 days.
+
+Must have a written reimbursement policy.
+
+Using church credit card to fill up your private car with gas is embezzlement - you have to use a reimbursement policy that pays by mileage.
+
+Use the nonprofit business rate
 
 # Ministry vs Church?
+
+
 
 # Questions
 
@@ -237,6 +298,18 @@ But not every single thing
 10. Are best practices all included in the software?
 
 11. Corporate Veil - Is it okay to have a website that links to every arm of the social enterprise? lease agreement for logo / trademark?
+
+12. Does the church formally own 501c2?
+
+13. Is it okay to transfer money from holdings to church to cover payroll as needed?
+
+14. Counting tithes? Online?
+
+15. Does StartChurch provide the services/software for managing 1099-Misc and W-9
+
+16. How do you opt out of self-employment tax?
+
+17. How do you create agreement to be sent by church as guest speaker?
 
 ----
 Paying $1,668.58 more and only getting 2 resources.
