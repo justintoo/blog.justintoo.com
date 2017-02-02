@@ -175,6 +175,45 @@ These they'll check:
 2. Your books
 3. Your reimbursable policy
 
+
+Under $60,000, only $99/month bookkeeping service and online Quickbooks for free.
+
+Position yourself in the front lines of the battlefield and there lies your perspective.
+
+# Try's Story
+
+1. The further you are from the front lines, the closer you are to the things of the world.
+
+2. You tell me who your friends are and I'll tell you who you are
+
+Hosea - take your place in the Kingdom
+
+# Ordination of Minister
+
+If you do it wrong: Self-employed (15.3% self-employment tax) and employee of the church.
+
+Cramer v. Commonwealth, 2012 - definition of a minister.
+
+Don't think of this as burdensome legislation, but instead, good organizational health.
+
+Recommend best practices:
+* $125 minimum fee
+* 250 question test; open book,
+* I should have my own test on file to make sure I passed it too
+
+how do you spell Jesus? all the same
+
+assign an expiration date to ordination (24-36 months)
+
+# CDC
+The Gospel is the only way to transform a heart.
+
+But not every single thing
+
+
+
+# Ministry vs Church?
+
 # Questions
 
 1. **How do I run a distributed home church model? childcare? food? church-owned equipment (general liabilities)?** Either each home incorporates and becomes a church in the network of churches, else the church will be liable for all activities on premise, which could be devastating, especially without any policies or oversights, e.g. in a church, you might have a policy that two adults must accompany a child to the restroom, but in a home, you'll probably never get that.
@@ -192,6 +231,12 @@ These they'll check:
 7. **Nolan Insurance?**
 
 8. **Accountability Board: The people don't have to be pastors?**
+
+9. How much is Kingdom  Steward?
+
+10. Are best practices all included in the software?
+
+11. Corporate Veil - Is it okay to have a website that links to every arm of the social enterprise? lease agreement for logo / trademark?
 
 ----
 Paying $1,668.58 more and only getting 2 resources.
