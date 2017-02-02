@@ -295,11 +295,58 @@ Tithe envelope with suggested gift marking, e.g. "designating this tithe to buil
 If the money is given for only one specific thing, it's not tax-deductible.
 
 # Donation of property
-Property Donation Letter - 
+Property Donation Letter -
 
 # Ministry vs Church?
 
+8-10 speaking engagements a month, might want to incorporate a Pastor XYZ Ministries.
 
+You can use a DBA (Doing Business As) for the Church.
+
+Group 501(c)(3)
+
+Network of churches -
+
+# Emergency Plan
+
+Deal with an active shooter -
+
+1. Create an Emergency Plan
+2. Threat Assessment Teams (TAT)
+3. Firearms in your church
+
+Best option is to use authorized police officer in your jurisdiction for security so liability shifts from your church to the city.
+
+# Pastor
+
+## Housing Allowance
+
+Section 107 formula for calculating housing allowance allowance to the lesser of:
+
+1. The amount the church designated as housing allowance. (big inflated number) - use up to 100% of pastor's salary as eligible housing allowance according to Section 107...
+2. The cost of his home ("shoe box method")
+3. The fair rental value of the home - If you can rent a full furnished house for $1000/month, then $500 can cover the furnished assets, utilities, etc. => $1500/month
+
+## Salary
+Section 4958:
+
+New York Stock Exchange used to be a nonprofit, and he definitely made beyond $110,000. Commisioner of NFL, at schools, etc.
+
+Commission-based salary based on tithes/offerings must have a cap.
+
+## Sermons
+The sermons belong to the church - done on church computer, church time, etc.
+
+## Self-Employment Tax
+I conscientously don't want to lean on the government for insurance:
+
+Use Form 4361 - apply and keep benefits; opt out of paying into it, but still receive the benefits.
+
+Go to www.ssa.gov to verify you have 40 credits to qualify for retirement benefits. IRS will pay you for your 2 highest years of salary.
+
+When one "opts out" it does not affect secular employment.
+
+You have two years to opt-out - per new church ordination.
 
 # Questions
 
@@ -340,6 +387,20 @@ Property Donation Letter -
 18. Hotel room reimbursement - board resolution?
 
 19. Donated services and rent are not deductible - they must write a church back to the church.
+
+20. You can use a DBA (Doing Business As) for the Church; ministry-church link.
+
+21. How to deal with bible study group liabilities, doctrine, activities?
+
+22. Public Support Test of charity - "The organization receives no more than one-third of its support from gross investment income and more than one-third of its support from contributions, membership fees, and gross receipts from activities related to its exempt functions." (http://grantspace.org/tools/knowledge-base/Nonprofit-Management/Establishment/public-support-test)
+
+23. For-profit: Does C Corporation pay corporate tax and then the dividends are simply tax-free?
+
+24. Who owns the written books?
+
+25. **Intellectual Property and Creative License Agreement** - must be added to the StartChurch program (does not automatically happen).
+
+26. **Can all pastors ordained in your church be provided a Housing allowance?**
 
 ----
 Paying $1,668.58 more and only getting 2 resources.
