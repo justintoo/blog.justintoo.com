@@ -234,6 +234,8 @@ Direct gifts to pastor is not tax-deductible because the pastor is not the 501(c
 
 However, at the least, it's not taxable income to the pastor if the gift was spontaneous.
 
+Anytime an offering goes through the church and then to the pastor, it will look like payment for services rendered. So if someone really wants to give, they will have to give and forego the tax-deduction.
+
 # Compensation Suite
 
 ## Paying a Guest Speaker
@@ -319,6 +321,8 @@ Best option is to use authorized police officer in your jurisdiction for securit
 
 # Pastor
 
+Congregation is less likely to sue pastor if the pastor has established a relationship with them, rather than just preaching and then rushing off after service.
+
 ## Housing Allowance
 
 Section 107 formula for calculating housing allowance allowance to the lesser of:
@@ -350,7 +354,7 @@ You have two years to opt-out - per new church ordination.
 
 # Questions
 
-1. **How do I run a distributed home church model? childcare? food? church-owned equipment (general liabilities)?** Either each home incorporates and becomes a church in the network of churches, else the church will be liable for all activities on premise, which could be devastating, especially without any policies or oversights, e.g. in a church, you might have a policy that two adults must accompany a child to the restroom, but in a home, you'll probably never get that.
+1. **How do I run a distributed home church model? childcare? food? church-owned equipment (general liabilities)?** Either each home incorporates and becomes a church in the network of churches, else the church will be liable for all activities on premise, which could be devastating, especially without any policies or oversights, e.g. in a church, you might have a policy that two adults must   accompany a child to the restroom, but in a home, you'll probably never get that.
 
 2. **Legal contracts with indemnification clause so church isn't liable for activities conducted at homes?**
 
@@ -384,23 +388,35 @@ You have two years to opt-out - per new church ordination.
 
 17. How do you create agreement to be sent by church as guest speaker?
 
-18. Hotel room reimbursement - board resolution?
+18. Hotel room reimbursement - is that permitted with board resolution?
 
 19. Donated services and rent are not deductible - they must write a church back to the church.
 
-20. You can use a DBA (Doing Business As) for the Church; ministry-church link.
+20. You can use a DBA (Doing Business As) for the Church; ministry-church link?
 
 21. How to deal with bible study group liabilities, doctrine, activities?
 
 22. Public Support Test of charity - "The organization receives no more than one-third of its support from gross investment income and more than one-third of its support from contributions, membership fees, and gross receipts from activities related to its exempt functions." (http://grantspace.org/tools/knowledge-base/Nonprofit-Management/Establishment/public-support-test)
 
-23. For-profit: Does C Corporation pay corporate tax and then the dividends are simply tax-free?
+23. For-profit: Does C Corporation pay corporate tax and then the dividends are simply tax-free? How about C Corp donations to the church?
 
 24. Who owns the written books?
 
 25. **Intellectual Property and Creative License Agreement** - must be added to the StartChurch program (does not automatically happen).
 
 26. **Can all pastors ordained in your church be provided a Housing allowance?**
+
+27. **Transfers from holdings to church** Maybe 1-2 transactions a year would be okay.
+
+28. **Can I attach profit/loss statement to board meetings?** Yes, to show financial state.
+
+29. **Trey Lewis**: tlewis@startchurch.com
+
+30. **Indemnification: Should spouse have their own policy to protect them?**
+
+31. **Selling books taxable?**: If it's just a book for a series, then its just a resource.
+
+- Ask for Lewis or Dave to get rates and incentives.
 
 ----
 Paying $1,668.58 more and only getting 2 resources.
