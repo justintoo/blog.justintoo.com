@@ -24,7 +24,7 @@ header:
 
 # Summary
 
-The following cost range is bounded between $8,500 (full corp rental) to $18,169.03 (full purchase):
+The following cost range is bounded between $8,500 (full corp rental) to $18,169.03 (full purchase) with break-even ROI in 1-3 years:
 
 |---
 | # | Quality Scenario | Cost | Delta | ROI Break Even | Description
