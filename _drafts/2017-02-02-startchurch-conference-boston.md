@@ -294,6 +294,9 @@ Tithe envelope with suggested gift marking, e.g. "designating this tithe to buil
 ## Restricted
 If the money is given for only one specific thing, it's not tax-deductible.
 
+# Donation of property
+Property Donation Letter - 
+
 # Ministry vs Church?
 
 
