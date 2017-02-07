@@ -17,98 +17,98 @@ tags:
   - wayne mancari
   - ryan althaus
 header:
-  image: /assets/images/posts/2017/01-january/2017-01-28-tbc-unity/cover-tbc-unity.jpg
+  image: /assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/cover-unity-begins-with-u-n-i.jpg
 gallery-1:
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6426.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6426.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6426.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6426.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6430.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6430.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6430.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6430.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6427.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6427.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6427.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6427.jpg
     title: ""
     alt: ""
 gallery-2:    
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6429.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6429.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6429.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6429.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6432.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6432.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6432.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6432.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6433.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6433.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6433.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6433.jpg
     title: ""
     alt: ""
 gallery-3:
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6425.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6425.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6425.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6425.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6428.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6428.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6428.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6428.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6434.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6434.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6434.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6434.jpg
     title: ""
     alt: ""
 gallery-4:
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6448.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6448.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6448.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6448.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6449.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6449.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6449.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6449.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6451.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6451.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6451.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6451.jpg
     title: ""
     alt: ""
 gallery:
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6435.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6435.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6435.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6435.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6436.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6436.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6436.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6436.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6437.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/IMG_6437.jpg
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6437.jpg
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6437.jpg
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
     title: ""
     alt: ""
-  - url: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
-    image_path: assets/images/posts/2017/01-january/2017-01-28-tbc-unity/
+  - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
+    image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/
     title: ""
     alt: ""
 ---
@@ -195,7 +195,7 @@ Personally, I've always had the undying conviction that *the power is in the peo
 
 It's so obvious.
 
-![Quote by Justin Too on the 96%](/assets/images/posts/2017/01-january/2017-01-28-tbc-unity/quote-96-percent-unchurched-untapped.jpg){: .align-center}
+![Quote by Justin Too on the 96%](/assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/quote-96-percent-unchurched-untapped.jpg){: .align-center}
 
 # What got us *here* won't get us *there*
 
@@ -245,4 +245,4 @@ If we begin to plant and be planted in the 96% of our unchurched world, maybe th
 
 Unity begins with U-N-I.
 
-![Quote by Justin Too on being planted in the 96% of our unchurched world](/assets/images/posts/2017/01-january/2017-01-28-tbc-unity/quote-planted-in-unchurched-world.jpg){: .align-center}
+![Quote by Justin Too on being planted in the 96% of our unchurched world](/assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/quote-planted-in-unchurched-world.jpg){: .align-center}

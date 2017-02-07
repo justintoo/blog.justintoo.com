@@ -2,6 +2,8 @@
 title: "WE Church - Statement of Faith"
 ---
 
+# 12 Statements of Faith
+
 On my flight to the StartChurch conference in Boston on February 2, 2017, God provided me with the beginnings of the Statement of Faith for my [WE Church](http:/we.church) church plant. Here's the 12 WE Statements of Faith:
 
 1. [WE](http://whatextent.com) have all been called to fulfill One Commandment called The Great Commandment - to love God and to love one another compelled by the Amazing Love, Grace, and Mercy of God.
@@ -27,3 +29,21 @@ On my flight to the StartChurch conference in Boston on February 2, 2017, God pr
 11. [WE](http://whatextent.com) believe works do not justify a man, but we also believe that the justified man works.
 
 12. [WE](http://whatextent.com) are all conquerors because Our Champion conquered all. So we can Run Our Race on the Righteous Path with full confidence in the faith He has given us.
+
+# Compassion International
+
+We Believe
+
+...in the Holy Scriptures as originally given by God, divinely inspired, infallible, entirely trustworthy; and the supreme authority in all matters of faith and conduct...
+
+*One God*, eternally existent in three persons, Father, Son, and Holy Spirit
+
+Our *Lord Jesus Christ*, God manifest in the flesh, His virgin birth, His sinless human life, His divine miracles, His vicarious and atoning death, His bodily resurrection, His ascension, His mediatorial work, and His Personal return in power and glory...
+
+The *Salvation* of lost and sinful man through the shed blood of the Lord Jesus Christ by faith apart from works, and regeneration by the Holy Spirit...
+
+The *Holy Spirit*, by whose indwelling the believer is enabled to live a holy life, to witness and work for the Lord Jesus Christ...
+
+The *Unity* of the Spirit of all true believers, the Church, the Body of Christ…
+
+The *Resurrection* of both the saved and the lost; they that are saved unto the resurrection of life, they that are lost unto the resurrection of damnation.
