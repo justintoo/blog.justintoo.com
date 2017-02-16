@@ -6,27 +6,10 @@ tags:
   - christianity
   - wisdom
   - wayne mancari
+  - christian leader
   - cathedral of faith
 header:
   image: /assets/images/posts/2017/02-february/2017-02-10-wisdom-to-know-what-to-do-next/cover-wayne-mancari.jpg
-gallery_1:
-  - url: assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/tom-rees.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/tom-rees.jpg
-    title: "Tom Rees"
-    alt: "Tom Rees"
-  - url: assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/vanessa-russell.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/vanessa-russell.jpg
-    title: "Vanessa Russell"
-    alt: "Vanessa Russel"
-gallery_2:
-  - url: assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/dianne-flynn.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/dianne-flynn.jpg
-    title: "Dianne Flynn"
-    alt: "Dianne Flynn"
-  - url: assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/ron-johnson.jpg
-    image_path: assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/ron-johnson.jpg
-    title: "Ron Johnson"
-    alt: "Ron Johnson"
 ---
 
 # Wisdom: The Need to Know
