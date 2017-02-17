@@ -42,10 +42,10 @@ For Skip, what guides him are his E.I.G.H.T personal values:
 
 In the short years of [my work, life, experience, and pursuits](http://justintoo.com), a resounding theme has developed in my life, and I can sum them up in what I'm deeming my four C.A.L.I personal values:
 
-1. **C**ommunity - Doing people- and community-centric things
-2. **A**udacity - Doing bold things, boldly
-3. **L**oyalty - Being committed to doing things
-4. **I**ntegrity - Doing things in both speech and action
+1. **C**ommunity - Doing people- and community-centric things with people and community.
+2. **A**udacity - Doing bold things, boldly.
+3. **L**oyalty - Being committed to doing things. Committed to ourselves, to others, and to God.
+4. **I**ntegrity - Doing things in both speech and action.
 
 The astute reader will notice that all four of my personal values involves *doing*, not just *being*.
 
@@ -81,6 +81,36 @@ And Henry Ford couldn't have been more correct: "Whether you think you can, or y
 
 ## **L**oyalty
 
+[Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) once said, "Loyalty to the country always. Loyalty to the government when it deserves it."
+
+I think we need to adapt this quote for us in Christendom: "Loyalty to the King and Kingdom always. Loyalty to the pastor and church when it deserves it."
+
+![Quote by Justin Too on loyalty to the Kingdom](/assets/images/posts/2017/02-february/2017-02-15-personal-values-define-and-guide-you/quote-loyalty-2.jpg){: .align-center}
+
+I'm not suggesting we are to be heartless and ruthless and always skeptical. But we need to always be on our guard, good stewards of our lives and resources, and strive away from lukewarmness and the blind following of idols.
+
+General Colin Powell gave us a balancing-framework to navigate the act of loyalty: "Loyalty means giving me your honest opinion, whether you think I'll like it or not. Disagreement, at this state, stimulates me. But once a decision is made, the debate ends. From that point on, loyalty means executing the decision as if it were your own."
+
+The important takeaway, after setting off on [the right bus with the right people](http://www.jimcollins.com/article_topics/articles/first-who.html#articletop), is that commitment is non-optional for the health, growth, and revival of the Church. Success comes through focus, focus through commitment, and commitment through loyalty.
+
+![Quote by Justin Too on loyalty](/assets/images/posts/2017/02-february/2017-02-15-personal-values-define-and-guide-you/quote-loyalty.jpg){: .align-center}
+
+In this day and age, loyalty is difficult to come by.
+
+*Some people aren't loyal to you...they are loyal to their need of you...once their need changes, so does their loyalty.* That might ring a bell, especially to my fellow Millennials.
+
+Of course, an important aspect of loyalty is sacrifice. This is how Woodrow Wilson put it: "Loyalty means nothing unless it has at its heart the absolute principle of self-sacrifice."
+
+But loyalty is a two-way street, and I fear many churches and church-leaders have become used to a ministry operation that is, in truth and reality, self-centered. However accidental, church members are being used and abused. And when one of us burns us, we are tossed aside and replaced. It's ironic: In church, the demands of its ministry for the sake of lost people tend to outweigh the need for caring compassion for its own found people.
+
+![Quote by Justin Too on loyalty](/assets/images/posts/2017/02-february/2017-02-15-personal-values-define-and-guide-you/quote-loyalty-3.jpg){: .align-center}
+
+My intentions are not to paint a dark and cloudy picture, but rather to contrast a stark reality with a bright and hopeful future: *Love is friendship that has caught fire. It is quiet understanding, mutual confidence, sharing and forgiving. It is loyalty through good and bad times. It settles for less than perfection and makes allowances for human weaknesses.* (Ann Landers)
+
+Loyalty is essential, however tricky an obstacle it is to navigate.
+
+*If loyalty is, and always has been, perceived as obsolete, why do we continue to praise it? Because loyalty is essential to the most basic things that make life livable. Without loyalty there can be no love. Without loyalty there can be no family. Without loyalty there can be no friendship. Without loyalty there can be no commitment to community or country. And without those things, there can be no society.* (Eric Felten)
+
 ## **I**ntegrity
 
 Integrity was best explained to me first and best by [John W. Thompson](https://en.wikipedia.org/wiki/John_W._Thompson): "Integrity is doing what you say, and saying what you do."
@@ -91,33 +121,50 @@ Shortly after my [Junior Achievement](https://www.juniorachievement.org) intervi
 
 ![Quote by John W. Thompson on Integrity ](/assets/images/posts/2017/02-february/2017-02-15-personal-values-define-and-guide-you/quote-john-thompson.jpg){: .align-center}
 
+For the Church, our strategy is two-fold:
 
-# C.A.L.I.F.O.R.N.I.A
+1. Share the Gospel with our words
+2. Share the Gospel with our lives
 
-1. **C**ommunity - Doing people- and community-centric things
-2. **A**udacity - Doing bold things, boldly
-3. **L**oyalty - Being committed to doing things
-4. **I**ntegrity - Doing things in both speech and action
-5. Focused - Once he sets his mind on something, he doesn't change. (Strategic Focus)
-6. Obsessed
-7. Reckless - Jeremy Camp Song
-8. Nuclear -
-9. Intense -
-10. Active -
+And that takes integrity. Integrity of words, and integrity for our words.
 
+![Quote by Justin Too on integrity](/assets/images/posts/2017/02-february/2017-02-15-personal-values-define-and-guide-you/quote-integrity.jpg){: .align-center}
 
+# C.A.L.I.F.O.R.N.I.A.N
 
-## Dad
-Focused
-Reliable
-Attention to detail
-Excellent mentor
-Motivator
-Excellent Role Model
-Humble
-Unassuming
+I won't go into detail now, but of course, being me, there's a longer side to the short story:
 
-## Mom
-Audacious
-Tenacious
-Adamant
+1. **C**ommunity
+2. **A**udacity
+3. **L**oyalty
+4. **I**ntegrity
+5. **F**ocused
+6. **O**bsessed
+7. [**R**eckless](https://youtu.be/wThyGZXJDYo)
+8. **N**urturing
+9. **I**ntense
+10. **A**ctive
+11. **N**ewborn
+
+These adjectives describe my C.A.L.I.F.O.R.N.I.A.N. identity quite well.
+
+# Me, According to 10 People Close to Me
+
+I made an ask on Facebook: "If you know me, I would really value your input: I'm asking people close to me to describe my character and personality."
+
+<center>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdoubleotoo%2Fposts%2F10155028888704803&width=500" width="500" height="251" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</center>
+
+I received 10 responses that I personally feel represents who I am quite well:
+
+1. Thinker, go getter, talkative, excitable, giver, adventurer, smart
+2. Ambitious, driven, God fearing.
+3. Giving, kind, God loving!
+4. Passionate, Positive, Persistent, Prayerful, Patient & Faithful, Loyal, Dedicated, Bicycle Beast
+5. Encouraging, kind, Man of God!
+6. You are a person of integrity faithful and an encourager stand firm in whom your faith is in Jesus.
+7. Determined, committed, extreme, persevering, intense, serious, sincere and passionate.
+8. Passionate, humble, detail-attentive, compassionate, kind, supportive, brotherly, sharp (bright, intelligent, stylish), strong (in mind, in body, in spirit).
+9. Educational, uplifting, kind, sincerely a joy to be around, and best of all godly!and determined not to fail to teach us all to dream big #princecharming
+10. Mentor great role model to my son... Thank you so much and many blessings.
