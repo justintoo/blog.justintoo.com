@@ -55,7 +55,7 @@ The astute reader will notice that all four of my personal values involves *doin
 
 Community has always been a core value of mine - family, friends, people - and it's what underpins the work, vision, and passion of my [ecclesiastical social enterprise](http://whatextent.com/), which is really just the life God has called me to lead.
 
-And in my work and life, I hold a deep a conviction that community is built by empowering people. As individuals succeed, teams succeed. As people thrive, communities thrive.
+And in my work and life, I hold a deep conviction that community is built by empowering people. As individuals succeed, teams succeed. As people thrive, communities thrive.
 
 I think, as a church, we've convoluted *the strategy* and we need to get back to first principles.
 
