@@ -16,6 +16,7 @@ tags:
   - B&H
 header:
   image: /assets/images/posts/2017/01-january/2017-01-05-svpb-av-projectors/cover-svpb.jpg
+  teaser: /assets/images/posts/2017/01-january/2017-01-05-svpb-av-projectors/cover-svpb.jpg
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}

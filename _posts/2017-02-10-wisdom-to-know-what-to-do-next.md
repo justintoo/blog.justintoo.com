@@ -10,6 +10,7 @@ tags:
   - cathedral of faith
 header:
   image: /assets/images/posts/2017/02-february/2017-02-10-wisdom-to-know-what-to-do-next/cover-wayne-mancari.jpg
+  teaser: /assets/images/posts/2017/02-february/2017-02-10-wisdom-to-know-what-to-do-next/cover-wayne-mancari.jpg
 ---
 
 # Wisdom: The Need to Know

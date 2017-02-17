@@ -17,6 +17,7 @@ tags:
 header:
   image: /assets/images/posts/2017/01-january/2017-01-05-svpb-av-projectors/cover-svpb.jpg
   caption: "Lighting"
+  teaser: /assets/images/posts/2017/01-january/2017-01-05-svpb-av-projectors/cover-svpb.jpg
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}

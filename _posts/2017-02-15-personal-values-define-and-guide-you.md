@@ -13,6 +13,7 @@ tags:
   - personal values
 header:
   image: /assets/images/posts/2017/02-february/2017-02-15-personal-values-define-and-guide-you/cover-skip-vaccarello.jpg
+  teaser: /assets/images/posts/2017/02-february/2017-02-15-personal-values-define-and-guide-you/cover-skip-vaccarello.jpg
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}

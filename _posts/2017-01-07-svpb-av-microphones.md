@@ -18,6 +18,7 @@ tags:
 header:
   image: /assets/images/posts/2017/01-january/2017-01-07-svpb-av-microphones/cover-shure-wireless-mic.jpg
   caption: "Wireless Microphone"
+  teaser: /assets/images/posts/2017/01-january/2017-01-07-svpb-av-microphones/cover-shure-wireless-mic.jpg
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}

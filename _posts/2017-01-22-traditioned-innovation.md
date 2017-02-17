@@ -14,6 +14,7 @@ tags:
   - traditioned innovation
 header:
   image: /assets/images/posts/2017/01-january/2017-01-22-traditioned-innovation/cover-traditioned-innovation.jpg
+  teaser: /assets/images/posts/2017/01-january/2017-01-22-traditioned-innovation/cover-traditioned-innovation.jpg
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}

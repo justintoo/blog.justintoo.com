@@ -10,6 +10,7 @@ tags:
   - silicon valley prayer breakfast
 header:
   image: /assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/cover-ron-johnson.jpg
+  teaser: /assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/cover-ron-johnson.jpg
 gallery_1:
   - url: assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/tom-rees.jpg
     image_path: assets/images/posts/2017/01-january/2017-01-29-our-pool-of-tears/tom-rees.jpg

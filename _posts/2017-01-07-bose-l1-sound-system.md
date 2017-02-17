@@ -17,6 +17,7 @@ tags:
 header:
   image: /assets/images/posts/2017/01-january/2017-01-07-bose-l1-sound-system/cover-bose-l1-speaker.jpg
   caption: "Bose L1 Speakers"
+  teaser: /assets/images/posts/2017/01-january/2017-01-07-bose-l1-sound-system/cover-bose-l1-speaker.jpg
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}

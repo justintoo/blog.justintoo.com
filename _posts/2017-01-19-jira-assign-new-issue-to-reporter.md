@@ -12,6 +12,7 @@ tags:
 header:
   image: /assets/images/posts/2017/01-january/2017-01-19-jira-assign-new-issue-to-reporter/cover-jira-post-functions.jpg
   caption: "Assign issue to reporter using JIRA Post Functions"
+  teaser: /assets/images/posts/2017/01-january/2017-01-19-jira-assign-new-issue-to-reporter/cover-jira-post-functions.jpg
 gallery:
   - url:  assets/images/posts/2017/01-january/2017-01-19-jira-assign-new-issue-to-reporter/jira-screenshot-1.png
     image_path:  assets/images/posts/2017/01-january/2017-01-19-jira-assign-new-issue-to-reporter/jira-screenshot-1.png

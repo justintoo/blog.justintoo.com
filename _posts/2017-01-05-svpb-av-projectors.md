@@ -17,6 +17,7 @@ tags:
 header:
   image: /assets/images/posts/2017/01-january/2017-01-07-projector-optoma-eh416/cover-projector-optoma-eh416.jpg
   caption: "Multimedia Projectors"
+  teaser: /assets/images/posts/2017/01-january/2017-01-07-projector-optoma-eh416/cover-projector-optoma-eh416.jpg
 ---
 
 *This article is part of multipart series: [Researching A/V Equipment for the Silicon Valley Prayer Breakfast (SVPB)]({% post_url 2017-01-07-svpb-av %}).*

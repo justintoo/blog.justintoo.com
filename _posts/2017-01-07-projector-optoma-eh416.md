@@ -15,6 +15,7 @@ tags:
 header:
   image: /assets/images/posts/2017/01-january/2017-01-07-projector-optoma-eh416/cover-projector-optoma-eh416.jpg
   caption: "Optoma EH416"
+  teaser: /assets/images/posts/2017/01-january/2017-01-07-projector-optoma-eh416/cover-projector-optoma-eh416.jpg
 ---
 
 |---

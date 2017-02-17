@@ -3,7 +3,7 @@ title: "What's Emerging in the Future of the Church?"
 comments: true
 header:
   image: /assets/images/posts/2016/12-december/2016-12-15-whats-emerging-in-the-future-of-the-church/future-of-the-church.jpg
-  teaser:
+  teaser: /assets/images/posts/2016/12-december/2016-12-15-whats-emerging-in-the-future-of-the-church/future-of-the-church.jpg
 categories:
   - Featured
   - Faith

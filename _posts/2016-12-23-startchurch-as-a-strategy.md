@@ -3,6 +3,7 @@ title: "StartChurch.com as a Christian Social Entrepreneur's Strategy for Tax & 
 comments: true
 header:
   image: /assets/images/posts/2016/12-december/2016-12-23-starchurch-dot-com/screenshot-startchurch-dot-com.jpg
+  teaser: /assets/images/posts/2016/12-december/2016-12-23-starchurch-dot-com/screenshot-startchurch-dot-com.jpg
 categories:
   - Faith
   - Business

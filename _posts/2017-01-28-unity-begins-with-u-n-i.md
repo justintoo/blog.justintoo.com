@@ -18,6 +18,7 @@ tags:
   - ryan althaus
 header:
   image: /assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/cover-unity-begins-with-u-n-i.jpg
+  teaser: /assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/cover-unity-begins-with-u-n-i.jpg
 gallery-1:
   - url: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6426.jpg
     image_path: assets/images/posts/2017/01-january/2017-01-28-unity-begins-with-u-n-i/IMG_6426.jpg

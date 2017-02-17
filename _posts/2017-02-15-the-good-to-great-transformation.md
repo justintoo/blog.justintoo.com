@@ -9,6 +9,7 @@ tags:
   - good to great
 header:
   image: /assets/images/posts/2017/02-february/2017-02-15-the-good-to-great-transformation/cover-good-to-great.jpg
+  teaser: /assets/images/posts/2017/02-february/2017-02-15-the-good-to-great-transformation/cover-good-to-great.jpg
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}
