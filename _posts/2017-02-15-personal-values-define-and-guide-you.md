@@ -97,11 +97,11 @@ The important takeaway, after setting off on [the right bus with the right peopl
 
 In this day and age, loyalty is difficult to come by.
 
-*Some people aren't loyal to you...they are loyal to their need of you...once their need changes, so does their loyalty.* That might ring a bell, especially to my fellow Millennials.
+*Some people aren't loyal to you...they are loyal to their need of you...once their need changes, so does their loyalty.* That might ring a bell, especially to my fellow [Millennials](https://en.wikipedia.org/wiki/Millennials).
 
 Of course, an important aspect of loyalty is sacrifice. This is how Woodrow Wilson put it: "Loyalty means nothing unless it has at its heart the absolute principle of self-sacrifice."
 
-But loyalty is a two-way street, and I fear many churches and church-leaders have become used to a ministry operation that is, in truth and reality, self-centered. However accidental, church members are being used and abused. And when one of us burns us, we are tossed aside and replaced. It's ironic: In church, the demands of its ministry for the sake of lost people tend to outweigh the need for caring compassion for its own found people.
+But loyalty is a two-way street, and I fear many churches and church-leaders have become used to a ministry operation that is, in truth and reality, self-centered. However accidental, church members are being used and abused. And when one of us burns out we are tossed aside and replaced. It's ironic: In church, the demands of its ministry for the sake of lost people tend to outweigh the need for caring compassion for its own found people.
 
 ![Quote by Justin Too on loyalty](/assets/images/posts/2017/02-february/2017-02-15-personal-values-define-and-guide-you/quote-loyalty-3.jpg){: .align-center}
 
