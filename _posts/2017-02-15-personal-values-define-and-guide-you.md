@@ -131,7 +131,7 @@ And that takes integrity. Integrity of words, and integrity for our words.
 
 ![Quote by Justin Too on integrity](/assets/images/posts/2017/02-february/2017-02-15-personal-values-define-and-guide-you/quote-integrity.jpg){: .align-center}
 
-# C.A.L.I.F.O.R.N.I.A.N
+# My C.A.L.I.F.O.R.N.I.A.N Identity
 
 I won't go into detail now, but of course, being me, there's a longer side to the short story:
 
@@ -169,3 +169,19 @@ I received 10 responses that I personally feel represents who I am quite well:
 8. Passionate, humble, detail-attentive, compassionate, kind, supportive, brotherly, sharp (bright, intelligent, stylish), strong (in mind, in body, in spirit).
 9. Educational, uplifting, kind, sincerely a joy to be around, and best of all godly!and determined not to fail to teach us all to dream big #princecharming
 10. Mentor great role model to my son... Thank you so much and many blessings.
+
+# My Wife K.H.R.I.S.T.Y
+
+For fun, and out of curiosity, I did this exercise with my wife, Khristy.
+
+And first, we were simply brainstorming with no real sense of direction for an acronym. But as the first three words came out - "kind," "honest," "responsible" - it was clear what God had in store:
+
+1. **K**indness
+2. **H**onesty
+3. **R**esponsible
+4. **I**ncouraging
+5. **S**upportive
+6. **T**houghtful
+7. **Y**unique
+
+These 7 personal values and characteristics truly define my wife to her very core :)
