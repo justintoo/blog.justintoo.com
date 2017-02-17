@@ -184,4 +184,4 @@ And first, we were simply brainstorming with no real sense of direction for an a
 6. **T**houghtful
 7. **Y**unique
 
-These 7 personal values and characteristics truly define my wife to her very core :)
+These 7 personal values and characteristics truly define my wife to her very core - particularly the creative touches :)
