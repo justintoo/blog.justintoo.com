@@ -36,7 +36,9 @@ Charles R. Swindoll explained it best: "Life is 10% what happens to you and 90% 
 
 ![Quote by Charles R. Swindoll on life](/assets/images/posts/2017/02-february/2017-02-18-adversity-training/quote-life-is-10-percent.jpg){: .align-center}
 
-We can't always choose what happens to us because many things are out of our own control, but what we can control, we must control. [Kenneth Wun](https://www.linkedin.com/in/kenneth-wun-0b57422/), one of the other Breakfast guests, said it plainly: "If you think you can, you can. If you think you can't, you can't."
+We can't always choose what happens to us because many things are out of our own control, but what we can control, we must control.
+
+[Kenneth Wun](https://www.linkedin.com/in/kenneth-wun-0b57422/), one of the other Breakfast guests, said it plainly: "If you think you can, you can. If you think you can't, you can't."
 
 The discipline of dealing with adversity requires mental strength, determination, and resilience. But more than those things, combatting adversity requires a fine-tuned perspective.
 
