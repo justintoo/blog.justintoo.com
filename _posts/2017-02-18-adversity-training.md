@@ -1,7 +1,8 @@
 ---
 title: Adversity Training
+excerpt: How do you deal with adversity?
 categories:
-  - Business
+  - Faith
 tags:
   - hoadley executive fellowship breakfast
   - adversity
