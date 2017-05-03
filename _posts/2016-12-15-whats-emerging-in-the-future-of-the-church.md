@@ -121,6 +121,7 @@ The following is a growing list of my blog posts in my journey to piece together
 4. [Ephesians 2:10: God’s Workmanship and Our Works]({% post_url 2016-12-26-ephesians-2-10-our-works %})
 5. [The Missional Church: In the City for the City]({% post_url 2017-01-17-the-missional-church %})
 6. [Holy Ambition: Turning God-Shaped Dreams Into Reality]({% post_url 2017-01-21-holy-ambition %})
+7. [Unity begins with U-N-I]({% post_url 2017-01-28-unity-begins-with-u-n-i %})
 
 ## Related People
 
@@ -134,6 +135,7 @@ The following is a growing list of my blog posts in my journey to piece together
 | 5 | [Mark Driscoll](https://en.wikipedia.org/wiki/Mark_Driscoll) | An American evangelical Christian pastor, author, and the former pastor of Mars Hill Church, a megachurch in Seattle, Washington; pastoring The Trinity Church in Scottsdale, Arizona.
 | 6 | [Doug Pagitt](https://en.wikipedia.org/wiki/Doug_Pagitt) |
 | 7 | [Brian McLaren](https://en.wikipedia.org/wiki/Brian_McLaren)
+| 8 | [Dr. Ernie Prabhakar](https://2transform.us/bio/)
 |---
 
 ## Related Organizations
@@ -142,6 +144,7 @@ The following is a growing list of my blog posts in my journey to piece together
 | # | Organization
 |-|-
 | 1 | [Emergent Village](https://twitter.com/emergentvillage) | A growing, generative friendship among missional Christians seeking to love our world in the Spirit of Jesus Christ
+| 2 | [D-Church](https://groups.google.com/forum/#!forum/d-church)
 |---
 
 ## Related Books
