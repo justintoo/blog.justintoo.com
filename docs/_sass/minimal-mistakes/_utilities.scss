@@ -483,7 +483,7 @@ a.reversefootnote {
 
 /*
    Responsive Video Embed
-      ========================================================================== */
+   ========================================================================== */
 
 .responsive-video-container {
   position: relative;
@@ -504,3 +504,21 @@ a.reversefootnote {
   }
 }
 
+// full screen video fixes
+:-webkit-full-screen-ancestor {
+   .masthead,
+   .page__footer {
+    position: static;
+  }
+}
+
+/*
+   Responsive Google Presentation Embed
+      as seen in http://dev-notes.eu/2016/09/embed-google-slides-in-jekyll/
+      ========================================================================== */
+
+.responsive-google-presentation-container {
+  iframe {
+    max-width: 100%;
+  }
+}
