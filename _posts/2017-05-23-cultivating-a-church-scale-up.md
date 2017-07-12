@@ -10,9 +10,6 @@ tags:
   - scale-up
   - start-up
   - church
-header:
-  image: /assets/images/posts/2017/05-may/2017-05-03-the-ultraendurance-bond-of-empathy/quote-ultraendurance-bond-of-empathy.jpg
-  teaser: /assets/images/posts/2017/05-may/2017-05-03-the-ultraendurance-bond-of-empathy/quote-ultraendurance-bond-of-empathy.jpg
 ---
 
 {% include toc title="Table of Contents" icon="file-text" %}
