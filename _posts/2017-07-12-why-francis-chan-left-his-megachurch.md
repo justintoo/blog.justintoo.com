@@ -16,8 +16,6 @@ header:
 
 {% include toc title="Table of Contents" icon="file-text" %}
 
-# Why Francis Chan Left His Megachurch
-
 This short 10-minute video of Francis Chan speaking to Facebook employees hits near to home for me.
 
 Here's a good summary from [ChurchLeaders.com](http://churchleaders.com/news/306138-francis-chan-facebook-employees-asked-god-make-rich-left-megachurch.html):
