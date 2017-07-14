@@ -18,6 +18,8 @@ header:
 
 This short 10-minute video of Francis Chan speaking to Facebook employees hits near to home for me.
 
+{% include video id="VyZx_SSOyfI" provider="youtube" %}
+
 Here's a good summary from [ChurchLeaders.com](http://churchleaders.com/news/306138-francis-chan-facebook-employees-asked-god-make-rich-left-megachurch.html):
 
 > Previously, Chan led a church in Southern California that grew to 5,000 people. At first, Chan said, it was great. He could preach a sermon every Sunday and the church just grew and grew. But something bothered him about the church eventually. “According to the Bible, every single one of these people has a supernatural gift that’s meant to be used for the body,” Chan remembers thinking. Yet what he saw at that church was that most people showed up every Sunday just to see his gift. “That’s a huge waste,” Chan realized. Additionally, it cost millions of dollars to run the church while people in other countries run churches for free.
