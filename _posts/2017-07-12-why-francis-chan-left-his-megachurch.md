@@ -1,5 +1,5 @@
 ---
-title: The Mega Church
+title: Why Francis Chan Left His Megachurch
 excerpt:
 categories:
   - Faith
@@ -43,8 +43,8 @@ Every single of of us has a unique calling, but how many people actually believe
 
 The problem is we don't believe it because we don't know how to live it. If it never happens, how long can we expect Christians to keep believing it?
 
-I don't think the problem is simply that churches don't teach it, but rather, churches don't empower members to live it. The church should be a platform, a launching pads of sorts.
+I don't think the problem is simply that churches don't teach it, but rather, churches don't empower members to live it. The church should be a platform, a launching pad of sorts.
 
 If the church focused more on incubating Christians instead of entertaining, we could unleash the supernatural gifts that God has granted each of us that will empower our faith in ourselves and in our calling, which will in turn, empower our faith in Him and His supernatural will, purposes, and power.
 
-Each of us operating in our supernatural gifts according to His supernatural plans, now that would be a mega church.
+Each of us operating in our supernatural gifts according to His supernatural plans and power, now that would be a mega church.
