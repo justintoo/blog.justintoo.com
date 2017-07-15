@@ -100,7 +100,7 @@ In the Church, it should be no different. *The power is in the people.* In fact,
 
 But what we need now are churches that can *employ* and *deploy* God's people to use their raw purpose, passion, and talent. Perhaps we can realize a global scale once our secret weapons are engaged.
 
-God's people need to take place their place as the Church's secret sauce for scaling-up.
+God's people need to take their place as the Church's secret sauce for scaling-up.
 
 # Stop Engineering
 
